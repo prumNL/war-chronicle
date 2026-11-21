@@ -1,0 +1,74 @@
+{
+  "date": "1939-11-10",
+  "edition_number": 71,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:05+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Hitler flew for the first time in his new personal transport plane – an Fw 200A-0 named Immelmann III after the World War I flying ace Max Immelmann.",
+      "links": [
+        {
+          "title": "Focke-Wulf Fw 200 Condor",
+          "url": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_200_Condor"
+        },
+        {
+          "title": "Max Immelmann",
+          "url": "https://en.wikipedia.org/wiki/Max_Immelmann"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The United States Circuit Court of Appeals in Philadelphia unanimously ruled that schoolchildren did not have to salute the American flag if such action conflicted with their religious beliefs.",
+      "links": [
+        {
+          "title": "Philadelphia",
+          "url": "https://en.wikipedia.org/wiki/Philadelphia"
+        },
+        {
+          "title": "Bellamy salute",
+          "url": "https://en.wikipedia.org/wiki/Bellamy_salute"
+        },
+        {
+          "title": "Flag of the United States",
+          "url": "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Russell Means, Native American activist, on the Pine Ridge Indian Reservation, South Dakota (d. 2012)",
+      "links": [
+        {
+          "title": "Russell Means",
+          "url": "https://en.wikipedia.org/wiki/Russell_Means"
+        },
+        {
+          "title": "Pine Ridge Indian Reservation",
+          "url": "https://en.wikipedia.org/wiki/Pine_Ridge_Indian_Reservation"
+        },
+        {
+          "title": "South Dakota",
+          "url": "https://en.wikipedia.org/wiki/South_Dakota"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Charlotte Despard, 95, Scottish-born Anglo-Irish suffragist",
+      "links": [
+        {
+          "title": "Charlotte Despard",
+          "url": "https://en.wikipedia.org/wiki/Charlotte_Despard"
+        }
+      ]
+    }
+  ]
+}

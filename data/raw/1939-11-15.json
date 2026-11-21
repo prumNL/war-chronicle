@@ -1,0 +1,72 @@
+{
+  "date": "1939-11-15",
+  "edition_number": 76,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:25+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of South Guangxi began.",
+      "links": [
+        {
+          "title": "Battle of South Guangxi",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_South_Guangxi"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German heavy cruiser Deutschland was renamed Lützow, both to confuse enemy intelligence and to avoid the potential damage to national pride that would occur if a ship bearing the name of the country were to be sunk in action.",
+      "links": [
+        {
+          "title": "German cruiser Deutschland",
+          "url": "https://en.wikipedia.org/wiki/German_cruiser_Deutschland"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A funeral held in Prague for Jan Opletal turned into another spontaneous anti-Nazi demonstration.",
+      "links": [
+        {
+          "title": "Prague",
+          "url": "https://en.wikipedia.org/wiki/Prague"
+        },
+        {
+          "title": "Jan Opletal",
+          "url": "https://en.wikipedia.org/wiki/Jan_Opletal"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Mayor of Long Beach, California Louis F. Edwards was assassinated by a police officer who had lost his bid for president of the local Patrolmen's Benevolent Association to a candidate Edwards supported.",
+      "links": [
+        {
+          "title": "Long Beach, California",
+          "url": "https://en.wikipedia.org/wiki/Long_Beach,_California"
+        },
+        {
+          "title": "Patrolmen's Benevolent Association",
+          "url": "https://en.wikipedia.org/wiki/Patrolmen%27s_Benevolent_Association"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Yaphet Kotto, actor, in New York City (d. 2021)",
+      "links": [
+        {
+          "title": "Yaphet Kotto",
+          "url": "https://en.wikipedia.org/wiki/Yaphet_Kotto"
+        }
+      ]
+    }
+  ]
+}

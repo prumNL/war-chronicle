@@ -1,0 +1,48 @@
+{
+  "date": "1939-11-10",
+  "number": 71,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler vloog voor de eerste keer in zijn nieuwe persoonlijke transportvliegtuig... een Fw…",
+      "location": "",
+      "body": [
+        "Hitler vloog voor de eerste keer in zijn nieuwe persoonlijke transportvliegtuig... een Fw 200A-0 genaamd Immelmann III na de Eerste Wereldoorlog."
+      ],
+      "context": "De Condor-Wulf Fw 200, ook wel Kurier van de Geallieerden genoemd, is een volledig metalen viermotorig monoplane ontworpen en geproduceerd door de Duitse vliegtuigfabrikant Focke-Wulf. Het was het eerste zwaardere vliegtuig dat non-stop vloog tussen Berlijn en New York City, ongeveer 4000 mijl (6400 km), waardoor de vlucht van Berlijn-Staaken naar Floyd Bennett Field op 10/11 augustus 1938 in 24 uur en 56 minuten.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler flew for the first time in his new personal transport plane – an Fw 200A-0 named Immelmann III after the World War I flying ace Max Immelmann.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Focke-Wulf Fw 200 Condor (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_200_Condor"
+        }
+      ]
+    },
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "Charlotte Despard (95), Schots geboren Anglo-Ierse suffragest"
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: Charlotte Despard, 95, Scottish-born Anglo-Irish suffragist",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        }
+      ]
+    }
+  ]
+}

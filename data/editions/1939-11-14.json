@@ -1,0 +1,52 @@
+{
+  "date": "1939-11-14",
+  "number": 75,
+  "articles": [
+    {
+      "section": "Nederland en de bezetting",
+      "headline": "Joachim von Ribbentrop informeerde de Belgische en Nederlandse gezanten dat Duitsland hun…",
+      "location": "",
+      "body": [
+        "Joachim von Ribbentrop informeerde de Belgische en Nederlandse gezanten dat Duitsland hun gezamenlijke bemiddelingsaanbod afwees op basis van de antwoorden die reeds uit Groot-Brittannië en Frankrijk werden gegeven."
+      ],
+      "context": "Ulrich Friedrich-Wilhelm Joachim von Ribbentrop was een Duitse politicus, diplomaat en oorlogsmisdadiger die van 1938 tot 1945 minister van Buitenlandse Zaken van Nazi-Duitsland was.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Joachim von Ribbentrop informed the Belgian and Dutch envoys that Germany was turning down their joint mediation offer based on the responses already made from Britain and France.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Joachim von Ribbentrop (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "Een olieraffinaderijbrand in Lagunillas, Venezuela doodde 500 mensen en vernietigde…",
+      "location": "",
+      "body": [
+        "Een olieraffinaderijbrand in Lagunillas, Venezuela doodde 500 mensen en vernietigde de stad."
+      ],
+      "context": "Venezuela, officieel de Bolivariaanse Republiek Venezuela, is een land aan de noordkust van Zuid-Amerika, bestaande uit een continentale landmassa en verschillende eilanden en eilandjes in de Caribische Zee. Het heeft een oppervlakte van 912,050 km2 en een bevolking van naar schatting 31,8 miljoen inwoners in 2025.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "An oil refinery fire in Lagunillas, Venezuela killed 500 people and destroyed the town.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Venezuela (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Venezuela"
+        }
+      ]
+    }
+  ]
+}

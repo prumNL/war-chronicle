@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-22",
+  "number": 83,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "De Poolse regering verhuisde van Parijs naar Angers",
+      "location": "",
+      "body": [
+        "De Poolse regering verhuisde van Parijs naar Angers."
+      ],
+      "context": "De regering van de Republiek Polen in ballingschap werd gevormd in de nasleep van de invasie in september 1939 en de daaropvolgende bezetting van Polen door nazi-Duitsland, de Sovjet-Unie en de Slowaakse Republiek, die een einde maakte aan de Tweede Poolse Republiek.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Polish government-in-exile moved from Paris to Angers.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Polish government-in-exile (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Polish_government-in-exile"
+        }
+      ]
+    }
+  ]
+}

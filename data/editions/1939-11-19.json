@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-19",
+  "number": 80,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Een officiële Duitse communie kondigde aan dat er barricades rond het getto van Warschau…",
+      "location": "",
+      "body": [
+        "Een officiële Duitse communie kondigde aan dat er barricades rond het getto van Warschau waren opgericht en dat Joodse districten onder strikte controle zouden worden geplaatst."
+      ],
+      "context": "Het getto van Warschau was de grootste van de nazi-getto's tijdens de Tweede Wereldoorlog en de Holocaust. Het werd opgericht in november 1940 door de Duitse autoriteiten op het nieuwe grondgebied van de regering van bezet Polen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "An official German communique announced that barricades had been erected around the Warsaw Ghetto and that Jewish districts would be placed under strict control.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Warsaw Ghetto (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Warsaw_Ghetto"
+        }
+      ]
+    }
+  ]
+}

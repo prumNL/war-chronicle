@@ -1,0 +1,94 @@
+{
+  "date": "1939-11-11",
+  "edition_number": 72,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:08+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Hitler appeared unexpectedly in Munich at the funeral for the victims of the Bürgerbräukeller bombing. He stayed only a few minutes to hear Rudolf Hess deliver the eulogy and then left without speaking.",
+      "links": [
+        {
+          "title": "Munich",
+          "url": "https://en.wikipedia.org/wiki/Munich"
+        },
+        {
+          "title": "Bürgerbräukeller",
+          "url": "https://en.wikipedia.org/wiki/B%C3%BCrgerbr%C3%A4ukeller"
+        },
+        {
+          "title": "Rudolf Hess",
+          "url": "https://en.wikipedia.org/wiki/Rudolf_Hess"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Nazis burned down the Ezras Israel Synagogue in Łódź.",
+      "links": [
+        {
+          "title": "Ezras Israel Synagogue",
+          "url": "https://en.wikipedia.org/wiki/Ezras_Israel_Synagogue"
+        },
+        {
+          "title": "Łódź",
+          "url": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Ostrów Mazowiecka massacre: up to 600 Jews massacred by the German police in Ostrów Mazowiecka in German-occupied Poland.",
+      "links": [
+        {
+          "title": "Ostrów Mazowiecka massacre",
+          "url": "https://en.wikipedia.org/wiki/Ostr%C3%B3w_Mazowiecka_massacre"
+        },
+        {
+          "title": "Ostrów Mazowiecka",
+          "url": "https://en.wikipedia.org/wiki/Ostr%C3%B3w_Mazowiecka"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Although Britain did not hold an official Armistice Day ceremony at the Whitehall Cenotaph this year, wreaths were laid on behalf of the King and Queen and people still came to leave flowers. There was no official two minutes' silence at 11 a.m. either, but Britons publicly observed it anyway.",
+      "links": [
+        {
+          "title": "Armistice Day",
+          "url": "https://en.wikipedia.org/wiki/Armistice_Day"
+        },
+        {
+          "title": "The Cenotaph, Whitehall",
+          "url": "https://en.wikipedia.org/wiki/The_Cenotaph,_Whitehall"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Queen Elizabeth made a broadcast to the women of the British Empire reminding them that in the war \"we, no less than men, have real and vital work to do.\"",
+      "links": [
+        {
+          "title": "Queen Elizabeth The Queen Mother",
+          "url": "https://en.wikipedia.org/wiki/Queen_Elizabeth_The_Queen_Mother"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Jan Opletal, 24, Czech student (died of gunshot wound sustained during the October 28 demonstrations in Prague)",
+      "links": [
+        {
+          "title": "Jan Opletal",
+          "url": "https://en.wikipedia.org/wiki/Jan_Opletal"
+        }
+      ]
+    }
+  ]
+}

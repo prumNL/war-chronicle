@@ -1,0 +1,67 @@
+{
+  "date": "1939-11-18",
+  "edition_number": 79,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:33+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Dutch liner Simon Bolivar set off two magnetic mines, which sank her 20 miles off Harwich, England. 86 lives were lost out of the 400 on board. The British accused the Germans of laying the mines in violation of Article VIII of the 1907 Hague Conventions, which forbade using mines in circumstances likely to endanger commercial shipping.",
+      "links": [
+        {
+          "title": "SS Simon Bolivar",
+          "url": "https://en.wikipedia.org/wiki/SS_Simon_Bolivar"
+        },
+        {
+          "title": "Harwich",
+          "url": "https://en.wikipedia.org/wiki/Harwich"
+        },
+        {
+          "title": "Hague Conventions of 1899 and 1907",
+          "url": "https://en.wikipedia.org/wiki/Hague_Conventions_of_1899_and_1907"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Nazis closed all the technical schools in the former Czechoslovakia.",
+      "links": []
+    },
+    {
+      "kind": "born",
+      "text": "Born: Margaret Atwood, novelist, poet and environmental activist, in Ottawa, Ontario, Canada; Amanda Lear, French model, actress and singer, in either Saigon or Hong Kong; Brenda Vaccaro, actress, in Brooklyn, New York",
+      "links": [
+        {
+          "title": "Margaret Atwood",
+          "url": "https://en.wikipedia.org/wiki/Margaret_Atwood"
+        },
+        {
+          "title": "Ottawa",
+          "url": "https://en.wikipedia.org/wiki/Ottawa"
+        },
+        {
+          "title": "Amanda Lear",
+          "url": "https://en.wikipedia.org/wiki/Amanda_Lear"
+        },
+        {
+          "title": "Saigon",
+          "url": "https://en.wikipedia.org/wiki/Saigon"
+        },
+        {
+          "title": "Brenda Vaccaro",
+          "url": "https://en.wikipedia.org/wiki/Brenda_Vaccaro"
+        },
+        {
+          "title": "Brooklyn",
+          "url": "https://en.wikipedia.org/wiki/Brooklyn"
+        }
+      ]
+    }
+  ]
+}

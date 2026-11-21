@@ -1,0 +1,62 @@
+{
+  "date": "1939-11-01",
+  "edition_number": 62,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:33+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Chinese forces launched the Winter Offensive on multiple fronts against the Imperial Japanese Army.",
+      "links": [
+        {
+          "title": "1939–40 Winter Offensive",
+          "url": "https://en.wikipedia.org/wiki/1939%E2%80%9340_Winter_Offensive"
+        },
+        {
+          "title": "Imperial Japanese Army",
+          "url": "https://en.wikipedia.org/wiki/Imperial_Japanese_Army"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A royal decree in the Netherlands established martial law in key regions mostly along the German-Dutch border.",
+      "links": [
+        {
+          "title": "Martial law",
+          "url": "https://en.wikipedia.org/wiki/Martial_law"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Barbara Bosson, actress, in Charleroi, Pennsylvania (d. 2023)",
+      "links": [
+        {
+          "title": "Barbara Bosson",
+          "url": "https://en.wikipedia.org/wiki/Barbara_Bosson"
+        },
+        {
+          "title": "Charleroi, Pennsylvania",
+          "url": "https://en.wikipedia.org/wiki/Charleroi,_Pennsylvania"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Kálmán Darányi, 53, Prime Minister of Hungary 1936–1938",
+      "links": [
+        {
+          "title": "Kálmán Darányi",
+          "url": "https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Dar%C3%A1nyi"
+        }
+      ]
+    }
+  ]
+}

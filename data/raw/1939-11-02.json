@@ -1,0 +1,42 @@
+{
+  "date": "1939-11-02",
+  "edition_number": 63,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:41+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Polish government-in-exile dissolved the Parliament. A National Council was set up to govern in its place.",
+      "links": [
+        {
+          "title": "Polish government-in-exile",
+          "url": "https://en.wikipedia.org/wiki/Polish_government-in-exile"
+        },
+        {
+          "title": "Parliament of Poland",
+          "url": "https://en.wikipedia.org/wiki/Parliament_of_Poland"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Frank Buncom, AFL linebacker, in Shreveport, Louisiana (d. 1969)",
+      "links": [
+        {
+          "title": "Frank Buncom",
+          "url": "https://en.wikipedia.org/wiki/Frank_Buncom"
+        },
+        {
+          "title": "Shreveport, Louisiana",
+          "url": "https://en.wikipedia.org/wiki/Shreveport,_Louisiana"
+        }
+      ]
+    }
+  ]
+}

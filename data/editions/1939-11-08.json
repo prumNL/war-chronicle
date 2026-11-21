@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-08",
+  "number": 69,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "13 minuten nadat Hitler een toespraak afrondde in de Bürgerbräukeller in München…",
+      "location": "",
+      "body": [
+        "13 minuten nadat Hitler een toespraak afrondde in de Bürgerbräukeller in München op de 16e verjaardag van de Beer Hall Putsch, ontplofte er een tijdbom vlakbij het spreekplatform dat 8 mensen doodde. Carpenter Johann Georg Elser werd gearresteerd met belastende documenten aan de Zwitserse grens en terug gebracht naar München voor ondervraging. Zijn poging om Hitler te vermoorden zou zijn gelukt als de jaarlijkse toespraak van de Führer niet 30 minuten eerder was begonnen dan in voorgaande jaren."
+      ],
+      "context": "De Bürgerbräukeller was een grote bierhal in München, Duitsland. Het was een van de grootste bierhallen van de Bürgerliches Brauhaus.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "13 minutes after Hitler concluded a speech at the Bürgerbräukeller in Munich on the 16th anniversary of the Beer Hall Putsch, a time bomb exploded near the speaking platform that killed 8 people. Carpenter Johann Georg Elser was arrested with incriminating documents at the Swiss border and brought back to Munich for interrogation. His attempt to assassinate Hitler would have succeeded if the Führer's annual speech had not begun 30 minutes earlier than it did in previous years.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Bürgerbräukeller (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/B%C3%BCrgerbr%C3%A4ukeller"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "date": "1939-11-06",
+  "edition_number": 67,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:54+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Sonderaktion Krakau: 183 professors of Jagiellonian University in Kraków were arrested by the Nazis. 168 of them were sent to Sachsenhausen concentration camp.",
+      "links": [
+        {
+          "title": "Sonderaktion Krakau",
+          "url": "https://en.wikipedia.org/wiki/Sonderaktion_Krakau"
+        },
+        {
+          "title": "Jagiellonian University",
+          "url": "https://en.wikipedia.org/wiki/Jagiellonian_University"
+        },
+        {
+          "title": "Kraków",
+          "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w"
+        },
+        {
+          "title": "Sachsenhausen concentration camp",
+          "url": "https://en.wikipedia.org/wiki/Sachsenhausen_concentration_camp"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Athanasios Angelopoulos, theology professor, in Katerini, Greece; Carlos Emilio Morales, jazz guitarist, in Marianao, Havana, Cuba (d. 2014); Leonardo Quisumbing, Associate Justice of the Supreme Court of the Philippines, in Masbate City (d. 2019)",
+      "links": [
+        {
+          "title": "Athanasios Angelopoulos",
+          "url": "https://en.wikipedia.org/wiki/Athanasios_Angelopoulos"
+        },
+        {
+          "title": "Katerini",
+          "url": "https://en.wikipedia.org/wiki/Katerini"
+        },
+        {
+          "title": "Carlos Emilio Morales",
+          "url": "https://en.wikipedia.org/wiki/Carlos_Emilio_Morales"
+        },
+        {
+          "title": "Marianao",
+          "url": "https://en.wikipedia.org/wiki/Marianao"
+        },
+        {
+          "title": "Havana",
+          "url": "https://en.wikipedia.org/wiki/Havana"
+        },
+        {
+          "title": "Cuba",
+          "url": "https://en.wikipedia.org/wiki/Cuba"
+        },
+        {
+          "title": "Leonardo Quisumbing",
+          "url": "https://en.wikipedia.org/wiki/Leonardo_Quisumbing"
+        },
+        {
+          "title": "Masbate City",
+          "url": "https://en.wikipedia.org/wiki/Masbate_City"
+        }
+      ]
+    }
+  ]
+}

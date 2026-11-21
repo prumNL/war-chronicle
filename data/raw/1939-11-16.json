@@ -1,0 +1,52 @@
+{
+  "date": "1939-11-16",
+  "edition_number": 77,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:27+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Al Capone was released from federal custody after serving seven-and-a-half years of his eleven-year sentence for tax evasion. Capone was suffering heavily from paresis and upon release he immediately went to a Baltimore hospital for treatment.",
+      "links": [
+        {
+          "title": "Al Capone",
+          "url": "https://en.wikipedia.org/wiki/Al_Capone"
+        },
+        {
+          "title": "Paresis",
+          "url": "https://en.wikipedia.org/wiki/Paresis"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Michael Billington, author and theatre critic, in Leamington Spa, England",
+      "links": [
+        {
+          "title": "Michael Billington (critic)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Billington_(critic)"
+        },
+        {
+          "title": "Royal Leamington Spa",
+          "url": "https://en.wikipedia.org/wiki/Royal_Leamington_Spa"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Pierce Butler, 73, Associate Justice of the Supreme Court of the United States",
+      "links": [
+        {
+          "title": "Pierce Butler (justice)",
+          "url": "https://en.wikipedia.org/wiki/Pierce_Butler_(justice)"
+        }
+      ]
+    }
+  ]
+}

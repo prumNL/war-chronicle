@@ -1,0 +1,32 @@
+{
+  "date": "1939-11-05",
+  "edition_number": 66,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:51+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Three German Army commanders (Fedor von Bock, Wilhelm Ritter von Leeb and Gerd von Rundstedt) who believed an invasion of France would fail held a secret meeting to discuss ways to dissuade Hitler from ordering an attack on the western front.",
+      "links": [
+        {
+          "title": "Fedor von Bock",
+          "url": "https://en.wikipedia.org/wiki/Fedor_von_Bock"
+        },
+        {
+          "title": "Wilhelm Ritter von Leeb",
+          "url": "https://en.wikipedia.org/wiki/Wilhelm_Ritter_von_Leeb"
+        },
+        {
+          "title": "Gerd von Rundstedt",
+          "url": "https://en.wikipedia.org/wiki/Gerd_von_Rundstedt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "1939-11-03",
+  "number": 64,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duits gecontroleerde Amerikaanse vrachtstad Flint kwam de haven binnen in Haugesund",
+      "location": "",
+      "body": [
+        "De Duits gecontroleerde Amerikaanse vrachtstad Flint kwam de haven binnen in Haugesund, ondanks het bevel van zijn Noorse escorte, de mijnleger Olav Tryggvason, niet om. De Duitse kapitein vertelde later ondervragers dat hij enkel orders van zijn regering opvolgde en niet wist waarom hij in Haugesund moest aanmeren, maar het was waarschijnlijk om instructies te krijgen van de vice consul over hoe en wanneer hij naar Duitsland moest gaan. Noorwegen besloot het vrachtschip in beslag te nemen en het bevel terug te geven aan de Amerikanen, en om 23:30 bestormde een instapgroep het schip en verwijderde de Duitse prijsploeg. De Duitsers werden geïnterneerd wegens schending van het internationaal recht, waardoor een schip zonder voldoende reden geen neutrale haven mocht betreden."
+      ],
+      "context": "SS City of Flint was een vrachtschip van een type bekend als een Hog Islander, omdat het werd gebouwd op de Hog Island Shipyard, Philadelphia door American International Shipbuilding voor de United States Shipping Board (USSB), Noodvloot Corporation. De stad Flint werd genoemd om de inwoners van Flint, Michigan te eren voor hun inspanningen in Liberty Loan drives tijdens de Eerste Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The German-controlled American freighter City of Flint entered port in Haugesund despite being ordered by its Norwegian escort, the minelayer Olav Tryggvason, not to. The German captain later told interrogators he was just following orders from his government and did not know why he was instructed to dock in Haugesund, but it was probably to get instructions from the vice consul on how and when to proceed to Germany. Norway decided to seize the freighter and return its command to the Americans, and at 23:30 a boarding party stormed the ship and removed the German prize crew. The Germans were interned for violating international law, which forbade a ship from entering a neutral port without sufficient cause.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: SS City of Flint (1919) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "VS",
+      "location": "",
+      "body": [
+        "VS. Het Congres heeft de Neutraliteitswet van 1937 gewijzigd, waarbij het embargo op wapens werd ingetrokken tot oorlogsmisdadigers, maar de verkoop op cashbasis plaatste om een herhaling van de situatie na de Eerste Wereldoorlog te voorkomen, toen Groot-Brittannië en Frankrijk moeite hadden om hun oorlogsschulden aan de Verenigde Staten te betalen."
+      ],
+      "context": "De Neutrality Acts waren een reeks handelingen die het Amerikaanse Congres in 1935, 1936, 1937, en 1939 als reactie op de groeiende bedreigingen en oorlogen die tot de Tweede Wereldoorlog leidde. Ze werden gestimuleerd door de groei van het isolationisme en non-interventionisme in de VS na de toetreding van de VS tot de Eerste Wereldoorlog, en ze probeerden ervoor te zorgen dat de VS niet opnieuw verstrikt raakt in buitenlandse conflicten.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "U.S. Congress amended the Neutrality Act of 1937, repealing the embargo on arms to belligerents but placing sales on a cash and carry basis to avoid a repeat of the situation after World War I when Britain and France ran into difficulty with making their war debt payments to the United States.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Neutrality Acts of the 1930s (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Neutrality_Acts_of_1930s"
+        }
+      ]
+    }
+  ]
+}

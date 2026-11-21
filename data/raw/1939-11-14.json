@@ -1,0 +1,58 @@
+{
+  "date": "1939-11-14",
+  "edition_number": 75,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:22+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Joachim von Ribbentrop informed the Belgian and Dutch envoys that Germany was turning down their joint mediation offer based on the responses already made from Britain and France.",
+      "links": [
+        {
+          "title": "Joachim von Ribbentrop",
+          "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Great Synagogue of Łódź was burned to the ground by the Nazis.",
+      "links": [
+        {
+          "title": "Great Synagogue, Łódź",
+          "url": "https://en.wikipedia.org/wiki/Great_Synagogue,_%C5%81%C3%B3d%C5%BA"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "An oil refinery fire in Lagunillas, Venezuela killed 500 people and destroyed the town.",
+      "links": [
+        {
+          "title": "Venezuela",
+          "url": "https://en.wikipedia.org/wiki/Venezuela"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Wendy Carlos, electronic musician, in Pawtucket, Rhode Island",
+      "links": [
+        {
+          "title": "Wendy Carlos",
+          "url": "https://en.wikipedia.org/wiki/Wendy_Carlos"
+        },
+        {
+          "title": "Pawtucket, Rhode Island",
+          "url": "https://en.wikipedia.org/wiki/Pawtucket,_Rhode_Island"
+        }
+      ]
+    }
+  ]
+}

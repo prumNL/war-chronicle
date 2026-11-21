@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-05",
+  "number": 66,
+  "articles": [
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Drie Duitse legercommandanten (Fedor von Bock",
+      "location": "",
+      "body": [
+        "Drie Duitse legercommandanten (Fedor von Bock, Wilhelm Ritter von Leeb en Gerd von Rundstedt) die geloofden dat een invasie van Frankrijk een geheime bijeenkomst zou houden om manieren te bespreken om Hitler ervan te weerhouden een aanval op het westelijke front te bevelen."
+      ],
+      "context": "Moritz Albrecht Franz Friedrich Fedor von Bock was een Duitse Generalfeldmarschall die tijdens de Tweede Wereldoorlog in het Duitse leger diende. Bock diende als commandant van de Legergroep Noord tijdens de invasie van Polen in 1939 tijdens de invasie van Frankrijk in 1940, van het Legergroepcentrum tijdens Operatie Barbarossa in 1941 en van de Legergroep Zuid aan het Oostfront in 1942.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Three German Army commanders (Fedor von Bock, Wilhelm Ritter von Leeb and Gerd von Rundstedt) who believed an invasion of France would fail held a secret meeting to discuss ways to dissuade Hitler from ordering an attack on the western front.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Fedor von Bock (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Fedor_von_Bock"
+        }
+      ]
+    }
+  ]
+}

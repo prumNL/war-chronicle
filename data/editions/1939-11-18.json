@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-18",
+  "number": 79,
+  "articles": [
+    {
+      "section": "Nederland en de bezetting",
+      "headline": "De Nederlandse lijnvaart Simon Bolivar liet twee magnetische mijnen afgaan",
+      "location": "",
+      "body": [
+        "De Nederlandse lijnvaart Simon Bolivar liet twee magnetische mijnen afgaan, die haar 20 mijl van Harwich, Engeland, zonk. 86 levens verloren van de 400 aan boord. De Britten beschuldigden de Duitsers van het leggen van de mijnen in strijd met artikel VIII van de Haagse Conventie van 1907, die het gebruik van mijnen verboden in omstandigheden die de commerciële scheepvaart in gevaar kunnen brengen."
+      ],
+      "context": "SS Simon Bolivar was een Nederlands passagiersvrachtschip dat in 1927 werd gebouwd. Haar reguliere route was tussen Amsterdam en het Caribisch gebied.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Dutch liner Simon Bolivar set off two magnetic mines, which sank her 20 miles off Harwich, England. 86 lives were lost out of the 400 on board. The British accused the Germans of laying the mines in violation of Article VIII of the 1907 Hague Conventions, which forbade using mines in circumstances likely to endanger commercial shipping.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: SS Simon Bolivar (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/SS_Simon_Bolivar"
+        }
+      ]
+    }
+  ]
+}

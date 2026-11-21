@@ -1,0 +1,25 @@
+{
+  "date": "1939-11-16",
+  "number": 77,
+  "articles": [
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "Pierce Butler (73), Associate Justice of the Supreme Court of the United States"
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: Pierce Butler, 73, Associate Justice of the Supreme Court of the United States",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        }
+      ]
+    }
+  ]
+}

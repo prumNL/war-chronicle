@@ -1,0 +1,67 @@
+{
+  "date": "1939-11-04",
+  "edition_number": 65,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:49+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The American Neutrality Law came into force, forbidding American ships and citizens from entering clearly defined war zones.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "The City of Flint sailed to Bergen with U.S. control finally restored.",
+      "links": [
+        {
+          "title": "Bergen",
+          "url": "https://en.wikipedia.org/wiki/Bergen"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "German submarine U-44 was commissioned.",
+      "links": [
+        {
+          "title": "German submarine U-44 (1939)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-44_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Michael Meacher, politician, in Hemel Hempstead, Hertfordshire, England (d. 2015)",
+      "links": [
+        {
+          "title": "Michael Meacher",
+          "url": "https://en.wikipedia.org/wiki/Michael_Meacher"
+        },
+        {
+          "title": "Hemel Hempstead",
+          "url": "https://en.wikipedia.org/wiki/Hemel_Hempstead"
+        },
+        {
+          "title": "Hertfordshire",
+          "url": "https://en.wikipedia.org/wiki/Hertfordshire"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Percy Douglas, 63, British naval officer",
+      "links": [
+        {
+          "title": "Percy Douglas",
+          "url": "https://en.wikipedia.org/wiki/Percy_Douglas"
+        }
+      ]
+    }
+  ]
+}

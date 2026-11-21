@@ -1,0 +1,84 @@
+{
+  "date": "1939-11-17",
+  "edition_number": 78,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:29+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Germans stormed the university dorms in Prague and other towns in the former Czechoslovakia, attacking and arresting thousands of students. The Nazis executed nine Czechs by firing squad without trial that day for leading the recent demonstrations. Today International Students' Day is observed on November 17 in remembrance of the students who were killed or sent to concentration camps for opposing the Nazis.",
+      "links": [
+        {
+          "title": "Prague",
+          "url": "https://en.wikipedia.org/wiki/Prague"
+        },
+        {
+          "title": "International Students' Day",
+          "url": "https://en.wikipedia.org/wiki/International_Students%27_Day"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Anglo-French Supreme War Council held its third meeting in Paris.",
+      "links": [
+        {
+          "title": "Anglo-French Supreme War Council",
+          "url": "https://en.wikipedia.org/wiki/Anglo-French_Supreme_War_Council"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The historical film Tower of London starring Basil Rathbone, Boris Karloff and Vincent Price was released.",
+      "links": [
+        {
+          "title": "Tower of London (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/Tower_of_London_(1939_film)"
+        },
+        {
+          "title": "Basil Rathbone",
+          "url": "https://en.wikipedia.org/wiki/Basil_Rathbone"
+        },
+        {
+          "title": "Boris Karloff",
+          "url": "https://en.wikipedia.org/wiki/Boris_Karloff"
+        },
+        {
+          "title": "Vincent Price",
+          "url": "https://en.wikipedia.org/wiki/Vincent_Price"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Auberon Waugh, journalist, in Dulverton, England (d. 2001)",
+      "links": [
+        {
+          "title": "Auberon Waugh",
+          "url": "https://en.wikipedia.org/wiki/Auberon_Waugh"
+        },
+        {
+          "title": "Dulverton",
+          "url": "https://en.wikipedia.org/wiki/Dulverton"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Josef Matoušek, 33, Czech historian and professor (executed by the Nazis)",
+      "links": [
+        {
+          "title": "Josef Matoušek (historian)",
+          "url": "https://en.wikipedia.org/wiki/Josef_Matou%C5%A1ek_(historian)"
+        }
+      ]
+    }
+  ]
+}

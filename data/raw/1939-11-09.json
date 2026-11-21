@@ -1,0 +1,68 @@
+{
+  "date": "1939-11-09",
+  "edition_number": 70,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:04+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Supreme Allied Commander Maurice Gamelin revealed his Dyle Plan at a conference of senior Allied officers in Vincennes.",
+      "links": [
+        {
+          "title": "Maurice Gamelin",
+          "url": "https://en.wikipedia.org/wiki/Maurice_Gamelin"
+        },
+        {
+          "title": "Dyle Plan",
+          "url": "https://en.wikipedia.org/wiki/Dyle_Plan"
+        },
+        {
+          "title": "Vincennes",
+          "url": "https://en.wikipedia.org/wiki/Vincennes"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Auburn Stadium, later renamed Jordan–Hare Stadium, opened on the campus of Auburn University in Alabama.",
+      "links": [
+        {
+          "title": "Jordan–Hare Stadium",
+          "url": "https://en.wikipedia.org/wiki/Jordan%E2%80%93Hare_Stadium"
+        },
+        {
+          "title": "Auburn University",
+          "url": "https://en.wikipedia.org/wiki/Auburn_University"
+        },
+        {
+          "title": "Alabama",
+          "url": "https://en.wikipedia.org/wiki/Alabama"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Paul Cameron, psychologist and sexologist, in Pittsburgh, Pennsylvania",
+      "links": [
+        {
+          "title": "Paul Cameron",
+          "url": "https://en.wikipedia.org/wiki/Paul_Cameron"
+        },
+        {
+          "title": "Pittsburgh",
+          "url": "https://en.wikipedia.org/wiki/Pittsburgh"
+        },
+        {
+          "title": "Pennsylvania",
+          "url": "https://en.wikipedia.org/wiki/Pennsylvania"
+        }
+      ]
+    }
+  ]
+}

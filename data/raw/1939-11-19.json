@@ -1,0 +1,42 @@
+{
+  "date": "1939-11-19",
+  "edition_number": 80,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:35+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "An official German communique announced that barricades had been erected around the Warsaw Ghetto and that Jewish districts would be placed under strict control.",
+      "links": [
+        {
+          "title": "Warsaw Ghetto",
+          "url": "https://en.wikipedia.org/wiki/Warsaw_Ghetto"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Baseball star Joe DiMaggio married actress Dorothy Arnold in North Beach, San Francisco.",
+      "links": [
+        {
+          "title": "Joe DiMaggio",
+          "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio"
+        },
+        {
+          "title": "Dorothy Arnold (actress)",
+          "url": "https://en.wikipedia.org/wiki/Dorothy_Arnold_(actress)"
+        },
+        {
+          "title": "North Beach, San Francisco",
+          "url": "https://en.wikipedia.org/wiki/North_Beach,_San_Francisco"
+        }
+      ]
+    }
+  ]
+}

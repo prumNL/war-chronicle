@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-15",
+  "number": 76,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse zware kruiser Deutschland werd omgedoopt tot Lützow",
+      "location": "",
+      "body": [
+        "De Duitse zware kruiser Deutschland werd omgedoopt tot Lützow, zowel om vijandelijke intelligentie te verwarren als om te voorkomen dat de potentiële schade aan nationale trots zou optreden als een schip met de naam van het land in actie zou worden gebracht."
+      ],
+      "context": "Deutschland was het hoofdschip van haar klasse zware kruisers die diende met de Kriegsmarine van Nazi-Duitsland tijdens de Tweede Wereldoorlog. Op bevel van de Weimar-regering voor de Reichsmarine werd ze in februari 1929 op de Deutsche Werke-werf in Kiel gevestigd en in april 1933 voltooid.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The German heavy cruiser Deutschland was renamed Lützow, both to confuse enemy intelligence and to avoid the potential damage to national pride that would occur if a ship bearing the name of the country were to be sunk in action.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: German cruiser Deutschland (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_cruiser_Deutschland"
+        }
+      ]
+    }
+  ]
+}

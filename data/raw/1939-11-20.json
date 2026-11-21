@@ -1,0 +1,78 @@
+{
+  "date": "1939-11-20",
+  "edition_number": 81,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:37+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Britain had its first submarine success of the war when HMS Sturgeon sank the German patrol vessel V-209 in the Heligoland Bight.",
+      "links": [
+        {
+          "title": "HMS Sturgeon (73S)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Sturgeon_(73S)"
+        },
+        {
+          "title": "Heligoland Bight",
+          "url": "https://en.wikipedia.org/wiki/Heligoland_Bight"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "All Jewish assets held in banks in the General Government were blocked.",
+      "links": [
+        {
+          "title": "General Government",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler issued Directive No. 8, Further Preparations for Attack in the West.",
+      "links": [
+        {
+          "title": "List of Adolf Hitler's directives",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "DC Comics published Flash Comics #1 (with a cover date of January), featuring the first appearances of the superheroes Flash and Hawkman.",
+      "links": [
+        {
+          "title": "DC Comics",
+          "url": "https://en.wikipedia.org/wiki/DC_Comics"
+        },
+        {
+          "title": "Flash Comics",
+          "url": "https://en.wikipedia.org/wiki/Flash_Comics"
+        },
+        {
+          "title": "Cover date",
+          "url": "https://en.wikipedia.org/wiki/Cover_date"
+        },
+        {
+          "title": "First appearance",
+          "url": "https://en.wikipedia.org/wiki/First_appearance"
+        },
+        {
+          "title": "Jay Garrick",
+          "url": "https://en.wikipedia.org/wiki/Jay_Garrick"
+        },
+        {
+          "title": "Hawkman (Carter Hall)",
+          "url": "https://en.wikipedia.org/wiki/Hawkman_(Carter_Hall)"
+        }
+      ]
+    }
+  ]
+}

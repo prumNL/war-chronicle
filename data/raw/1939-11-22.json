@@ -1,0 +1,72 @@
+{
+  "date": "1939-11-22",
+  "edition_number": 83,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:41+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Polish government-in-exile moved from Paris to Angers.",
+      "links": [
+        {
+          "title": "Polish government-in-exile",
+          "url": "https://en.wikipedia.org/wiki/Polish_government-in-exile"
+        },
+        {
+          "title": "Angers",
+          "url": "https://en.wikipedia.org/wiki/Angers"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The U.S. Supreme Court decided Schneider v. New Jersey.",
+      "links": [
+        {
+          "title": "United States Supreme Court",
+          "url": "https://en.wikipedia.org/wiki/United_States_Supreme_Court"
+        },
+        {
+          "title": "Schneider v. New Jersey",
+          "url": "https://en.wikipedia.org/wiki/Schneider_v._New_Jersey"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Mulayam Singh Yadav, politician, in Saifai, Etawah district, British India (d. 2022); Stefan Dimitrov, basso opera singer, in Burgas, Bulgaria (d. 2004)",
+      "links": [
+        {
+          "title": "Mulayam Singh Yadav",
+          "url": "https://en.wikipedia.org/wiki/Mulayam_Singh_Yadav"
+        },
+        {
+          "title": "Etawah district",
+          "url": "https://en.wikipedia.org/wiki/Etawah_district"
+        },
+        {
+          "title": "British Raj",
+          "url": "https://en.wikipedia.org/wiki/British_Raj"
+        },
+        {
+          "title": "Stefan Dimitrov (bass)",
+          "url": "https://en.wikipedia.org/wiki/Stefan_Dimitrov_(bass)"
+        },
+        {
+          "title": "Burgas",
+          "url": "https://en.wikipedia.org/wiki/Burgas"
+        },
+        {
+          "title": "Bulgaria",
+          "url": "https://en.wikipedia.org/wiki/Bulgaria"
+        }
+      ]
+    }
+  ]
+}

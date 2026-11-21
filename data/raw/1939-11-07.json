@@ -1,0 +1,60 @@
+{
+  "date": "1939-11-07",
+  "edition_number": 68,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:57+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Queen Wilhelmina of the Netherlands and King Leopold III of the Belgians offered to mediate in the European war.",
+      "links": [
+        {
+          "title": "Wilhelmina of the Netherlands",
+          "url": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands"
+        },
+        {
+          "title": "Leopold III of Belgium",
+          "url": "https://en.wikipedia.org/wiki/Leopold_III_of_Belgium"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Polish government-in-exile made Władysław Sikorski General Inspector of the Armed Forces.",
+      "links": [
+        {
+          "title": "Władysław Sikorski",
+          "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski"
+        },
+        {
+          "title": "General Inspector of the Armed Forces",
+          "url": "https://en.wikipedia.org/wiki/General_Inspector_of_the_Armed_Forces"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Dalki massacre: 24 Poles massacred by the Germans in Dalki in German-occupied Poland (see Nazi crimes against the Polish nation).",
+      "links": [
+        {
+          "title": "Polish people",
+          "url": "https://en.wikipedia.org/wiki/Polish_people"
+        },
+        {
+          "title": "Dalki, Gniezno",
+          "url": "https://en.wikipedia.org/wiki/Dalki,_Gniezno"
+        },
+        {
+          "title": "Nazi crimes against the Polish nation",
+          "url": "https://en.wikipedia.org/wiki/Nazi_crimes_against_the_Polish_nation"
+        }
+      ]
+    }
+  ]
+}

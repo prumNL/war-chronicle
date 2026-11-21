@@ -1,0 +1,77 @@
+{
+  "date": "1939-11-13",
+  "edition_number": 74,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:16+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "British soil was bombed by the Germans for the first time during World War II, in the Shetland Islands. No casualties were inflicted.",
+      "links": [
+        {
+          "title": "Shetland Islands",
+          "url": "https://en.wikipedia.org/wiki/Shetland_Islands"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Finnish delegation in Moscow refused to accede to Soviet demands and broke off negotiations.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "The Union of Armed Struggle was created from an earlier Polish resistance movement, the Service for Poland's Victory.",
+      "links": [
+        {
+          "title": "Union of Armed Struggle",
+          "url": "https://en.wikipedia.org/wiki/Union_of_Armed_Struggle"
+        },
+        {
+          "title": "Service for Poland's Victory",
+          "url": "https://en.wikipedia.org/wiki/Service_for_Poland%27s_Victory"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "HMS Blanche was sunk by a mine in the Thames Estuary, the first British destroyer lost to enemy action in the war.",
+      "links": [
+        {
+          "title": "HMS Blanche (H47)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Blanche_(H47)"
+        },
+        {
+          "title": "Thames Estuary",
+          "url": "https://en.wikipedia.org/wiki/Thames_Estuary"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Bob Tutupoly, Indonesian singer (d. 2022)",
+      "links": [
+        {
+          "title": "Bob Tutupoly",
+          "url": "https://en.wikipedia.org/wiki/Bob_Tutupoly"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Lois Weber, 60, American actress",
+      "links": [
+        {
+          "title": "Lois Weber",
+          "url": "https://en.wikipedia.org/wiki/Lois_Weber"
+        }
+      ]
+    }
+  ]
+}

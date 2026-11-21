@@ -1,0 +1,67 @@
+{
+  "date": "1939-11-04",
+  "number": 65,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse onderzeeër U-44 kreeg opdracht",
+      "location": "",
+      "body": [
+        "De Duitse onderzeeër U-44 kreeg opdracht."
+      ],
+      "context": "De Duitse onderzeeër U-44 was een U-boot van de Duitse Kriegsmarine. Ze werd in november 1936 bevolen en in september 1938 in Bremen neergelegd.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "German submarine U-44 was commissioned.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: German submarine U-44 (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-44_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "De Amerikaanse Neutraliteitswet is van kracht geworden en verbiedt Amerikaanse schepen…",
+      "location": "",
+      "body": [
+        "De Amerikaanse Neutraliteitswet is van kracht geworden en verbiedt Amerikaanse schepen en burgers om duidelijk omschreven oorlogsgebieden binnen te gaan."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The American Neutrality Law came into force, forbidding American ships and citizens from entering clearly defined war zones.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        }
+      ]
+    },
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "Percy Douglas (63), Britse marineofficier"
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: Percy Douglas, 63, British naval officer",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        }
+      ]
+    }
+  ]
+}

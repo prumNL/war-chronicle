@@ -1,0 +1,48 @@
+{
+  "date": "1939-11-12",
+  "edition_number": 73,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:12+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "German authorities began the deportation of Jews from Polish territories annexed by Germany to the General Government.",
+      "links": [
+        {
+          "title": "Polish areas annexed by Nazi Germany",
+          "url": "https://en.wikipedia.org/wiki/Polish_areas_annexed_by_Nazi_Germany"
+        },
+        {
+          "title": "General Government",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "France said that the Belgian and Dutch offer of mediation required Germany to repair \"the injustices which force has imposed on Austria, Czechoslovakia and Poland\" before peace could be discussed. George VI wrote a reply explaining that the \"essential conditions upon which we are determined that an honorable peace must be secured have already been plainly stated\", but if the Queen of the Netherlands was \"able to communicate to me any proposals from Germany of such a character as to afford real prospect\" of achieving Britain's aims he would \"give them my most earnest consideration.\"",
+      "links": [
+        {
+          "title": "George VI",
+          "url": "https://en.wikipedia.org/wiki/George_VI"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Norman Bethune, 49, Canadian physician and humanitarian",
+      "links": [
+        {
+          "title": "Norman Bethune",
+          "url": "https://en.wikipedia.org/wiki/Norman_Bethune"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "1939-11-03",
+  "edition_number": 64,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:43:43+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "U.S. Congress amended the Neutrality Act of 1937, repealing the embargo on arms to belligerents but placing sales on a cash and carry basis to avoid a repeat of the situation after World War I when Britain and France ran into difficulty with making their war debt payments to the United States.",
+      "links": [
+        {
+          "title": "Neutrality Acts of 1930s",
+          "url": "https://en.wikipedia.org/wiki/Neutrality_Acts_of_1930s"
+        },
+        {
+          "title": "Cash and carry (World War II)",
+          "url": "https://en.wikipedia.org/wiki/Cash_and_carry_(World_War_II)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German-controlled American freighter City of Flint entered port in Haugesund despite being ordered by its Norwegian escort, the minelayer Olav Tryggvason, not to. The German captain later told interrogators he was just following orders from his government and did not know why he was instructed to dock in Haugesund, but it was probably to get instructions from the vice consul on how and when to proceed to Germany. Norway decided to seize the freighter and return its command to the Americans, and at 23:30 a boarding party stormed the ship and removed the German prize crew. The Germans were interned for violating international law, which forbade a ship from entering a neutral port without sufficient cause.",
+      "links": [
+        {
+          "title": "SS City of Flint (1919)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        },
+        {
+          "title": "Haugesund",
+          "url": "https://en.wikipedia.org/wiki/Haugesund"
+        },
+        {
+          "title": "HNoMS Olav Tryggvason",
+          "url": "https://en.wikipedia.org/wiki/HNoMS_Olav_Tryggvason"
+        },
+        {
+          "title": "Just following orders",
+          "url": "https://en.wikipedia.org/wiki/Just_following_orders"
+        },
+        {
+          "title": "Prize crew",
+          "url": "https://en.wikipedia.org/wiki/Prize_crew"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The John Ford-directed historical film Drums Along the Mohawk starring Claudette Colbert and Henry Fonda was released.",
+      "links": [
+        {
+          "title": "John Ford",
+          "url": "https://en.wikipedia.org/wiki/John_Ford"
+        },
+        {
+          "title": "Drums Along the Mohawk",
+          "url": "https://en.wikipedia.org/wiki/Drums_Along_the_Mohawk"
+        },
+        {
+          "title": "Claudette Colbert",
+          "url": "https://en.wikipedia.org/wiki/Claudette_Colbert"
+        },
+        {
+          "title": "Henry Fonda",
+          "url": "https://en.wikipedia.org/wiki/Henry_Fonda"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British propaganda film The Lion Has Wings, rushed through production after the outbreak of war, was released to cinemas in the United Kingdom.",
+      "links": [
+        {
+          "title": "The Lion Has Wings",
+          "url": "https://en.wikipedia.org/wiki/The_Lion_Has_Wings"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "1939-11-08",
+  "edition_number": 69,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:44:01+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "13 minutes after Hitler concluded a speech at the Bürgerbräukeller in Munich on the 16th anniversary of the Beer Hall Putsch, a time bomb exploded near the speaking platform that killed 8 people. Carpenter Johann Georg Elser was arrested with incriminating documents at the Swiss border and brought back to Munich for interrogation. His attempt to assassinate Hitler would have succeeded if the Führer's annual speech had not begun 30 minutes earlier than it did in previous years.",
+      "links": [
+        {
+          "title": "Bürgerbräukeller",
+          "url": "https://en.wikipedia.org/wiki/B%C3%BCrgerbr%C3%A4ukeller"
+        },
+        {
+          "title": "Munich",
+          "url": "https://en.wikipedia.org/wiki/Munich"
+        },
+        {
+          "title": "Beer Hall Putsch",
+          "url": "https://en.wikipedia.org/wiki/Beer_Hall_Putsch"
+        },
+        {
+          "title": "Johann Georg Elser",
+          "url": "https://en.wikipedia.org/wiki/Johann_Georg_Elser"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Elizabeth Dawn, actress, in Leeds, England (d. 2017); Laila Kinnunen, singer, in Vantaa, Finland (d. 2000); Meg Wynn Owen, actress, in Wales (d. 2022)",
+      "links": [
+        {
+          "title": "Elizabeth Dawn",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Dawn"
+        },
+        {
+          "title": "Leeds",
+          "url": "https://en.wikipedia.org/wiki/Leeds"
+        },
+        {
+          "title": "Laila Kinnunen",
+          "url": "https://en.wikipedia.org/wiki/Laila_Kinnunen"
+        },
+        {
+          "title": "Vantaa",
+          "url": "https://en.wikipedia.org/wiki/Vantaa"
+        },
+        {
+          "title": "Meg Wynn Owen",
+          "url": "https://en.wikipedia.org/wiki/Meg_Wynn_Owen"
+        },
+        {
+          "title": "Wales",
+          "url": "https://en.wikipedia.org/wiki/Wales"
+        }
+      ]
+    }
+  ]
+}

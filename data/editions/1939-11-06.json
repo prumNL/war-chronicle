@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-06",
+  "number": 67,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Sonderaktion Krakau: 183 professoren van de Jagiellonian University in Kraków…",
+      "location": "",
+      "body": [
+        "Sonderaktion Krakau: 183 professoren van de Jagiellonian University in Kraków werden gearresteerd door de nazi's. 168 van hen werden naar het concentratiekamp Sachsenhausen gestuurd."
+      ],
+      "context": "Sonderaktion Krakau was een Duitse operatie tegen hoogleraren en academici van de Jagiellonian University en andere universiteiten in het Duits bezette Kraków, Polen, aan het begin van de Tweede Wereldoorlog. Het werd uitgevoerd als onderdeel van het veel bredere actieplan, de Intelligenzaktion, om de Poolse intellectuele elite uit te roeien, vooral in die centra die waren bedoeld door de Duitsers om cultureel Duits te worden.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Sonderaktion Krakau: 183 professors of Jagiellonian University in Kraków were arrested by the Nazis. 168 of them were sent to Sachsenhausen concentration camp.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Sonderaktion Krakau (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Sonderaktion_Krakau"
+        }
+      ]
+    }
+  ]
+}

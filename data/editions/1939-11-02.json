@@ -1,0 +1,29 @@
+{
+  "date": "1939-11-02",
+  "number": 63,
+  "articles": [
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "De Poolse regering heeft het parlement ontbonden",
+      "location": "",
+      "body": [
+        "De Poolse regering heeft het parlement ontbonden. Er is een Nationale Raad opgericht om in zijn plaats te regeren."
+      ],
+      "context": "De regering van de Republiek Polen in ballingschap werd gevormd in de nasleep van de invasie in september 1939 en de daaropvolgende bezetting van Polen door nazi-Duitsland, de Sovjet-Unie en de Slowaakse Republiek, die een einde maakte aan de Tweede Poolse Republiek.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Polish government-in-exile dissolved the Parliament. A National Council was set up to govern in its place.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Polish government-in-exile (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Polish_government-in-exile"
+        }
+      ]
+    }
+  ]
+}
