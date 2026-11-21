@@ -118,5 +118,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/DA_FreieStadtDanzig_Staatswappen_fsda-eu.GIF/960px-DA_FreieStadtDanzig_Staatswappen_fsda-eu.GIF?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:DA_FreieStadtDanzig_Staatswappen_fsda-eu.GIF",
+    "about": "Free City of Danzig",
+    "credit": "Senat der Freien Stadt Danzig (Hochlader war: http://de.wikipedia.org/wiki/Benutzer:Dahh.org)",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1920-11-15",
+    "caption": "Staatsrappen der Freien Stadt Danzig",
+    "description_original": "Staatswappen der Freien Stadt Danzig"
+  }
 }

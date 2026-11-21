@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/U-27_Fuenterrabia.jpg/960px-U-27_Fuenterrabia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:U-27_Fuenterrabia.jpg",
+    "about": "German submarine U-27 (1936)",
+    "credit": "Robyn Benoit",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "1938",
+    "caption": "kustonderzeeër in de haven van de Spaanse Burgeroorlog in Fuenterrabië",
+    "description_original": "coastal submarine in port durring the Spanish Civil war in Fuenterrabia"
+  }
 }

@@ -114,5 +114,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/960px-Ankara_from_bus_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ankara_from_bus_station.jpg",
+    "about": "Ankara",
+    "credit": "Boubacar Amadou Cisse",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2019-04-04 15:04:45",
+    "caption": "Ankara is de hoofdstad van Turkije.",
+    "description_original": "Ankara is the capital city of Turkey. This picture has been taken from the Central Bus Station."
+  }
 }

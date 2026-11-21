@@ -45,5 +45,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bundesarchiv_Bild_146-1978-043-02%2C_Focke-Wulf_Fw_200_C_Condor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1978-043-02,_Focke-Wulf_Fw_200_C_Condor.jpg",
+    "about": "Focke-Wulf Fw 200 Condor",
+    "credit": "Walter Frentz",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "1941date QS:P571,+1941-00-00T00:00:00Z/9",
+    "caption": "Informatie toegevoegd door Wikimedia-gebruikers.",
+    "description_original": "Information added by Wikimedia users. Fw 200C-3/U-2 SG+KS (later F8+AB), flown by Ritterkreuz recipient Hauptmann Fritz Fliegel of I./KG 40. He was shot down on 18 July 1941 by a lucky AA round from the merchant vessel Pilar de Larrinaga in this aircraft whilst attacking OB 346. He was posthumously promoted to Major. He sunk 7 ships and damaged 6 more."
+  }
 }

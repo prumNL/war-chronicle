@@ -49,5 +49,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bundesarchiv_Bild_183-H04810%2C_Joachim_von_Ribbentrop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-H04810,_Joachim_von_Ribbentrop.jpg",
+    "about": "Joachim von Ribbentrop",
+    "credit": "UnknownUnknown",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "April 1938date QS:P571,+1938-04-00T00:00:00Z/10",
+    "caption": "Voor documentaire doeleinden behield het Duitse Federale Archief vaak de originele beeldtitels, die onjuist, bevooroordeeld, verouderd of politiek extreem kunnen zijn.",
+    "description_original": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Joachim von Ribbentrop Reichsaussenminister v. Ribbentrop. 19.7.40. [Herausgabedatum] AV. 59951 [Berlin.- Joachim von Ribbentrop. (Porträt) Aufgenommen im April 1938 in Vorbereitung zum 45. Geburtstag am 30.4.1938 auf Gut Sonnenburg bei Fr"
+  }
 }

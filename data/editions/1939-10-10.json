@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bundesarchiv_Bild_146-1980-128-63%2C_Erich_Raeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1980-128-63,_Erich_Raeder.jpg",
+    "about": "Erich Raeder",
+    "credit": "Ernst Sandau Jr.",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "circa 1935",
+    "caption": "Voor documentaire doeleinden behield het Duitse Federale Archief vaak de originele beeldtitels, die onjuist, bevooroordeeld, verouderd of politiek extreem kunnen zijn.",
+    "description_original": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Großadmiral Dr. h.c. Raeder R.20 \"Ross\" Verlag"
+  }
 }

@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Polish_infantry_marching_1939.jpg/960px-Polish_infantry_marching_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Polish_infantry_marching_1939.jpg",
+    "about": "Battles of Parczew, Jabłoń and Milanów",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1939",
+    "caption": "Poolse infanterie mars 1939.",
+    "description_original": "Polish infantry marching 1939."
+  }
 }

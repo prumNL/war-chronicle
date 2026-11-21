@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Polish_POWs_shot_by_Wehrmacht_1939.jpg/960px-Polish_POWs_shot_by_Wehrmacht_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Polish_POWs_shot_by_Wehrmacht_1939.jpg",
+    "about": "Ciepielów massacre",
+    "credit": "The source didn`t provide an information who personally the author is, picture was given anonymously to Polish Military Bureau in Berlin in 1950",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1939-09-09",
+    "caption": "Ongeveer 300 Poolse krijgsgevangenen geëxecuteerd door de soldaten van het 15e Duitse infanterieregiment in Ciepielów op 9 september 1939.",
+    "description_original": "About 300 Polish prisoners of war executed by the soldiers of the German 15th motorized infantry regiment in Ciepielów on September 9th, 1939."
+  }
 }

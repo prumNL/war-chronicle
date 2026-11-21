@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/V.M._Molotov_TASS_Portrait_Trim_Edit.jpg/960px-V.M._Molotov_TASS_Portrait_Trim_Edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:V.M._Molotov_TASS_Portrait_Trim_Edit.jpg",
+    "about": "Vyacheslav Molotov",
+    "credit": "G. Weil for TASS",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "circa 1947",
+    "caption": "Serie: \"Leiders van de regering van de Sovjet-Unie, secretarissen van het Centraal Comité van de Communistische Partij van de Sovjet-Unie van de gehele Unie (b) en leiders van de Communistische Partij van de Sovjet-Unie van de gehele Unie en de",
+    "description_original": "Series: \"Heads of the Government of the Soviet Union, Secretaries of the Central Committee of the All-Union Communist Party of the Soviet Union (b) and Leaders of the All-Union Communist Party of the Soviet Union and the All-Union Communist Party of the Soviet Union\". Portrait: V.M. Molotov."
+  }
 }

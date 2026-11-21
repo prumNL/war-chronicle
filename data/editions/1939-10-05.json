@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bitwa_pod_Kockiem.jpg/960px-Bitwa_pod_Kockiem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bitwa_pod_Kockiem.jpg",
+    "about": "Battle of Kock (1939)",
+    "credit": "unknown-anonymous",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1939-10",
+    "caption": "Poolse solidiers tijdens de Slag bij Kock (1939)",
+    "description_original": "Polish solidiers during Battle of Kock (1939)"
+  }
 }

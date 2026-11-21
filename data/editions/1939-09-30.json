@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Rz%C4%85d_Miko%C5%82ajczyka_1944.jpg/960px-Rz%C4%85d_Miko%C5%82ajczyka_1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Rz%C4%85d_Miko%C5%82ajczyka_1944.jpg",
+    "about": "Polish government-in-exile",
+    "credit": "unknown-anonymous",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1944",
+    "caption": "Poolse regering in ballingschap 1944 (tot november 1944) (minister-president S.Mikołajczyk)",
+    "description_original": "Polish Government in Exile 1944 (till November 1944) (Prime Minister S.Mikołajczyk)"
+  }
 }

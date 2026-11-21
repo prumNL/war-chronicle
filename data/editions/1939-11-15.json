@@ -26,5 +26,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/German_cruiser_Deutschland_in_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:German_cruiser_Deutschland_in_1935.jpg",
+    "about": "German cruiser Deutschland",
+    "credit": "Heinrich Hoffman Collection, U.S. National Archives Collection of Foreign Records Seized, 1675-1958.",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1935",
+    "caption": "Het Duitse \"pocket battleship\" Deutschland met haar bemanning bemant de rails, 1935.",
+    "description_original": "The German \"pocket battleship\" Deutschland with her crew manning the rails, 1935. This ship was reclassified as a heavy cruiser and renamed Lützow in 1939."
+  }
 }

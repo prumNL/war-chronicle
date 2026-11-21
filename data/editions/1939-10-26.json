@@ -45,5 +45,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bundesarchiv_Bild_146-1989-011-13%2C_Hans_Frank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1989-011-13,_Hans_Frank.jpg",
+    "about": "Hans Frank",
+    "credit": "UnknownUnknown",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "1939date QS:P571,+1939-00-00T00:00:00Z/9",
+    "caption": "",
+    "description_original": ""
+  }
 }

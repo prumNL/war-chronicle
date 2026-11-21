@@ -64,5 +64,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/U37_Lorient_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:U37_Lorient_1940.jpg",
+    "about": "German submarine U-44 (1939)",
+    "credit": "Bundesarchiv_Bild_101II-MW-1032-11A,_Lorient,_U-37.jpg: Mannewitz derivative work: Jezhotwells (talk)",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "2010-04-18 02:24",
+    "caption": "Le type IX A U-37 en cale sèche à Lorient en 1940.",
+    "description_original": "Le type IX A U-37 en cale sèche à Lorient en 1940."
+  }
 }

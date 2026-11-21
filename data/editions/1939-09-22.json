@@ -114,5 +114,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Gmach_MZSiPBnB.jpg/960px-Gmach_MZSiPBnB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gmach_MZSiPBnB.jpg",
+    "about": "Sochaczew",
+    "credit": "Łukasz Wojtczak",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2017-04-04 07:05:36",
+    "caption": "MUSEUM VAN DE BATTLE VAN BZURA",
+    "description_original": "MUSEUM OF THE BATTLE OF BZURA"
+  }
 }

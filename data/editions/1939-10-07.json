@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/HMS_Bonaventure_1940_IWM_A_1733.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:HMS_Bonaventure_1940_IWM_A_1733.jpg",
+    "about": "Operation Fish",
+    "credit": "Beadell, S J (Lt), Royal Navy official photographer",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1940",
+    "caption": "Foto van de Britse kruiser HMS Bonaventure.",
+    "description_original": "Photograph of British cruiser HMS Bonaventure."
+  }
 }

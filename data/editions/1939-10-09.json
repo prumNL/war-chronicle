@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/NLW_Table2_tango7174.jpg/960px-NLW_Table2_tango7174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:NLW_Table2_tango7174.jpg",
+    "about": "Newfoundland and Labrador",
+    "credit": "Tango7174",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2009-08-17",
+    "caption": "Tafelberg (518m), West Newfoundland, Canada.",
+    "description_original": "Table Mountain (518m), Western Newfoundland, Canada. In the foreground, Big Pond, about 20km northwest of Channel-Port aux Basques."
+  }
 }

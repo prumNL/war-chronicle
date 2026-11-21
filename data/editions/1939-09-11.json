@@ -49,5 +49,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Arabian_Desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Arabian_Desert.jpg",
+    "about": "Saudi Arabia",
+    "credit": "Pfly",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "2007-01-22",
+    "caption": "Dit is een kaart met de locatie van de Arabische woestijn.",
+    "description_original": "This is a map showing the location of the Arabian Desert. The yellow line encloses ecoregions as delineated by the World Wide Fund for Nature: the \"Arabian Desert and East Sahero-Arabian xeric shrublands\", and the \"Arabian Gulf desert and semi-desert\" (a narrow strip along the Persian Gulf coast), and the \"Red Sea Nubo-Sindian tropical desert and semi-desert\" (along the Red Sea and in patches thro"
+  }
 }

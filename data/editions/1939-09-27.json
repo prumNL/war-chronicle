@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Je%C5%84cy1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Je%C5%84cy1.jpg",
+    "about": "Battle of Władypol",
+    "credit": "Unknown TASS war correspondent",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1939-09",
+    "caption": "Poolse krijgsgevangenen gevangen genomen door het Rode Leger na de Sovjet invasie van Polen.",
+    "description_original": "Polish prisoners of war captured by the Red Army after the Soviet invasion of Poland."
+  }
 }

@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Guerra_ruso-japonesa%2C_entrada_del_alojamiento_del_general_Asaki%2C_delante_de_Sandep%C3%BA.jpg/960px-Guerra_ruso-japonesa%2C_entrada_del_alojamiento_del_general_Asaki%2C_delante_de_Sandep%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Guerra_ruso-japonesa,_entrada_del_alojamiento_del_general_Asaki,_delante_de_Sandep%C3%BA.jpg",
+    "about": "Imperial Japanese Army",
+    "credit": "Unknown authorUnknown author (De fotografía de «Collier's Weekly»)",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1905-02-20",
+    "caption": "Guerra ruso-japonesa, entrada del alojamiento del general Asaki, delante de Sandepú, de fotografía de Collier's Weekly, en la revista española La Ilustración Artística.",
+    "description_original": "Guerra ruso-japonesa, entrada del alojamiento del general Asaki, delante de Sandepú, de fotografía de Collier's Weekly, en la revista española La Ilustración Artística."
+  }
 }

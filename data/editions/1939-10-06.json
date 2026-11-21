@@ -49,5 +49,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gallup_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Gallup_Portrait.jpg",
+    "about": "Gallup, Inc.",
+    "credit": "Kate Mereand",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "date": "Taken on 24 September 2005, 16:50:46 (according to Exif data)",
+    "caption": "Het Gallup Organisatie kantoor in Washington, D.C.",
+    "description_original": "The Gallup Organization office in Washington, D.C. The reflection is of the National Portrait Gallery."
+  }
 }

@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Crowd_jams_Senate_hearing_room_to_hear_former_Secretary_of_State_criticize_Neutrality_Act._Washington%2C_D.C.%2C_April_5._Before_a_well_packed_hearing_room_today_former_Secretary_of_State_Henry_LCCN2016875383.tif/lossy-page1-960px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Crowd_jams_Senate_hearing_room_to_hear_former_Secretary_of_State_criticize_Neutrality_Act._Washington,_D.C.,_April_5._Before_a_well_packed_hearing_room_today_former_Secretary_of_State_Henry_LCCN2016875383.tif",
+    "about": "Neutrality Acts of the 1930s",
+    "credit": "Harris & Ewing, photographer",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1939-04-05",
+    "caption": "Titel: Crowd jamt hoorzittingszaal van de Senaat om te horen dat voormalig staatssecretaris Neutraliteitswet bekritiseert.",
+    "description_original": "Title: Crowd jams Senate hearing room to hear former Secretary of State criticize Neutrality Act. Washington, D.C., April 5. Before a well packed hearing room today former Secretary of State Henry L. Stimson warned the Senate Foreign Relations Committee that the present Neutrality Act is an instrument which may make the United States the next victim of attack. He was the first witness on a half a "
+  }
 }

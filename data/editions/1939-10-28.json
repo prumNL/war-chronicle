@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Czechoslovakia1920-38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Czechoslovakia1920-38.jpg",
+    "about": "Czechoslovakia",
+    "credit": "Mariusz Pazdziora",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "date": "2008",
+    "caption": "Tsjecho-Slowakije 1920-1938, fysiek/Tsjechoslowacja 1920-38, fizyczna",
+    "description_original": "Czechoslovakia 1920-1938, physical/Czechoslowacja 1920-38, fizyczna"
+  }
 }

@@ -49,5 +49,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Atlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg/960px-Atlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg",
+    "about": "Baltic Germans",
+    "credit": "Dirk Jansz van Santen",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1662date QS:P571,+1662-00-00T00:00:00Z/9",
+    "caption": "Deze kaart geeft de Baltische staten Letland en Estland weer.",
+    "description_original": "This map depicts the Baltic states Latvia and Estonia. Ever since the Treaty of Altmar in 1629 this area was a Swedish province which was mainly inhabited by Germans. The map was published in 1662 in the second volume of Joan Blaeus Atlas Maior. As a basis for this map, Blaeu used a large-size wall map from the Swedish scientist Anders Bureus (1571-1661), who was head of the topographical survey."
+  }
 }

@@ -45,5 +45,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Satellite_image_of_Latvia_in_March_2003.jpg/960px-Satellite_image_of_Latvia_in_March_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Latvia_in_March_2003.jpg",
+    "about": "Latvia",
+    "credit": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "2003-03-28",
+    "caption": "Satellietbeeld van Letland in maart 2003.",
+    "description_original": "Satellite image of Latvia in March 2003."
+  }
 }

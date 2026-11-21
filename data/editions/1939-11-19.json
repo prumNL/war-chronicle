@@ -26,5 +26,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bundesarchiv_Bild_101I-134-0791-29A%2C_Polen%2C_Ghetto_Warschau%2C_Ghettomauer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-134-0791-29A,_Polen,_Ghetto_Warschau,_Ghettomauer.jpg",
+    "about": "Warsaw Ghetto",
+    "credit": "Ludwig Knobloch",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "24 May 1941date QS:P571,+1941-05-24T00:00:00Z/11",
+    "caption": "Warschau Getto: Zelaznej Bramy (Iron Gate) Square [1], gettomuur en Lubomirski paleis.",
+    "description_original": "Warsaw Ghetto: Zelaznej Bramy (Iron Gate) Square [1], ghetto wall and Lubomirski palace. Photo likely taken from Janasz Bazaar building at Rynkowa 11 street."
+  }
 }

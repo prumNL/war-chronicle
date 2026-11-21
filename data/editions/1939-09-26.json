@@ -95,5 +95,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Manif_12_oct_2010_Paris.jpg/960px-Manif_12_oct_2010_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Manif_12_oct_2010_Paris.jpg",
+    "about": "French Communist Party",
+    "credit": "Jebulon",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "2010-10-12",
+    "caption": "De \"Front de Gauche\" groep (french communistische partij + partij de gauche) op de Parijse demonstratie van 12 oct. 2010, tegen de pensioenwet.",
+    "description_original": "The \"Front de Gauche\" group (french communist party + parti de gauche) at the parisian demonstration of 12 oct. 2010, against the \"retirement law\"."
+  }
 }

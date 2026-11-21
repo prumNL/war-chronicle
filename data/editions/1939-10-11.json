@@ -26,5 +26,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/960px-FDR_1944_Color_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg",
+    "about": "Franklin D. Roosevelt",
+    "credit": "Leon Perskie",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "date": "1944-08-22",
+    "caption": "Oorspronkelijke kleurtransparantie van FDR genomen op 1944 Officiële campagne Portretsessie door Leon A.",
+    "description_original": "Original color transparency of FDR taken at 1944 Official Campaign Portrait session by Leon A. Perskie, Hyde Park, New York, August 22, 1944. Gift of Beatrice Perskie Foxman and Dr. Stanley B. Foxman. August 22, 1944"
+  }
 }

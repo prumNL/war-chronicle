@@ -26,5 +26,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Tweede_Wereldoorlog%2C_SFA022807028.jpg/960px-Tweede_Wereldoorlog%2C_SFA022807028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Tweede_Wereldoorlog,_SFA022807028.jpg",
+    "about": "SS Simon Bolivar",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1939",
+    "caption": "Omschrijving: Tweede Werelddoorlog.",
+    "description_original": "Omschrijving: Tweede Wereldoorlog. Scheepsramp van het Nederlandse schip de \"Simon Bolivar\", dat ten prooi viel aan de zee-oorlog tussen Engeland, Frankrijk en Duitsland, en op een mijn liep, -waarbij 86 doden vielen. Foto: verpleegster met twee geredde Indische babies op de arm. 1939."
+  }
 }

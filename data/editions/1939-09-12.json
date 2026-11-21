@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mus%C3%A9e_Boucher-de-Perthes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Boucher-de-Perthes.jpg",
+    "about": "Abbeville",
+    "credit": "Emmanuelhammel",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "",
+    "caption": "Le musée Boucher-de-Perthes à Abbeville.",
+    "description_original": "Le musée Boucher-de-Perthes à Abbeville."
+  }
 }

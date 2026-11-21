@@ -114,5 +114,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ss_athenia.jpg/960px-Ss_athenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ss_athenia.jpg",
+    "about": "SS Athenia (1922)",
+    "credit": "Johnston, C.M. (Part of the Clifford M. Johnston collection)",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1933",
+    "caption": "SS Athene in Montreal Harbour in 1933.",
+    "description_original": "SS Athenia in Montreal Harbour in 1933. Credit National Archives of Canada."
+  }
 }

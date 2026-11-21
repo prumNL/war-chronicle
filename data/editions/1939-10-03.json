@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/U35_Kriegsmarine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:U35_Kriegsmarine.jpg",
+    "about": "German submarine U-35 (1936)",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "circa 1939date QS:P,+1939-00-00T00:00:00Z/9,P1480,Q5727902",
+    "caption": "Deutsches U-Boot U 35 der Kriegsmarine (1936 - 1939).",
+    "description_original": "Deutsches U-Boot U 35 der Kriegsmarine (1936 - 1939)."
+  }
 }

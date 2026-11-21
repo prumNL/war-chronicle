@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HMS_Sturgeon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:HMS_Sturgeon.jpg",
+    "about": "HMS Sturgeon (73S)",
+    "credit": "Royal Navy official photographer",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1933",
+    "caption": "Britse S klasse onderzeeër HMSM STURGEON onderweg. 3\" geweer in de 'verhoogde' positie.",
+    "description_original": "British S class submarine HMSM STURGEON underway. 3\" gun in the 'raised' position."
+  }
 }

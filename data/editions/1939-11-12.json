@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bundesarchiv_Bild_137-064356%2C_Grafik%2C_Ansiedlung_im_Wartheland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_137-064356,_Grafik,_Ansiedlung_im_Wartheland.jpg",
+    "about": "Polish areas annexed by Nazi Germany",
+    "credit": "Bogo",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "1940date QS:P571,+1940-00-00T00:00:00Z/9",
+    "caption": "Voor documentaire doeleinden behield het Duitse Federale Archief vaak de originele beeldtitels, die onjuist, bevooroordeeld, verouderd of politiek extreem kunnen zijn.",
+    "description_original": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Grafik, Ansiedlung im Wartheland Wartheland/Ansiedlung Karte: die Ansiedlung der Umsiedler nach Herkunftsgebieten; 1940 [Grafik, Karte.- Ansiedlung deutschstämmiger Umsiedler im Watheland]"
+  }
 }

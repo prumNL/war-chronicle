@@ -110,5 +110,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/U-47.jpg/960px-U-47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:U-47.jpg",
+    "about": "German submarine U-47 (1938)",
+    "credit": "Rama",
+    "license": "CC BY-SA 2.0 fr",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "date": "2005-02-20 15:52:19",
+    "caption": "",
+    "description_original": ""
+  }
 }

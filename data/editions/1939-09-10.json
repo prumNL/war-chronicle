@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Canada_Gazette_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Canada_Gazette_1901.jpg",
+    "about": "Canada Gazette",
+    "credit": "Government of Canada",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1901-01-26",
+    "caption": "Canada Gazette",
+    "description_original": "Canada Gazette"
+  }
 }

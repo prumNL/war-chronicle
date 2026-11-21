@@ -68,5 +68,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG/960px-Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG",
+    "about": "Prague",
+    "credit": "Deror_avi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2017-06-15 16:07:15",
+    "caption": "Uitzicht vanuit Petřín, Praag",
+    "description_original": "Views from Petřín, Prague"
+  }
 }

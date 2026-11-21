@@ -45,5 +45,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bundesarchiv_Bild_196-01378%2C_Hela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_196-01378,_Hela.jpg",
+    "about": "Battle of Hel",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "August 1939date QS:P571,+1939-08-00T00:00:00Z/10",
+    "caption": "Voor documentaire doeleinden behield het Duitse Federale Archief vaak de originele beeldtitels, die onjuist, bevooroordeeld, verouderd of politiek extreem kunnen zijn.",
+    "description_original": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Hela"
+  }
 }

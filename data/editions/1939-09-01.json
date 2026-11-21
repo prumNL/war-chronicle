@@ -114,5 +114,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bundesarchiv_Bild_183-C06536%2C_Sir_Nevile_Henderson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-C06536,_Sir_Nevile_Henderson.jpg",
+    "about": "Nevile Henderson",
+    "credit": "Dorneth",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "date": "May 1937date QS:P571,+1937-05-00T00:00:00Z/10",
+    "caption": "Voor documentaire doeleinden behield het Duitse Federale Archief vaak de originele beeldtitels, die onjuist, bevooroordeeld, verouderd of politiek extreem kunnen zijn.",
+    "description_original": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. Scherl: Sir Nevile Henderson, der neue Britische Botschafter in Berlin. Foto:Dorneth, 5. Mai 1937 5774-37"
+  }
 }

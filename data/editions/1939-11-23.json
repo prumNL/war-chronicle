@@ -72,5 +72,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HMS_Rawalpindi_%28MOD_381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:HMS_Rawalpindi_(MOD_381).jpg",
+    "about": "HMS Rawalpindi",
+    "credit": "Dring, T C",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "Unknown date",
+    "caption": "Model van de gewapende handelskruiser HMS Rawalpindi. Harland en Wolff bouwden het schip in Greenock en lanceerden haar in 1925 als een 16.619 BRT P&O passagiersschip.",
+    "description_original": "Model of the armed merchant cruiser HMS Rawalpindi.Harland and Wolff built the ship in Greenock and launched her in 1925 as a 16,619 GRT P&O passenger liner. The Admiralty requisitioned her in September 1939 and had her converted into an armed merchant cruiser. On 23 November 1939 the German battleships Scharnhorst and Gneisenau sank her by gunfire betwen Iceland and the Faroe Islands."
+  }
 }

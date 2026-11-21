@@ -49,5 +49,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Strait_of_dover_STS106-718-28.jpg/960px-Strait_of_dover_STS106-718-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Strait_of_dover_STS106-718-28.jpg",
+    "about": "Strait of Dover",
+    "credit": "NASA",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "17 October 2000",
+    "caption": "Straat van Dover",
+    "description_original": "Strait of Dover"
+  }
 }

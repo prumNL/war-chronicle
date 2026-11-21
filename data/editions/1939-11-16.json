@@ -22,5 +22,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pierce_Butler.jpg/960px-Pierce_Butler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pierce_Butler.jpg",
+    "about": "Pierce Butler (judge)",
+    "credit": "Harris & Ewing, photographer.",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "circa 1922date QS:P,+1922-00-00T00:00:00Z/9,P1480,Q5727902",
+    "caption": "Pierce Butler, 1866- , buste portret, naar links gericht",
+    "description_original": "Pierce Butler, 1866- , bust portrait, facing left"
+  }
 }

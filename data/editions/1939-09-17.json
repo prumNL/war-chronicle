@@ -91,5 +91,15 @@
       ]
     }
   ],
-  "photo": null
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/HMS_Courageous_WWI.jpg/960px-HMS_Courageous_WWI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:HMS_Courageous_WWI.jpg",
+    "about": "HMS Courageous (50)",
+    "credit": "Oscar Parkes",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1916",
+    "caption": "HMS MOURAGEUS kort na voltooiing, in haar oorspronkelijke configuratie als een grote kruiser.",
+    "description_original": "HMS COURAGEOUS shortly after completion, in her original configuration as a large cruiser."
+  }
 }
