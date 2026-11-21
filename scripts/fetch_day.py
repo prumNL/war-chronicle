@@ -35,21 +35,20 @@ def historical_date(today):
         return today.replace(year=today.year - OFFSET_YEARS, day=28)
 
 
-def fetch_month(year, month):
-    page = f"{MONTHS[month - 1]}_{year}"
-    r = requests.get(
-        API,
-        params={"action": "parse", "page": page, "prop": "text|revid",
-                "format": "json", "formatversion": 2, "redirects": 1},
-        headers={"User-Agent": UA},
-        timeout=30,
-    )
+def api_parse(page, **extra):
+    params = {"action": "parse", "page": page, "format": "json",
+              "formatversion": 2, "redirects": 1}
+    params.update(extra)
+    r = requests.get(API, params=params, headers={"User-Agent": UA}, timeout=30)
     r.raise_for_status()
     data = r.json()
     if "parse" not in data:
         raise RuntimeError(f"Wikipedia gaf geen pagina terug voor {page}: {data.get('error')}")
-    p = data["parse"]
-    return p["title"], p["revid"], p["text"]
+    return data["parse"]
+
+
+def clean(text):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", text).replace("\xa0", " ")).strip()
 
 
 def parse_li(li):
@@ -63,31 +62,35 @@ def parse_li(li):
         seen.add(href)
         links.append({"title": a.get("title") or a.get_text(strip=True),
                       "url": "https://en.wikipedia.org" + href})
-    text = re.sub(r"\s+", " ", li.get_text()).strip()
+    text = re.sub(r"\s+", " ", li.get_text().replace("\xa0", " ")).strip()
     kind = "born" if text.startswith("Born:") else "died" if text.startswith("Died:") else "event"
     return {"kind": kind, "text": text, "links": links}
 
 
-def parse_day(html, d):
-    """Geeft de lijst gebeurtenissen van datum d, of None als de dag niet op de pagina staat."""
+def parse_day_html(html):
+    """Haal de gebeurtenissen uit de HTML van het stukje van één dag."""
     soup = BeautifulSoup(html, "html.parser")
-    for h in soup.find_all(["h2", "h3"]):
-        m = HEADING.match(h.get_text(" ", strip=True))
-        if not m or m.group(1) not in MONTHS:
+    events = []
+    for li in soup.find_all("li"):
+        if li.find_parent("li") or li.find_parent(class_=re.compile("reflist|references|navbox")):
             continue
-        if (MONTHS.index(m.group(1)) + 1, int(m.group(2)), int(m.group(3))) != (d.month, d.day, d.year):
+        if li.parent.name != "ul":
             continue
-        start = h.find_parent("div", class_="mw-heading") or h
-        events = []
-        for sib in start.next_siblings:
-            if getattr(sib, "name", None) is None:
-                continue
-            if sib.name in ("h2", "h3") or (sib.name == "div" and "mw-heading" in (sib.get("class") or [])):
-                break
-            if sib.name == "ul":
-                events += [parse_li(li) for li in sib.find_all("li", recursive=False)]
-        return events
-    return None
+        events.append(parse_li(li))
+    return events
+
+
+def fetch_day(d):
+    """Geeft (titel, revid, gebeurtenissen, gevonden_koppen). Gebeurtenissen is None als de dag ontbreekt."""
+    page = f"{MONTHS[d.month - 1]}_{d.year}"
+    info = api_parse(page, prop="sections|revid")
+    wanted = re.compile(rf"^{MONTHS[d.month - 1]} {d.day}, {d.year}\b")
+    lines = [clean(sec.get("line", "")) for sec in info["sections"]]
+    for sec, line in zip(info["sections"], lines):
+        if wanted.match(line):
+            part = api_parse(page, prop="text", section=sec["index"])
+            return info["title"], info["revid"], parse_day_html(part["text"]), lines
+    return info["title"], info["revid"], None, lines
 
 
 def main():
@@ -98,10 +101,10 @@ def main():
     if not (WAR_START <= d <= WAR_END):
         print(f"{d} valt buiten 1 sep 1939 - 2 sep 1945. Geen nieuwe editie.")
         return 0
-    title, revid, html = fetch_month(d.year, d.month)
-    events = parse_day(html, d)
+    title, revid, events, lines = fetch_day(d)
     if events is None:
         print(f"FOUT: de dag {d} staat niet op de pagina '{title}'.")
+        print(f"Gevonden koppen ({len(lines)}): {lines[:12]}")
         return 1
     out = {
         "date": d.isoformat(),
