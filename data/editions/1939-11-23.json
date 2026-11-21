@@ -1,0 +1,52 @@
+{
+  "date": "1939-11-23",
+  "number": 84,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Britse gewapende handelskruiser HMS Rawalpindi werd tot zinken gebracht door Duitse…",
+      "location": "",
+      "body": [
+        "De Britse gewapende handelskruiser HMS Rawalpindi werd tot zinken gebracht door Duitse oorlogsschepen ten noorden van de Faeröer. 238 van de 286 bemanningsleden verloren."
+      ],
+      "context": "HMS Rawalpindi was een Britse gewapende handelskruiser die tijdens de eerste maanden van de Tweede Wereldoorlog werd gezonken in een oppervlakteactie tegen de Duitse slagschepen Scharnhorst en Gneisenau. Haar kapitein was Edward Kennedy.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The British armed merchant cruiser HMS Rawalpindi was sunk by German warships north of the Faroe Islands. 238 of the 286 crew were lost.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: HMS Rawalpindi (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Rawalpindi"
+        }
+      ]
+    },
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "De Duitse autoriteiten bevalen alle Joden boven de leeftijd van tien jaar die in de algemene…",
+      "location": "",
+      "body": [
+        "De Duitse autoriteiten bevalen alle Joden boven de leeftijd van tien jaar die in de algemene regering woonden, witte armbanden te dragen met een Davidster."
+      ],
+      "context": "== Geschiedenis ==Na de invasie van Polen door nazi-Duitsland, Slowakije en de Sovjet-Unie in 1939 was de regering formeel het gouvernement van de bezette Poolse gebieden. De pas bezette Tweede Poolse Republiek werd verdeeld in drie zones: de algemene regering in haar centrum, Poolse gebieden die door nazi-Duitsland in het westen zijn geannexeerd en Poolse gebieden die door de Sovjet-Unie in het oosten zijn geannexeerd.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "German authorities ordered all Jews over the age of ten residing in the General Government to wear white armbands bearing a Star of David.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: General Government (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "date": "1939-11-23",
+  "edition_number": 84,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T14:07:46+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "German authorities ordered all Jews over the age of ten residing in the General Government to wear white armbands bearing a Star of David.",
+      "links": [
+        {
+          "title": "General Government",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        },
+        {
+          "title": "Star of David",
+          "url": "https://en.wikipedia.org/wiki/Star_of_David"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British armed merchant cruiser HMS Rawalpindi was sunk by German warships north of the Faroe Islands. 238 of the 286 crew were lost.",
+      "links": [
+        {
+          "title": "HMS Rawalpindi",
+          "url": "https://en.wikipedia.org/wiki/HMS_Rawalpindi"
+        },
+        {
+          "title": "Faroe Islands",
+          "url": "https://en.wikipedia.org/wiki/Faroe_Islands"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Official Secrets Act 1939 received Royal Assent in the United Kingdom, revising the Act of 1920.",
+      "links": [
+        {
+          "title": "Official Secrets Act 1939",
+          "url": "https://en.wikipedia.org/wiki/Official_Secrets_Act_1939"
+        },
+        {
+          "title": "Royal Assent",
+          "url": "https://en.wikipedia.org/wiki/Royal_Assent"
+        },
+        {
+          "title": "Official Secrets Act 1920",
+          "url": "https://en.wikipedia.org/wiki/Official_Secrets_Act_1920"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Bill Bissett, poet, in Halifax, Nova Scotia, Canada",
+      "links": [
+        {
+          "title": "Bill Bissett",
+          "url": "https://en.wikipedia.org/wiki/Bill_Bissett"
+        },
+        {
+          "title": "Halifax, Nova Scotia",
+          "url": "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia"
+        }
+      ]
+    }
+  ]
+}

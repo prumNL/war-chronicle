@@ -1,1 +1,24 @@
-{"editions":[{"date":"1939-11-21","number":82,"headline":"Britse torpedojager Gipsy vergaat door magnetische mijn","topics":["Verenigd Koninkrijk","Zeeoorlog","Mijnen","Nederland"]}]}
+{
+ "editions": [
+  {
+   "date": "1939-11-21",
+   "number": 82,
+   "headline": "Britse torpedojager Gipsy vergaat door magnetische mijn",
+   "topics": [
+    "Verenigd Koninkrijk",
+    "Zeeoorlog",
+    "Mijnen",
+    "Nederland"
+   ]
+  },
+  {
+   "date": "1939-11-23",
+   "number": 84,
+   "headline": "De Britse gewapende handelskruiser HMS Rawalpindi werd tot zinken gebracht door Duitse…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Politiek en diplomatie"
+   ]
+  }
+ ]
+}
