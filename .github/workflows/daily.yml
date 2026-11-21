@@ -14,6 +14,9 @@ on:
       overschrijven:
         description: "Bestaande edities overschrijven? Typ ja (anders blijven ze staan)"
         required: false
+      fotos:
+        description: "Alleen foto's toevoegen aan bestaande edities? Typ ja"
+        required: false
 
 permissions:
   contents: write
@@ -42,6 +45,7 @@ jobs:
           VAN: ${{ inputs.van }}
           TOT: ${{ inputs.tot }}
           FORCE: ${{ inputs.overschrijven }}
+          PHOTOS: ${{ inputs.fotos }}
         run: python scripts/build_edition.py "$VAN" "$TOT"
       - name: Sla op en publiceer
         env:
