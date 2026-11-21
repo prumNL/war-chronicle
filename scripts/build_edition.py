@@ -141,26 +141,48 @@ def plain(h):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", htmllib.unescape(h or ""))).strip()
 
 
-def photo_for(url, translate):
-    """Vrije foto bij het Wikipedia-artikel achter url, met bron en licentie. Alleen Commons-bestanden."""
-    slug = url.split("/wiki/", 1)[1]
-    if slug in GENERIC_CONTEXT or re.fullmatch(r"\d{4}", slug):
-        return None
-    j = summary_json(slug)
-    if not j or j.get("type") != "standard":
-        return None
+def api_get(base, **params):
+    try:
+        r = requests.get(base, params=dict(params, format="json", formatversion=2), headers=UA, timeout=30)
+        return r.json()
+    except Exception:
+        return {}
+
+
+def candidate_names(j):
+    """Bestandsnamen op Commons bij een Wikipedia-artikel: hoofdafbeelding, Wikidata-afbeelding, Commons-categorie."""
+    names = []
     src = (j.get("originalimage") or j.get("thumbnail") or {}).get("source", "")
     m = re.search(r"/wikipedia/commons/(?:thumb/)?[0-9a-f]/[0-9a-f]{2}/([^/]+)", src)
-    if not m:
-        return None  # lokale (vaak niet-vrije) enwiki-uploads slaan we over
-    name = urllib.parse.unquote(m.group(1))
+    if m:
+        names.append(urllib.parse.unquote(m.group(1)))
+    qid = j.get("wikibase_item")
+    if qid:
+        ent = api_get("https://www.wikidata.org/w/api.php", action="wbgetentities", ids=qid, props="claims")
+        claims = ((ent.get("entities") or {}).get(qid) or {}).get("claims", {})
+        val = lambda c: (c.get("mainsnak", {}).get("datavalue") or {}).get("value")
+        names += [v for v in (val(c) for c in claims.get("P18", [])) if isinstance(v, str)]
+        cats = [v for v in (val(c) for c in claims.get("P373", [])) if isinstance(v, str)]
+        if cats:
+            res = api_get("https://commons.wikimedia.org/w/api.php", action="query", list="categorymembers",
+                          cmtitle="Category:" + cats[0], cmtype="file", cmlimit=12)
+            names += [t["title"].removeprefix("File:") for t in (res.get("query") or {}).get("categorymembers", [])]
+    seen, out = set(), []
+    for n in names:
+        n = n.replace("_", " ")
+        if n not in seen:
+            seen.add(n)
+            out.append(n)
+    return out
+
+
+def photo_from_name(name, j, slug, translate):
     if BAD_FILE.match(name) or name.lower().endswith(BAD_EXT):
         return None
+    res = api_get("https://commons.wikimedia.org/w/api.php", action="query", titles="File:" + name,
+                  prop="imageinfo", iiprop="url|extmetadata", iiurlwidth=900)
     try:
-        r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
-            "action": "query", "titles": "File:" + name, "prop": "imageinfo", "iiprop": "url|extmetadata",
-            "iiurlwidth": 900, "format": "json", "formatversion": 2})
-        info = (r.json()["query"]["pages"][0].get("imageinfo") or [None])[0]
+        info = (res["query"]["pages"][0].get("imageinfo") or [None])[0]
     except Exception:
         return None
     if not info or not info.get("thumburl"):
@@ -175,6 +197,21 @@ def photo_for(url, translate):
             "credit": plain(md.get("Artist")) or plain(md.get("Credit")), "license": lic,
             "license_url": md.get("LicenseUrl", ""), "date": plain(md.get("DateTimeOriginal")),
             "caption": translate(first) if first else "", "description_original": desc[:400]}
+
+
+def photo_for(url, translate):
+    """Vrije Commons-foto bij het Wikipedia-artikel achter url, met bron en licentie."""
+    slug = url.split("/wiki/", 1)[1]
+    if slug in GENERIC_CONTEXT or re.fullmatch(r"\d{4}", slug):
+        return None
+    j = summary_json(slug)
+    if not j or j.get("type") != "standard":
+        return None
+    for name in candidate_names(j)[:6]:
+        p = photo_from_name(name, j, slug, translate)
+        if p:
+            return p
+    return None
 
 
 def find_photo(urls, translate):
@@ -300,7 +337,7 @@ def add_photo_to_existing(d, translate, force):
     if not path.exists():
         return False
     ed = json.loads(path.read_text(encoding="utf-8"))
-    if "photo" in ed and not force:
+    if ed.get("photo") and not force:
         return False
     raw_path = DATA / "raw" / f"{d.isoformat()}.json"
     links = {}
@@ -311,9 +348,10 @@ def add_photo_to_existing(d, translate, force):
     for a in ed["articles"]:
         urls += links.get(a.get("original", ""), [])
         urls += [x["url"] for x in a.get("sources", []) if x["url"].startswith("https://en.wikipedia.org/wiki/")]
-    ed["photo"] = find_photo(urls, translate)
+    found = find_photo(urls, translate)
+    ed["photo"] = found or ed.get("photo")
     path.write_text(json.dumps(ed, ensure_ascii=False, indent=2), encoding="utf-8")
-    return ed["photo"] is not None
+    return found is not None
 
 
 def main():
@@ -326,7 +364,7 @@ def main():
         for d in parse_dates(sys.argv[1:]):
             ok = add_photo_to_existing(d, translate, force)
             found += ok
-            print(f"{d}: {'foto toegevoegd' if ok else 'geen (nieuwe) foto'}")
+            print(f"{d}: {'foto toegevoegd' if ok else 'geen foto gevonden of al aanwezig'}")
             time.sleep(0.5)
         print(f"Klaar: {found} foto's toegevoegd.")
         return 0
