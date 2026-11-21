@@ -10,13 +10,22 @@ function histDate(){
   if(m===2&&d===29&&!leap)d=28;
   return `${y}-${pad(m)}-${pad(d)}`;
 }
-function article(a){
+function label(a){
+  if(a.auto)return a.translated?'Automatisch vertaald':'Automatisch, Engelstalig';
+  return STATUS[a.status]||'Onzeker';
+}
+function foot(a){
   const src=(a.sources||[]).filter(s=>String(s.url).startsWith('https://'))
     .map(s=>`<a href="${esc(s.url)}" rel="noopener" target="_blank">${esc(s.title)}</a>`).join('; ');
-  return `<article><p class="sec">${esc(a.section)}</p><h3>${esc(a.headline)}</h3>
-  <p><span class="loc">${esc(a.location)}</span>. ${a.body.map(esc).join('</p><p>')}</p>
-  <p class="ctx">${esc(a.context)}</p>
-  <p class="meta"><span class="tag">${esc(STATUS[a.status]||'Onzeker')}</span>Bronnen: ${src||'geen'}</p></article>`;
+  const orig=a.original?`<br>Origineel (Engels): ${esc(a.original)}`:'';
+  return `<p class="meta"><span class="tag">${esc(label(a))}</span>Bronnen: ${src||'geen'}${orig}</p>`;
+}
+function text(a){
+  const loc=a.location?`<span class="loc">${esc(a.location)}</span>. `:'';
+  return `<p>${loc}${a.body.map(esc).join('</p><p>')}</p>`+(a.context?`<p class="ctx">${esc(a.context)}</p>`:'');
+}
+function article(a){
+  return `<article><p class="sec">${esc(a.section)}</p><h3>${esc(a.headline)}</h3>${text(a)}${foot(a)}</article>`;
 }
 function renderEdition(e,notice){
   $('#edNo').textContent=`Editie nr. ${e.number}`;
@@ -24,9 +33,7 @@ function renderEdition(e,notice){
   const n=$('#notice');n.hidden=!notice;n.textContent=notice||'';
   const [lead,...rest]=e.articles;
   $('#lead').innerHTML=lead?`<div class="lead"><p class="sec">${esc(lead.section)}</p><h2>${esc(lead.headline)}</h2>
-   <p class="meta"><span class="loc">${esc(lead.location)}</span></p>
-   <div class="body"><p>${lead.body.map(esc).join('</p><p>')}</p><p class="ctx">${esc(lead.context)}</p></div>
-   <p class="meta"><span class="tag">${esc(STATUS[lead.status]||'Onzeker')}</span>Bronnen: ${(lead.sources||[]).filter(s=>String(s.url).startsWith('https://')).map(s=>`<a href="${esc(s.url)}" rel="noopener" target="_blank">${esc(s.title)}</a>`).join('; ')}</p></div>`:'';
+   <div class="body">${text(lead)}</div>${foot(lead)}</div>`:'';
   $('#more').innerHTML=rest.map(article).join('');
 }
 function renderArchive(items){
