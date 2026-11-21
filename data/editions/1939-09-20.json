@@ -1,0 +1,52 @@
+{
+  "date": "1939-09-20",
+  "number": 20,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse onderzeeër U-27 werd gezonken door Britse destroyers ten westen van Schotland",
+      "location": "",
+      "body": [
+        "De Duitse onderzeeër U-27 werd gezonken door Britse destroyers ten westen van Schotland."
+      ],
+      "context": "De Duitse onderzeeër U-27 was een type VIIA U-boot van de Duitse Kriegsmarine. Haar kiel werd gelegd in november 1935 in Bremen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The German submarine U-27 was sunk by British destroyers west of Scotland.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: German submarine U-27 (1936) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-27_(1936)"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "Kraków gaf zich over in de Slag bij Tomaszów Lubelski",
+      "location": "",
+      "body": [
+        "Kraków gaf zich over in de Slag bij Tomaszów Lubelski."
+      ],
+      "context": "Kraków was een van de Poolse legers die deelnam aan de Poolse Defensieve Oorlog van 1939. Het werd officieel opgericht op 23 maart 1939, als de belangrijkste spil van de Poolse verdediging.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Army Kraków surrendered in the Battle of Tomaszów Lubelski.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Kraków Army (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w_Army"
+        }
+      ]
+    }
+  ]
+}

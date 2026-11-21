@@ -1,0 +1,166 @@
+{
+  "date": "1939-09-04",
+  "edition_number": 4,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:35:55+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "In the early hours of the morning in New Zealand, Governor-General Lord Galway signed the country's declaration of war on Germany and backdated it to 9:30 p.m. the previous night, the equivalent of 11 a.m. on September 3 in England so it would match the time that Chamberlain declared war.",
+      "links": [
+        {
+          "title": "Governor-General of New Zealand",
+          "url": "https://en.wikipedia.org/wiki/Governor-General_of_New_Zealand"
+        },
+        {
+          "title": "George Monckton-Arundell, 8th Viscount Galway",
+          "url": "https://en.wikipedia.org/wiki/George_Monckton-Arundell,_8th_Viscount_Galway"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Winston Churchill accepted Chamberlain's offer to join his war cabinet as First Lord of the Admiralty. Churchill now held the same position he had at the outbreak of World War I.",
+      "links": [
+        {
+          "title": "Winston Churchill",
+          "url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+          "title": "Chamberlain war ministry",
+          "url": "https://en.wikipedia.org/wiki/Chamberlain_war_ministry"
+        },
+        {
+          "title": "List of the First Lords of the Admiralty",
+          "url": "https://en.wikipedia.org/wiki/List_of_the_First_Lords_of_the_Admiralty"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Fifteen Blenheims and fourteen Wellingtons conducted a bombing raid on German warships at Wilhelmshaven and Brunsbüttel. The German cruiser Emden was damaged but seven bombers were shot down, mostly from anti-aircraft fire but at least one by a Bf 109 of II/JG 77 – the first Luftwaffe victory against the RAF.",
+      "links": [
+        {
+          "title": "Bristol Blenheim",
+          "url": "https://en.wikipedia.org/wiki/Bristol_Blenheim"
+        },
+        {
+          "title": "Vickers Wellington",
+          "url": "https://en.wikipedia.org/wiki/Vickers_Wellington"
+        },
+        {
+          "title": "Wilhelmshaven",
+          "url": "https://en.wikipedia.org/wiki/Wilhelmshaven"
+        },
+        {
+          "title": "Brunsbüttel",
+          "url": "https://en.wikipedia.org/wiki/Brunsb%C3%BCttel"
+        },
+        {
+          "title": "German cruiser Emden",
+          "url": "https://en.wikipedia.org/wiki/German_cruiser_Emden"
+        },
+        {
+          "title": "Messerschmitt Bf 109",
+          "url": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"
+        },
+        {
+          "title": "Jagdgeschwader 77",
+          "url": "https://en.wikipedia.org/wiki/Jagdgeschwader_77"
+        },
+        {
+          "title": "Luftwaffe",
+          "url": "https://en.wikipedia.org/wiki/Luftwaffe"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of the Border ended",
+      "links": [
+        {
+          "title": "Battle of the Border",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Border"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The four-day Battle of Pszczyna ended in German victory.",
+      "links": [
+        {
+          "title": "Battle of Pszczyna",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Pszczyna"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Różan began.",
+      "links": [
+        {
+          "title": "Battle of Różan",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%B3%C5%BCan"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Katowice massacre: German soldiers and Freikorps massacred some 80 Polish civilian defenders, including Boy and Girl Scouts, in the city of Katowice.",
+      "links": [
+        {
+          "title": "Katowice massacre",
+          "url": "https://en.wikipedia.org/wiki/Katowice_massacre"
+        },
+        {
+          "title": "Freikorps",
+          "url": "https://en.wikipedia.org/wiki/Freikorps"
+        },
+        {
+          "title": "Katowice",
+          "url": "https://en.wikipedia.org/wiki/Katowice"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Częstochowa massacre: German soldiers massacred some 1,140 Polish civilians, including 150 Jews, in the city of Częstochowa on 4–6 September.",
+      "links": [
+        {
+          "title": "Częstochowa massacre",
+          "url": "https://en.wikipedia.org/wiki/Cz%C4%99stochowa_massacre"
+        },
+        {
+          "title": "Częstochowa",
+          "url": "https://en.wikipedia.org/wiki/Cz%C4%99stochowa"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Nepal declared war on Germany.",
+      "links": [
+        {
+          "title": "Nepal",
+          "url": "https://en.wikipedia.org/wiki/Nepal"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Egypt broke off diplomatic relations with Germany.",
+      "links": [
+        {
+          "title": "Egypt",
+          "url": "https://en.wikipedia.org/wiki/Egypt"
+        }
+      ]
+    }
+  ]
+}

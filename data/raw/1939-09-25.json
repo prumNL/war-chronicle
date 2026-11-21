@@ -1,0 +1,48 @@
+{
+  "date": "1939-09-25",
+  "edition_number": 25,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:45+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "A tropical storm made landfall near San Pedro, California, the only tropical storm to do so in the twentieth century.",
+      "links": [
+        {
+          "title": "1939 California tropical storm",
+          "url": "https://en.wikipedia.org/wiki/1939_California_tropical_storm"
+        },
+        {
+          "title": "San Pedro, California",
+          "url": "https://en.wikipedia.org/wiki/San_Pedro,_California"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler issued Directive No. 4, Finishing the War in Poland.",
+      "links": [
+        {
+          "title": "List of Adolf Hitler's directives",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British began laying anti-submarine mines in the Strait of Dover.",
+      "links": [
+        {
+          "title": "Strait of Dover",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        }
+      ]
+    }
+  ]
+}

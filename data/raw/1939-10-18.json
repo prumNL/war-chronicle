@@ -1,0 +1,117 @@
+{
+  "date": "1939-10-18",
+  "edition_number": 48,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:18+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Soviet Union set up Military Bases in Estonia.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "President Roosevelt banned all belligerent submarines from American ports and territorial waters except in cases of force majeure.",
+      "links": [
+        {
+          "title": "Force majeure",
+          "url": "https://en.wikipedia.org/wiki/Force_majeure"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler issued Directive No. 7, Preparations for Attack in the West.",
+      "links": [
+        {
+          "title": "List of Adolf Hitler's directives",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The crew of the U-47 was brought to the Reich Chancellory in Berlin where they all received the Iron Cross 2nd Class and the personal congratulations of Hitler. Captain Günther Prien was awarded the Knight's Cross.",
+      "links": [
+        {
+          "title": "German submarine U-47 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)"
+        },
+        {
+          "title": "Iron Cross",
+          "url": "https://en.wikipedia.org/wiki/Iron_Cross"
+        },
+        {
+          "title": "Günther Prien",
+          "url": "https://en.wikipedia.org/wiki/G%C3%BCnther_Prien"
+        },
+        {
+          "title": "Knight's Cross of the Iron Cross",
+          "url": "https://en.wikipedia.org/wiki/Knight%27s_Cross_of_the_Iron_Cross"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "An art exhibition titled \"Contemporary Unknown American Painters\" opened at the Museum of Modern Art in New York. The exhibition made 79-year old folk artist Grandma Moses famous.",
+      "links": [
+        {
+          "title": "Museum of Modern Art",
+          "url": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art"
+        },
+        {
+          "title": "Grandma Moses",
+          "url": "https://en.wikipedia.org/wiki/Grandma_Moses"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Flavio Cotti, politician, in Prato-Sornico, Switzerland (d. 2020).",
+      "links": [
+        {
+          "title": "Flavio Cotti",
+          "url": "https://en.wikipedia.org/wiki/Flavio_Cotti"
+        },
+        {
+          "title": "Prato-Sornico",
+          "url": "https://en.wikipedia.org/wiki/Prato-Sornico"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Lee Harvey Oswald, assassin of US President John F. Kennedy (d. 1963).",
+      "links": [
+        {
+          "title": "Lee Harvey Oswald",
+          "url": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald"
+        },
+        {
+          "title": "President of the United States",
+          "url": "https://en.wikipedia.org/wiki/President_of_the_United_States"
+        },
+        {
+          "title": "John F. Kennedy",
+          "url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Henry Halcro Johnston, 83, Scottish botanist, physician, rugby player and Deputy Lieutenant for Orkney.",
+      "links": [
+        {
+          "title": "Henry Halcro Johnston",
+          "url": "https://en.wikipedia.org/wiki/Henry_Halcro_Johnston"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "1939-09-09",
+  "number": 9,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Het Duitse leger bezette Łódź",
+      "location": "",
+      "body": [
+        "Het Duitse leger bezette Łódź."
+      ],
+      "context": "Łódź is een stad in het Poolse woiwodschap Łódź. Het is de hoofdstad van het woiwodschap Łódź.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The German Army occupied Łódź.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Łódź (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"
+        }
+      ]
+    },
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "Het Canadese parlement keurde het besluit van de regering van William Lyon Mackenzie King…",
+      "location": "",
+      "body": [
+        "Het Canadese parlement keurde het besluit van de regering van William Lyon Mackenzie King om Duitsland de oorlog te verklaren goed."
+      ],
+      "context": "William Lyon Mackenzie King was de tiende minister-president van Canada voor drie niet-consecutieve termijnen van 1921 tot 1926, 1926 tot 1930, en 1935 tot 1948. Als liberaal was hij de dominante politicus in Canada van begin jaren twintig tot eind jaren veertig.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Canadian Parliament approved the William Lyon Mackenzie King government's decision to declare war on Germany.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: William Lyon Mackenzie King (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler heeft richtlijn nr. 3 uitgevaardigd",
+      "location": "",
+      "body": [
+        "Hitler heeft richtlijn nr. 3 uitgevaardigd, overdracht van strijdkrachten van Polen naar het Westen."
+      ],
+      "context": "Hieronder volgt een lijst van de Führer-richtlijnen en Führer-beschikkingen van Adolf Hitler in de loop van de Tweede Wereldoorlog:",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler issued Directive No. 3, Transfer of Forces from Poland to the West.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: List of Adolf Hitler's directives (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    }
+  ]
+}

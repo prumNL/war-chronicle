@@ -1,0 +1,29 @@
+{
+  "date": "1939-10-04",
+  "number": 34,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Adolf Hitler heeft tussen 1 september en 4 oktober een geheim decreet uitgevaardigd…",
+      "location": "",
+      "body": [
+        "Adolf Hitler heeft tussen 1 september en 4 oktober een geheim decreet uitgevaardigd waarbij amnestie werd verleend aan alle misdaden van het Duitse militaire en politiepersoneel in Polen. Het decreet rechtvaardigde de misdaden als natuurlijke reacties op \"de door de Polen gepleegde rampen.\""
+      ],
+      "context": "Adolf Hitler was een in Oostenrijk geboren Duitse politicus die vanaf 1933 tot zijn zelfmoord in 1945 dictator van Duitsland was. In 1933 werd hij de kanselier van Duitsland en in 1934 de titel Führer und Reichskanzler.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Adolf Hitler issued a secret decree granting an amnesty to all crimes committed by German military and police personnel in Poland between September 1 and October 4. The decree justified the crimes as being natural responses to \"atrocities committed by the Poles.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Adolf Hitler (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        }
+      ]
+    }
+  ]
+}

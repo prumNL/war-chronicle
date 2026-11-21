@@ -1,0 +1,95 @@
+{
+  "date": "1939-09-23",
+  "edition_number": 23,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:33+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Krasnobród was fought, resulting in Polish victory.",
+      "links": [
+        {
+          "title": "Battle of Krasnobród",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnobr%C3%B3d"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Panama Conference began with 21 countries of the Americas in attendance.",
+      "links": [
+        {
+          "title": "Panama Conference (1939)",
+          "url": "https://en.wikipedia.org/wiki/Panama_Conference_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Radios owned by Jews in Nazi Germany were confiscated.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "Cookie Lavagetto of the Brooklyn Dodgers went 6-for-6 with a walk during a 22–4 win over the Philadelphia Phillies.",
+      "links": [
+        {
+          "title": "Cookie Lavagetto",
+          "url": "https://en.wikipedia.org/wiki/Cookie_Lavagetto"
+        },
+        {
+          "title": "History of the Brooklyn Dodgers",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Brooklyn_Dodgers"
+        },
+        {
+          "title": "Philadelphia Phillies",
+          "url": "https://en.wikipedia.org/wiki/Philadelphia_Phillies"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "German submarine U-54 was commissioned.",
+      "links": [
+        {
+          "title": "German submarine U-54 (1939)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-54_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Janusz Gajos, actor, in Dąbrowa Górnicza, Poland",
+      "links": [
+        {
+          "title": "Janusz Gajos",
+          "url": "https://en.wikipedia.org/wiki/Janusz_Gajos"
+        },
+        {
+          "title": "Dąbrowa Górnicza",
+          "url": "https://en.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Sigmund Freud, 83, Austrian neurologist and psychoanalysist (euthanasia); Floyd Gibbons, 52, American war correspondent (heart attack)",
+      "links": [
+        {
+          "title": "Sigmund Freud",
+          "url": "https://en.wikipedia.org/wiki/Sigmund_Freud"
+        },
+        {
+          "title": "Floyd Gibbons",
+          "url": "https://en.wikipedia.org/wiki/Floyd_Gibbons"
+        }
+      ]
+    }
+  ]
+}

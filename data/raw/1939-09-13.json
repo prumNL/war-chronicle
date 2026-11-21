@@ -1,0 +1,128 @@
+{
+  "date": "1939-09-13",
+  "edition_number": 13,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:42+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Modlin began.",
+      "links": [
+        {
+          "title": "Battle of Modlin",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Modlin"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Cecylówka massacre: German troops massacred an estimated 54 to 68 civilians in Cecylówka during the invasion of Poland.",
+      "links": [
+        {
+          "title": "Cecylówka massacre",
+          "url": "https://en.wikipedia.org/wiki/Cecyl%C3%B3wka_massacre"
+        },
+        {
+          "title": "Cecylówka",
+          "url": "https://en.wikipedia.org/wiki/Cecyl%C3%B3wka"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Daladier formed his war cabinet.",
+      "links": [
+        {
+          "title": "Édouard Daladier",
+          "url": "https://en.wikipedia.org/wiki/%C3%89douard_Daladier"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British steam trawler Davara was sunk by the German submarine U-27 off the coast of Ireland.",
+      "links": [
+        {
+          "title": "Davara",
+          "url": "https://en.wikipedia.org/wiki/Davara"
+        },
+        {
+          "title": "German submarine U-27 (1936)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-27_(1936)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Early Wynn made his major league debut for the Washington Senators, pitching a 4-2 complete game loss against the Chicago White Sox.",
+      "links": [
+        {
+          "title": "Early Wynn",
+          "url": "https://en.wikipedia.org/wiki/Early_Wynn"
+        },
+        {
+          "title": "History of the Washington Senators (1901–60)",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Washington_Senators_(1901%E2%80%9360)"
+        },
+        {
+          "title": "Chicago White Sox",
+          "url": "https://en.wikipedia.org/wiki/Chicago_White_Sox"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A worldwide luxury sports car brand, Ferrari was founded by Enzo Ferrari in Italy.[citation needed]",
+      "links": [
+        {
+          "title": "Luxury car",
+          "url": "https://en.wikipedia.org/wiki/Luxury_car"
+        },
+        {
+          "title": "Ferrari",
+          "url": "https://en.wikipedia.org/wiki/Ferrari"
+        },
+        {
+          "title": "Enzo Ferrari",
+          "url": "https://en.wikipedia.org/wiki/Enzo_Ferrari"
+        },
+        {
+          "title": "Italy",
+          "url": "https://en.wikipedia.org/wiki/Italy"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Richard Kiel, actor, in Detroit, Michigan (d. 2014); Guntis Ulmanis, 5th President of Latvia, in Riga",
+      "links": [
+        {
+          "title": "Richard Kiel",
+          "url": "https://en.wikipedia.org/wiki/Richard_Kiel"
+        },
+        {
+          "title": "Detroit",
+          "url": "https://en.wikipedia.org/wiki/Detroit"
+        },
+        {
+          "title": "Michigan",
+          "url": "https://en.wikipedia.org/wiki/Michigan"
+        },
+        {
+          "title": "Guntis Ulmanis",
+          "url": "https://en.wikipedia.org/wiki/Guntis_Ulmanis"
+        },
+        {
+          "title": "Riga",
+          "url": "https://en.wikipedia.org/wiki/Riga"
+        }
+      ]
+    }
+  ]
+}

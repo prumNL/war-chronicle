@@ -1,0 +1,96 @@
+{
+  "date": "1939-09-06",
+  "edition_number": 6,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:10+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Borowa Góra and Różan ended in German victories.",
+      "links": [
+        {
+          "title": "Battle of Borowa Góra",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Borowa_G%C3%B3ra"
+        },
+        {
+          "title": "Battle of Różan",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%B3%C5%BCan"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German Army occupied Kraków.",
+      "links": [
+        {
+          "title": "Kraków",
+          "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Piotrków Trybunalski ended in a Polish defensive victory.",
+      "links": [
+        {
+          "title": "Battle of Piotrków Trybunalski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Piotrk%C3%B3w_Trybunalski"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A friendly fire incident on England's east coast known as the Battle of Barking Creek claimed the first life of an RAF fighter pilot in the war.",
+      "links": [
+        {
+          "title": "Battle of Barking Creek",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Barking_Creek"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "South Africa declared war on Germany.",
+      "links": [
+        {
+          "title": "South Africa",
+          "url": "https://en.wikipedia.org/wiki/South_Africa"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Brigid Berlin, artist, in New York City (d. 2020); Susumu Tonegawa, geneticist and Nobel laureate, in Nagoya, Japan",
+      "links": [
+        {
+          "title": "Brigid Berlin",
+          "url": "https://en.wikipedia.org/wiki/Brigid_Berlin"
+        },
+        {
+          "title": "Susumu Tonegawa",
+          "url": "https://en.wikipedia.org/wiki/Susumu_Tonegawa"
+        },
+        {
+          "title": "Nagoya",
+          "url": "https://en.wikipedia.org/wiki/Nagoya"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Arthur Rackham, 71, English book illustrator",
+      "links": [
+        {
+          "title": "Arthur Rackham",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Rackham"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "1939-10-08",
+  "number": 38,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse onderzeeër U-12 raakte verloren aan een mijn in de Straat van Dover",
+      "location": "",
+      "body": [
+        "De Duitse onderzeeër U-12 raakte verloren aan een mijn in de Straat van Dover."
+      ],
+      "context": "De Duitse onderzeeër U-12 was een type IIB U-boot van de Duitse Kriegsmarine van nazi-Duitsland die op 20 mei 1935 door Germaniawerft te Kiel werd neergezet.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "German submarine U-12 was lost to a mine in the Strait of Dover.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: German submarine U-12 (1935) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-12_(1935)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Het Piotrków Trybunalski Getto werd opgericht in nazi-bezet Polen",
+      "location": "",
+      "body": [
+        "Het Piotrków Trybunalski Getto werd opgericht in nazi-bezet Polen."
+      ],
+      "context": "Het Piotrków Trybunalski Getto werd opgericht in Piotrków Trybunalski op 8 oktober 1939, kort na de Duitse invasie van Polen in de Tweede Wereldoorlog. Het was het eerste nazi getto in bezet Europa. opgericht op 8 oktober 1939 De stad werd bezet door de Wehrmacht op 5 september 1939.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Piotrków Trybunalski Ghetto was founded in Nazi-occupied Poland.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Piotrków Trybunalski Ghetto (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Piotrk%C3%B3w_Trybunalski_Ghetto"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler heeft een decreet uitgevaardigd waarin de annexatie van Pomeranië",
+      "location": "",
+      "body": [
+        "Hitler heeft een decreet uitgevaardigd waarin de annexatie van Pomeranië, Wielkopolska en Silezië in het Rijk wordt uitgeroepen."
+      ],
+      "context": "Na de invasie van Polen aan het begin van de Tweede Wereldoorlog werd bijna een kwart van het gehele grondgebied van de Tweede Poolse Republiek door nazi-Duitsland geannexeerd en direct onder het Duitse burgerlijk bestuur geplaatst. De rest van het nazi-bezette Polen werd omgedoopt tot het district General Government.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler issued a decree proclaiming the annexation of Pomerania, Wielkopolska and Silesia into the Reich.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Polish areas annexed by Nazi Germany (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Polish_areas_annexed_by_Nazi_Germany"
+        }
+      ]
+    }
+  ]
+}

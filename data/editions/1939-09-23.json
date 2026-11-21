@@ -1,0 +1,90 @@
+{
+  "date": "1939-09-23",
+  "number": 23,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Duitse onderzeeër U-54 kreeg opdracht",
+      "location": "",
+      "body": [
+        "Duitse onderzeeër U-54 kreeg opdracht."
+      ],
+      "context": "De Duitse onderzeeër U-54 was een type VIIB U-boot van de Duitse Kriegsmarine tijdens de Tweede Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "German submarine U-54 was commissioned.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: German submarine U-54 (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-54_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Radio's van Joden in nazi-Duitsland werden in beslag genomen",
+      "location": "",
+      "body": [
+        "Radio's van Joden in nazi-Duitsland werden in beslag genomen."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Radios owned by Jews in Nazi Germany were confiscated.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De Slag bij Krasnobród werd gewonnen door Polen",
+      "location": "",
+      "body": [
+        "De Slag bij Krasnobród werd gewonnen door Polen."
+      ],
+      "context": "De Tweede Wereldoorlog Slag bij Krasnobród vond plaats op 23 september 1939 nabij Krasnobród. Het werd gevochten tussen de troepen van het Poolse leger en de Duitse Wehrmacht tijdens de invasie van Polen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Krasnobród was fought, resulting in Polish victory.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Krasnobród (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Krasnobr%C3%B3d"
+        }
+      ]
+    },
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "Sigmund Freud (83), Oostenrijkse neuroloog en psychoanalyst (euthanasie); Floyd Gibbons, 52, Amerikaanse oorlogscorrespondent (hartaanval)"
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: Sigmund Freud, 83, Austrian neurologist and psychoanalysist (euthanasia); Floyd Gibbons, 52, American war correspondent (heart attack)",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        }
+      ]
+    }
+  ]
+}

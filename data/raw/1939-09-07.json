@@ -1,0 +1,76 @@
+{
+  "date": "1939-09-07",
+  "edition_number": 7,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:16+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Westerplatte ended with the surrender of the Polish garrison.",
+      "links": [
+        {
+          "title": "Battle of Westerplatte",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Westerplatte"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Łomża began.",
+      "links": [
+        {
+          "title": "Battle of Łomża (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_%C5%81om%C5%BCa_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Marshal Edward Rydz-Śmigły moved the Polish Army headquarters from Warsaw to Brest-Litovsk.",
+      "links": [
+        {
+          "title": "Edward Rydz-Śmigły",
+          "url": "https://en.wikipedia.org/wiki/Edward_Rydz-%C5%9Amig%C5%82y"
+        },
+        {
+          "title": "Warsaw",
+          "url": "https://en.wikipedia.org/wiki/Warsaw"
+        },
+        {
+          "title": "Brest, Belarus",
+          "url": "https://en.wikipedia.org/wiki/Brest,_Belarus"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Saar Offensive: The French Army began a ground operation in the Saarland against light German defenses.",
+      "links": [
+        {
+          "title": "Saar Offensive",
+          "url": "https://en.wikipedia.org/wiki/Saar_Offensive"
+        },
+        {
+          "title": "Saarland",
+          "url": "https://en.wikipedia.org/wiki/Saarland"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Wizna began.",
+      "links": [
+        {
+          "title": "Battle of Wizna",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wizna"
+        }
+      ]
+    }
+  ]
+}

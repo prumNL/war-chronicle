@@ -1,0 +1,110 @@
+{
+  "date": "1939-10-08",
+  "edition_number": 38,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:37+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Hitler issued a decree proclaiming the annexation of Pomerania, Wielkopolska and Silesia into the Reich.",
+      "links": [
+        {
+          "title": "Polish areas annexed by Nazi Germany",
+          "url": "https://en.wikipedia.org/wiki/Polish_areas_annexed_by_Nazi_Germany"
+        },
+        {
+          "title": "Pomerania",
+          "url": "https://en.wikipedia.org/wiki/Pomerania"
+        },
+        {
+          "title": "Greater Poland",
+          "url": "https://en.wikipedia.org/wiki/Greater_Poland"
+        },
+        {
+          "title": "Silesia",
+          "url": "https://en.wikipedia.org/wiki/Silesia"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Piotrków Trybunalski Ghetto was founded in Nazi-occupied Poland.",
+      "links": [
+        {
+          "title": "Piotrków Trybunalski Ghetto",
+          "url": "https://en.wikipedia.org/wiki/Piotrk%C3%B3w_Trybunalski_Ghetto"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "German submarine U-12 was lost to a mine in the Strait of Dover.",
+      "links": [
+        {
+          "title": "German submarine U-12 (1935)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-12_(1935)"
+        },
+        {
+          "title": "Naval mine",
+          "url": "https://en.wikipedia.org/wiki/Naval_mine"
+        },
+        {
+          "title": "Strait of Dover",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The New York Yankees won their fourth straight World Series, beating the Cincinnati Reds 7–4 in 10 innings at Crosley Field to complete a four-game sweep.",
+      "links": [
+        {
+          "title": "New York Yankees",
+          "url": "https://en.wikipedia.org/wiki/New_York_Yankees"
+        },
+        {
+          "title": "1939 World Series",
+          "url": "https://en.wikipedia.org/wiki/1939_World_Series"
+        },
+        {
+          "title": "Cincinnati Reds",
+          "url": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
+        },
+        {
+          "title": "Crosley Field",
+          "url": "https://en.wikipedia.org/wiki/Crosley_Field"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "TeleRadio-Moldova was founded.",
+      "links": [
+        {
+          "title": "TeleRadio-Moldova",
+          "url": "https://en.wikipedia.org/wiki/TeleRadio-Moldova"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Paul Hogan, actor, comedian and television presenter, in Lightning Ridge, New South Wales, Australia.",
+      "links": [
+        {
+          "title": "Paul Hogan",
+          "url": "https://en.wikipedia.org/wiki/Paul_Hogan"
+        },
+        {
+          "title": "Lightning Ridge, New South Wales",
+          "url": "https://en.wikipedia.org/wiki/Lightning_Ridge,_New_South_Wales"
+        }
+      ]
+    }
+  ]
+}

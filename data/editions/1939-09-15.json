@@ -1,0 +1,52 @@
+{
+  "date": "1939-09-15",
+  "number": 15,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "Orzeł incident: De Poolse onderzeeër Orzeł",
+      "location": "",
+      "body": [
+        "Orzeł incident: De Poolse onderzeeër Orzeł, op zee toen de vijandelijkheden uitbraken en niet terug konden keren naar een Poolse basis, ging de haven in Tallinn binnen. Op aandringen van de Duitse ambassade hebben de Estse autoriteiten de onderzeeër geïnterneerd om te voorkomen dat de onderzeeër weer de zee in zou gaan."
+      ],
+      "context": "Het Orzeł incident vond plaats aan het begin van de Tweede Wereldoorlog in september 1939, toen de geïnterneerde Poolse onderzeeër ORP Orzeł ontsnapte uit Tallinn, in neutraal Estland, naar het Verenigd Koninkrijk. De Sovjet-Unie gebruikte het incident als een van de voorwendselen om haar uiteindelijke militaire invasie en bezetting van Estland in juni 1940 te rechtvaardigen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Orzeł incident: The Polish submarine Orzeł, at sea when hostilities broke out and unable to return to a Polish base, entered port in Tallinn. Estonian authorities, at the insistence of the German embassy, interned the submarine to prevent it from putting out to sea again.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Orzeł incident (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Orze%C5%82_incident"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "Charles Lindbergh maakte een landelijke radio-uitzending ten gunste van Amerikaans…",
+      "location": "",
+      "body": [
+        "Charles Lindbergh maakte een landelijke radio-uitzending ten gunste van Amerikaans isolationisme. \"Het is waanzin om onze soldaten te sturen om gedood te worden zoals we deden in de laatste oorlog als we de loop van de vrede overdragen aan de hebzucht, de angst en de intriges van de Europese naties. We moeten de Europese oorlogen volledig buitensluiten of permanent in Europese aangelegenheden blijven,\" aldus Lindbergh. \"We mogen niet toestaan dat ons sentiment, ons medelijden, of onze persoonlijke gevoelens van medeleven, de kwestie verduisteren, het leven van onze kinderen beïnvloeden ... Amerika heeft weinig te winnen door deel te nemen aan een andere Europese oorlog.\""
+      ],
+      "context": "Charles Augustus Lindbergh was een Amerikaanse piloot, militair officier en auteur. Op 20 mei 1927 maakte hij de eerste non-stopvlucht van New York naar Parijs, een afstand van 3600 mijl (5800 km), alleen vliegend voor meer dan 33 uur.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Charles Lindbergh made a nationwide radio broadcast in favor of American isolationism. \"It is madness to send our soldiers to be killed as we did in the last war if we turn the course of peace over to the greed, the fear and the intrigue of European nations. We must either keep out of European wars entirely or stay in European affairs permanently\", Lindbergh said. \"We must not permit our sentiment, our pity, or our personal feelings of sympathy, to obscure the issue, to affect our children's lives ... America has little to gain by taking part in another European war.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Charles Lindbergh (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "1939-09-21",
+  "edition_number": 21,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:23+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Cześniki and Grodno began.",
+      "links": [
+        {
+          "title": "Battle of Cześniki",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Cze%C5%9Bniki"
+        },
+        {
+          "title": "Battle of Grodno (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Grodno_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Reinhard Heydrich met with police and security officials in Berlin. Heydrich ordered that Germany's Jews and Romani be transferred to Poland using freight cars.",
+      "links": [
+        {
+          "title": "Reinhard Heydrich",
+          "url": "https://en.wikipedia.org/wiki/Reinhard_Heydrich"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "President Roosevelt made a speech to Congress saying the United States should amend its Neutrality Acts to allow countries fighting Germany to purchase American arms. The president said the current laws stood to give passive \"aid to an aggressor,\" while denying help to victimized nations.",
+      "links": [
+        {
+          "title": "Neutrality Acts of 1930s",
+          "url": "https://en.wikipedia.org/wiki/Neutrality_Acts_of_1930s"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A full broadcast day of radio station WJSV in Washington, D.C. is recorded for preservation in the National Archives.",
+      "links": [
+        {
+          "title": "WJSV broadcast day",
+          "url": "https://en.wikipedia.org/wiki/WJSV_broadcast_day"
+        },
+        {
+          "title": "WFED",
+          "url": "https://en.wikipedia.org/wiki/WFED"
+        },
+        {
+          "title": "National Archives and Records Administration",
+          "url": "https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Armand Călinescu, 46, Prime Minister of Romania (assassinated by Iron Guard members)",
+      "links": [
+        {
+          "title": "Armand Călinescu",
+          "url": "https://en.wikipedia.org/wiki/Armand_C%C4%83linescu"
+        },
+        {
+          "title": "Iron Guard",
+          "url": "https://en.wikipedia.org/wiki/Iron_Guard"
+        }
+      ]
+    }
+  ]
+}

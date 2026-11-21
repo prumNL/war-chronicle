@@ -1,0 +1,68 @@
+{
+  "date": "1939-10-30",
+  "edition_number": 60,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:40:08+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "West of the Orkney Islands, the German submarine U-56 encountered the British battleship HMS Nelson with First Lord of the Admiralty Winston Churchill aboard. U-56 fired three torpedoes that all failed to explode. The U-boat's commander Wilhelm Zahn became known as \"the man who almost killed Churchill.\"",
+      "links": [
+        {
+          "title": "Orkney",
+          "url": "https://en.wikipedia.org/wiki/Orkney"
+        },
+        {
+          "title": "German submarine U-56 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-56_(1938)"
+        },
+        {
+          "title": "HMS Nelson (28)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Nelson_(28)"
+        },
+        {
+          "title": "Winston Churchill",
+          "url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+          "title": "Wilhelm Zahn",
+          "url": "https://en.wikipedia.org/wiki/Wilhelm_Zahn"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The City of Flint ended up in Tromsø again, to the displeasure of the Norwegians who were trying to avoid being drawn into any international incidents involving belligerent ships in their ports. Norway dispatched a naval escort to see the City of Flint through Norwegian waters to ensure that the freighter neither tried to stop again nor came under attack from Allied warships.",
+      "links": [
+        {
+          "title": "Tromsø",
+          "url": "https://en.wikipedia.org/wiki/Troms%C3%B8"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Leland H. Hartwell, biologist and Nobel laureate, in Los Angeles; Grace Slick, singer, in Highland Park, Illinois.",
+      "links": [
+        {
+          "title": "Leland H. Hartwell",
+          "url": "https://en.wikipedia.org/wiki/Leland_H._Hartwell"
+        },
+        {
+          "title": "Grace Slick",
+          "url": "https://en.wikipedia.org/wiki/Grace_Slick"
+        },
+        {
+          "title": "Highland Park, Illinois",
+          "url": "https://en.wikipedia.org/wiki/Highland_Park,_Illinois"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "date": "1939-10-11",
+  "edition_number": 41,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:49+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "U.S. President Franklin D. Roosevelt received the Einstein–Szilárd letter.",
+      "links": [
+        {
+          "title": "Franklin D. Roosevelt",
+          "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+          "title": "Einstein–Szilárd letter",
+          "url": "https://en.wikipedia.org/wiki/Einstein%E2%80%93Szil%C3%A1rd_letter"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Austin Currie, politician, in Dungannon, Northern Ireland (d. 2021).",
+      "links": [
+        {
+          "title": "Austin Currie",
+          "url": "https://en.wikipedia.org/wiki/Austin_Currie"
+        },
+        {
+          "title": "Dungannon",
+          "url": "https://en.wikipedia.org/wiki/Dungannon"
+        },
+        {
+          "title": "Northern Ireland",
+          "url": "https://en.wikipedia.org/wiki/Northern_Ireland"
+        }
+      ]
+    }
+  ]
+}

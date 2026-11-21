@@ -1,0 +1,68 @@
+{
+  "date": "1939-10-16",
+  "edition_number": 46,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:12+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Nine planes of the Luftwaffe conducted an air raid on the Firth of Forth, damaging three British ships, the cruisers Southampton and Edinburgh, as well as the destroyer Mohawk, and killing sixteen Royal Navy crew before Supermarine Spitfires of No. 603 Squadron arrived and shot down three of the enemy aircraft, the first to be downed over British territory.",
+      "links": [
+        {
+          "title": "Luftwaffe",
+          "url": "https://en.wikipedia.org/wiki/Luftwaffe"
+        },
+        {
+          "title": "Firth of Forth",
+          "url": "https://en.wikipedia.org/wiki/Firth_of_Forth"
+        },
+        {
+          "title": "Supermarine Spitfire",
+          "url": "https://en.wikipedia.org/wiki/Supermarine_Spitfire"
+        },
+        {
+          "title": "No. 603 Squadron RAF",
+          "url": "https://en.wikipedia.org/wiki/No._603_Squadron_RAF"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Nazis ordered all Poles out of Gdynia.",
+      "links": [
+        {
+          "title": "Gdynia",
+          "url": "https://en.wikipedia.org/wiki/Gdynia"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The comedy play The Man Who Came to Dinner by George S. Kaufman and Moss Hart premiered at the Music Box Theatre on Broadway.",
+      "links": [
+        {
+          "title": "The Man Who Came to Dinner",
+          "url": "https://en.wikipedia.org/wiki/The_Man_Who_Came_to_Dinner"
+        },
+        {
+          "title": "George S. Kaufman",
+          "url": "https://en.wikipedia.org/wiki/George_S._Kaufman"
+        },
+        {
+          "title": "Moss Hart",
+          "url": "https://en.wikipedia.org/wiki/Moss_Hart"
+        },
+        {
+          "title": "Music Box Theatre",
+          "url": "https://en.wikipedia.org/wiki/Music_Box_Theatre"
+        }
+      ]
+    }
+  ]
+}

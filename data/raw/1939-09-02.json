@@ -1,0 +1,156 @@
+{
+  "date": "1939-09-02",
+  "edition_number": 2,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:35:37+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The state of emergency in Poland was upgraded to a state of war.",
+      "links": [
+        {
+          "title": "State of emergency",
+          "url": "https://en.wikipedia.org/wiki/State_of_emergency"
+        },
+        {
+          "title": "Second Polish Republic",
+          "url": "https://en.wikipedia.org/wiki/Second_Polish_Republic"
+        },
+        {
+          "title": "Declaration of war",
+          "url": "https://en.wikipedia.org/wiki/Declaration_of_war"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Polish army conducted the Raid on Fraustadt.",
+      "links": [
+        {
+          "title": "Polish Land Forces",
+          "url": "https://en.wikipedia.org/wiki/Polish_Land_Forces"
+        },
+        {
+          "title": "Raid on Fraustadt",
+          "url": "https://en.wikipedia.org/wiki/Raid_on_Fraustadt"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Borowa Góra began.",
+      "links": [
+        {
+          "title": "Battle of Borowa Góra",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Borowa_G%C3%B3ra"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A lone Polish PZL.23B light bomber attacks a German chemical factory in Ohlau, causing minor damage. It is the first air raid on German soil in World War II.",
+      "links": [
+        {
+          "title": "PZL.23 Karaś",
+          "url": "https://en.wikipedia.org/wiki/PZL.23_Kara%C5%9B"
+        },
+        {
+          "title": "Ohlau",
+          "url": "https://en.wikipedia.org/wiki/Ohlau"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "3 PM: The Parliament of Second Polish Republic gathers for the last time.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "Italy proposed a peace conference between Germany, Italy, Britain, France and Poland to address the Danzig-Polish crisis.",
+      "links": [
+        {
+          "title": "Kingdom of Italy",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+        },
+        {
+          "title": "Nazi Germany",
+          "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+        },
+        {
+          "title": "United Kingdom",
+          "url": "https://en.wikipedia.org/wiki/United_Kingdom"
+        },
+        {
+          "title": "Third French Republic",
+          "url": "https://en.wikipedia.org/wiki/Third_French_Republic"
+        },
+        {
+          "title": "Second Polish Republic",
+          "url": "https://en.wikipedia.org/wiki/Second_Polish_Republic"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "French Prime Minister Édouard Daladier addressed the Chamber of Deputies reviewing the events of the past several days and France's commitment to intervene in Poland's defense. \"This is the question I lay before the French nation, and all nations\", Daladier said. \"At the very moment of the aggression against Poland, what value has the guarantee, once more renewed, given for our eastern frontier, for our Alsace, for our Lorraine, after repudiation of the guarantees given in turn to Austria, Czechoslovakia, and Poland? More powerful through their conquests ... the aggressors would soon turn against France with all their forces. Thus, our honor is but the pledge of our own society. It is not that abstract and obsolete form of honor of which conquerors speak to justify their deeds of violence; it is the dignity of a peaceful people, which bears hatred toward no other people in the world and which never embarks upon a war save only for the sake of its freedom and of its life.\"",
+      "links": [
+        {
+          "title": "Édouard Daladier",
+          "url": "https://en.wikipedia.org/wiki/%C3%89douard_Daladier"
+        },
+        {
+          "title": "Chamber of Deputies (France)",
+          "url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_(France)"
+        },
+        {
+          "title": "Alsace",
+          "url": "https://en.wikipedia.org/wiki/Alsace"
+        },
+        {
+          "title": "Lorraine (region)",
+          "url": "https://en.wikipedia.org/wiki/Lorraine_(region)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Ireland declared neutrality in the war as well as a state of emergency.",
+      "links": [
+        {
+          "title": "Republic of Ireland",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+        },
+        {
+          "title": "The Emergency (Ireland)",
+          "url": "https://en.wikipedia.org/wiki/The_Emergency_(Ireland)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Nazis established Stutthof prison camp near the former territory of Danzig. In January 1942 it would be re-designated a concentration camp.",
+      "links": [
+        {
+          "title": "Stutthof concentration camp",
+          "url": "https://en.wikipedia.org/wiki/Stutthof_concentration_camp"
+        },
+        {
+          "title": "Concentration camp",
+          "url": "https://en.wikipedia.org/wiki/Concentration_camp"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "At 7:44 p.m. Neville Chamberlain informed the House of Commons that no reply had yet been received from Germany regarding last night's ultimatum. Regarding the Italian peace proposal he said he appreciated the effort, but \"His Majesty's Government, for their part, would find it impossible to take part in a conference while Poland is being subjected to invasion, her towns are under bombardment and Danzig is being made the subject of a unilateral settlement by force. His Majesty's Government will, as stated yesterday, be bound to take action unless the German forces are withdrawn from Polish territory.\"",
+      "links": []
+    }
+  ]
+}

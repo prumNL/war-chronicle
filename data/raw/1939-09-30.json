@@ -1,0 +1,98 @@
+{
+  "date": "1939-09-30",
+  "edition_number": 30,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:06+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Parczew, Jabłoń and Milanów ended in a tactical Polish victory.",
+      "links": [
+        {
+          "title": "Battles of Parczew, Jabłoń and Milanów",
+          "url": "https://en.wikipedia.org/wiki/Battles_of_Parczew,_Jab%C5%82o%C5%84_and_Milan%C3%B3w"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Polish government-in-exile was established in Paris. Władysław Raczkiewicz and Władysław Sikorski became president and prime minister, respectively.",
+      "links": [
+        {
+          "title": "Polish government-in-exile",
+          "url": "https://en.wikipedia.org/wiki/Polish_government-in-exile"
+        },
+        {
+          "title": "Władysław Raczkiewicz",
+          "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Raczkiewicz"
+        },
+        {
+          "title": "Władysław Sikorski",
+          "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler issued Directive No. 5, Partition of Poland.",
+      "links": [
+        {
+          "title": "List of Adolf Hitler's directives",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Melbourne defeated Collingwood in the VFL Grand Final.",
+      "links": [
+        {
+          "title": "Melbourne Football Club",
+          "url": "https://en.wikipedia.org/wiki/Melbourne_Football_Club"
+        },
+        {
+          "title": "Collingwood Football Club",
+          "url": "https://en.wikipedia.org/wiki/Collingwood_Football_Club"
+        },
+        {
+          "title": "1939 VFL Grand Final",
+          "url": "https://en.wikipedia.org/wiki/1939_VFL_Grand_Final"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Waynesburg vs. Fordham football game was broadcast on NBC, the first American football game ever televised.",
+      "links": [
+        {
+          "title": "1939 Waynesburg vs. Fordham football game",
+          "url": "https://en.wikipedia.org/wiki/1939_Waynesburg_vs._Fordham_football_game"
+        },
+        {
+          "title": "NBC",
+          "url": "https://en.wikipedia.org/wiki/NBC"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Jean-Marie Lehn, chemist and Nobel laureate, in Rosheim, France",
+      "links": [
+        {
+          "title": "Jean-Marie Lehn",
+          "url": "https://en.wikipedia.org/wiki/Jean-Marie_Lehn"
+        },
+        {
+          "title": "Rosheim",
+          "url": "https://en.wikipedia.org/wiki/Rosheim"
+        }
+      ]
+    }
+  ]
+}

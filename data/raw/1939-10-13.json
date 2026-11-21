@@ -1,0 +1,84 @@
+{
+  "date": "1939-10-13",
+  "edition_number": 43,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:58+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "German submarine U-40 struck a mine and sank in the English Channel.",
+      "links": [
+        {
+          "title": "German submarine U-40 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-40_(1938)"
+        },
+        {
+          "title": "English Channel",
+          "url": "https://en.wikipedia.org/wiki/English_Channel"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "U-42 was sunk southwest of Ireland by depth charges from the British destroyers Imogen and Ilex.",
+      "links": [
+        {
+          "title": "German submarine U-42 (1939)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-42_(1939)"
+        },
+        {
+          "title": "HMS Imogen (D44)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Imogen_(D44)"
+        },
+        {
+          "title": "HMS Ilex",
+          "url": "https://en.wikipedia.org/wiki/HMS_Ilex"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Charles Lindbergh made another radio address in favor of American isolationism and questioned Canada's right to be involved in the war. \"We must protect our sister American nations from foreign invasion, both for their welfare and our own\", Lindbergh said. \"But, in turn, they have a duty to us ... We desire the utmost friendship with the people of Canada. If their country is ever attacked, our navy will be defending their seas, our soldiers will fight on their battlefields, our fliers will die in their skies. But have they the right to draw this hemisphere into a European war simply because they prefer the Crown of England to American independence?\"",
+      "links": [
+        {
+          "title": "Charles Lindbergh",
+          "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+        },
+        {
+          "title": "Isolationism",
+          "url": "https://en.wikipedia.org/wiki/Isolationism"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: T. J. Cloutier, poker player, in Albany, California.",
+      "links": [
+        {
+          "title": "T. J. Cloutier",
+          "url": "https://en.wikipedia.org/wiki/T._J._Cloutier"
+        },
+        {
+          "title": "Albany, California",
+          "url": "https://en.wikipedia.org/wiki/Albany,_California"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Ford Sterling, 55, American film actor.",
+      "links": [
+        {
+          "title": "Ford Sterling",
+          "url": "https://en.wikipedia.org/wiki/Ford_Sterling"
+        }
+      ]
+    }
+  ]
+}

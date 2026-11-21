@@ -1,0 +1,55 @@
+{
+  "date": "1939-10-17",
+  "edition_number": 47,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:16+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Reinhard Heydrich issued a decree commonly referred to as the Festsetzungserlaß, prohibiting all Romani and part-Romani from changing their registered place of residence.",
+      "links": [
+        {
+          "title": "Reinhard Heydrich",
+          "url": "https://en.wikipedia.org/wiki/Reinhard_Heydrich"
+        },
+        {
+          "title": "Romani people",
+          "url": "https://en.wikipedia.org/wiki/Romani_people"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Switzerland passed a decree defining the legal status of emigrants and forbidding them to engage in activities that were political in nature or in breach of Switzerland's neutral status.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "The courtroom drama play Ladies and Gentlemen by Charles MacArthur and Ben Hecht premiered in Santa Barbara, California.",
+      "links": [
+        {
+          "title": "Ladies and Gentlemen (play)",
+          "url": "https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_(play)"
+        },
+        {
+          "title": "Charles MacArthur",
+          "url": "https://en.wikipedia.org/wiki/Charles_MacArthur"
+        },
+        {
+          "title": "Ben Hecht",
+          "url": "https://en.wikipedia.org/wiki/Ben_Hecht"
+        },
+        {
+          "title": "Santa Barbara, California",
+          "url": "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
+        }
+      ]
+    }
+  ]
+}

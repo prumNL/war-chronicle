@@ -1,0 +1,76 @@
+{
+  "date": "1939-10-22",
+  "edition_number": 52,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:39+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Elections to the People's Assemblies of Western Ukraine and Western Belarus were held to provide an appearance of legitimacy for the Soviet annexation of Poland.",
+      "links": [
+        {
+          "title": "Elections to the People's Assemblies of Western Ukraine and Western Belarus",
+          "url": "https://en.wikipedia.org/wiki/Elections_to_the_People%27s_Assemblies_of_Western_Ukraine_and_Western_Belarus"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "American pro football was televised for the first time when NBC broadcast a game between the Philadelphia Eagles and the Brooklyn Dodgers. The telecast was available to the approximately 500 television sets in the New York area and was also shown on monitors at the New York World's Fair. The hometown Dodgers won, 23–14.",
+      "links": [
+        {
+          "title": "American football",
+          "url": "https://en.wikipedia.org/wiki/American_football"
+        },
+        {
+          "title": "NBC",
+          "url": "https://en.wikipedia.org/wiki/NBC"
+        },
+        {
+          "title": "Philadelphia Eagles",
+          "url": "https://en.wikipedia.org/wiki/Philadelphia_Eagles"
+        },
+        {
+          "title": "Brooklyn Dodgers (NFL)",
+          "url": "https://en.wikipedia.org/wiki/Brooklyn_Dodgers_(NFL)"
+        },
+        {
+          "title": "1939 New York World's Fair",
+          "url": "https://en.wikipedia.org/wiki/1939_New_York_World%27s_Fair"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Joaquim Chissano, 2nd President of Mozambique, in Gaza Province, Portuguese Mozambique; George Cohen, footballer, in Kensington, London, England (d. 2022).",
+      "links": [
+        {
+          "title": "Joaquim Chissano",
+          "url": "https://en.wikipedia.org/wiki/Joaquim_Chissano"
+        },
+        {
+          "title": "Gaza Province",
+          "url": "https://en.wikipedia.org/wiki/Gaza_Province"
+        },
+        {
+          "title": "Portuguese Mozambique",
+          "url": "https://en.wikipedia.org/wiki/Portuguese_Mozambique"
+        },
+        {
+          "title": "George Cohen",
+          "url": "https://en.wikipedia.org/wiki/George_Cohen"
+        },
+        {
+          "title": "Kensington",
+          "url": "https://en.wikipedia.org/wiki/Kensington"
+        }
+      ]
+    }
+  ]
+}

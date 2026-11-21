@@ -1,0 +1,42 @@
+{
+  "date": "1939-10-12",
+  "edition_number": 42,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:51+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The regions of Nazi-occupied Poland not annexed by the Reich were incorporated into a new administrative unit called the General Government. Wawel Castle in Kraków was made the seat of government.",
+      "links": [
+        {
+          "title": "General Government",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        },
+        {
+          "title": "Wawel Castle",
+          "url": "https://en.wikipedia.org/wiki/Wawel_Castle"
+        },
+        {
+          "title": "Kraków",
+          "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "In the British House of Commons, Prime Minister Neville Chamberlain formally replied to Hitler's peace offer by saying that a settlement \"must be a real and settled peace, not an uneasy truce interrupted by constant alarms and repeated threats.\" Chamberlain further explained, \"Herr Hitler rejected all suggestions for peace until he had overwhelmed Poland, as he had previously overthrown Czechoslovakia. Peace conditions cannot be acceptable which begin by condoning aggression. The proposals in the German Chancellor's speech are vague and uncertain and contain no suggestion for righting the wrongs done to Czechoslovakia and to Poland. Even if Herr Hitler's proposals were more closely defined and contained suggestions to right these wrongs, it would still be necessary to ask by what practical means the German Government intend to convince the world that aggression will cease and that pledges will be kept. Past experience has shown that no reliance can be placed upon the promises of the present German Government.\"",
+      "links": [
+        {
+          "title": "Neville Chamberlain",
+          "url": "https://en.wikipedia.org/wiki/Neville_Chamberlain"
+        }
+      ]
+    }
+  ]
+}

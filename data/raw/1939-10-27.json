@@ -1,0 +1,42 @@
+{
+  "date": "1939-10-27",
+  "edition_number": 57,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:58+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Pope Pius XII encyclical Summi Pontificatus was published, denouncing totalitarianism. The encyclical expressed compassion for displaced Poles but avoided condemning Germany by name.",
+      "links": [
+        {
+          "title": "Pope Pius XII",
+          "url": "https://en.wikipedia.org/wiki/Pope_Pius_XII"
+        },
+        {
+          "title": "Summi Pontificatus",
+          "url": "https://en.wikipedia.org/wiki/Summi_Pontificatus"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: John Cleese, actor, comedian, writer and film producer, in Weston-super-Mare, England.",
+      "links": [
+        {
+          "title": "John Cleese",
+          "url": "https://en.wikipedia.org/wiki/John_Cleese"
+        },
+        {
+          "title": "Weston-super-Mare",
+          "url": "https://en.wikipedia.org/wiki/Weston-super-Mare"
+        }
+      ]
+    }
+  ]
+}

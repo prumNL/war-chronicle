@@ -1,0 +1,44 @@
+{
+  "date": "1939-10-10",
+  "edition_number": 40,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:45+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Soviet–Lithuanian Mutual Assistance Treaty was signed.",
+      "links": [
+        {
+          "title": "Soviet–Lithuanian Mutual Assistance Treaty",
+          "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Lithuanian_Mutual_Assistance_Treaty"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "French Prime Minister Édouard Daladier gave a radio address rejecting Hitler's latest peace propositions, saying that a settlement at this time \"would only consecrate conquests by deceit or violence and would not prevent preparation for new ones.\" Daladier vowed that arms would only be laid down \"when we have certain guaranties of security which may not be put in doubt every six months.\"",
+      "links": [
+        {
+          "title": "Édouard Daladier",
+          "url": "https://en.wikipedia.org/wiki/%C3%89douard_Daladier"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Admiral Erich Raeder urged Hitler to invade Norway to protect Germany's vital iron ore traffic.",
+      "links": [
+        {
+          "title": "Erich Raeder",
+          "url": "https://en.wikipedia.org/wiki/Erich_Raeder"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "1939-10-24",
+  "edition_number": 54,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:48+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Joachim von Ribbentrop made a speech in Danzig blaming Britain for the war and indicating that fighting would begin on a large scale now that Chamberlain had \"refused the hand of the Führer stretched out in a peace gesture.\" London swiftly provided an official reply saying the speech \"introduces no new element into the situation nor is it considered as having any particular importance.\"",
+      "links": [
+        {
+          "title": "Joachim von Ribbentrop",
+          "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The American crew of the City of Flint were detained by Russian authorities and prevented from communicating with the U.S. embassy in Moscow.",
+      "links": [
+        {
+          "title": "SS City of Flint (1919)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Carnegie Science Center was established in Pittsburgh.",
+      "links": [
+        {
+          "title": "Carnegie Science Center",
+          "url": "https://en.wikipedia.org/wiki/Carnegie_Science_Center"
+        },
+        {
+          "title": "Pittsburgh",
+          "url": "https://en.wikipedia.org/wiki/Pittsburgh"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: F. Murray Abraham, American actor, in Pittsburgh, Pennsylvania",
+      "links": [
+        {
+          "title": "F. Murray Abraham",
+          "url": "https://en.wikipedia.org/wiki/F._Murray_Abraham"
+        },
+        {
+          "title": "Pittsburgh",
+          "url": "https://en.wikipedia.org/wiki/Pittsburgh"
+        },
+        {
+          "title": "Pennsylvania",
+          "url": "https://en.wikipedia.org/wiki/Pennsylvania"
+        }
+      ]
+    }
+  ]
+}

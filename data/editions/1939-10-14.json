@@ -1,0 +1,71 @@
+{
+  "date": "1939-10-14",
+  "number": 44,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse onderzeeër U-47 penetreerde de Britse marinebasis bij Scapa Flow en zonk…",
+      "location": "",
+      "body": [
+        "De Duitse onderzeeër U-47 penetreerde de Britse marinebasis bij Scapa Flow en zonk het slagschip HMS Royal Oak. 833 mannen werden gedood waaronder Rear Admiraal Henry Blagrove."
+      ],
+      "context": "De Duitse onderzeeër U-47 was een type VIIB U-boot van de Duitse Kriegsmarine tijdens de Tweede Wereldoorlog. Ze werd op 25 februari 1937 te Friedrich Krupp Germaniawerft in Kiel gelegd als werf nummer 582 en werd op 17 december 1938 in gebruik genomen onder het bevel van Günther Prien.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "German submarine U-47 penetrated the British naval base at Scapa Flow and sank the battleship HMS Royal Oak. 833 men were killed including Rear Admiral Henry Blagrove.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: German submarine U-47 (1938) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "U-45 werd ten zuidwesten van Ierland gezonken door dieptebommen van de Britse destroyers…",
+      "location": "",
+      "body": [
+        "U-45 werd ten zuidwesten van Ierland gezonken door dieptebommen van de Britse destroyers HMS Inglefield, Ivanhoe en Intrepid."
+      ],
+      "context": "De Duitse onderzeeër U-45 was een type VIIB U-boot van de Duitse Kriegsmarine. Zij werd op 21 november 1936 bevolen en legde op 23 februari 1937 te Germaniawerft in Kiel als werfnummer 580.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "U-45 was sunk southwest of Ireland by depth charges from the British destroyers HMS Inglefield, Ivanhoe and Intrepid.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: German submarine U-45 (1938) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-45_(1938)"
+        }
+      ]
+    },
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "Henry Blagrove (52), British Royal Navy officier (gedood in het zinken van de Royal Oak)."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: Henry Blagrove, 52, British Royal Navy officer (killed in the sinking of the Royal Oak).",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        }
+      ]
+    }
+  ]
+}

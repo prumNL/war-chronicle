@@ -1,0 +1,48 @@
+{
+  "date": "1939-10-02",
+  "edition_number": 32,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:15+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Hel ended with the Fortified Region Hel unit capitulating to the Germans after holding out for three weeks against overwhelming odds.",
+      "links": [
+        {
+          "title": "Battle of Hel",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Hel"
+        },
+        {
+          "title": "Hel Fortified Area",
+          "url": "https://en.wikipedia.org/wiki/Hel_Fortified_Area"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Kock began.",
+      "links": [
+        {
+          "title": "Battle of Kock (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kock_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: George Mundelein, 67, American Cardinal of the Roman Catholic Church.",
+      "links": [
+        {
+          "title": "George Mundelein",
+          "url": "https://en.wikipedia.org/wiki/George_Mundelein"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "1939-09-14",
+  "number": 14,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse onderzeeër U-39 viel het Britse vliegdekschip HMS Ark Royal aan bij Rockall…",
+      "location": "",
+      "body": [
+        "De Duitse onderzeeër U-39 viel het Britse vliegdekschip HMS Ark Royal aan bij Rockall Bank, maar de torpedo's kwamen hun doel te kort. Drie Britse destroyers in de buurt jaagden op U-39 en schakelden het uit met dieptebommen, en redden alle bemanning. Het was de eerste U-boot die gezonken werd in de Tweede Wereldoorlog."
+      ],
+      "context": "De Duitse onderzeeër U-39 was een U-boot van type IXA van de Kriegsmarine die van 1938 tot de eerste dagen van de Tweede Wereldoorlog actief was.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The German submarine U-39 attacked the British aircraft carrier HMS Ark Royal off Rockall Bank, but the torpedoes fell short of their target. Three British destroyers in the vicinity hunted down U-39 and disabled it with depth charges, rescuing all the crew. It was the first U-boat to be sunk in World War II.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: German submarine U-39 (1938) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-39_(1938)"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De Slag bij Przemyśl eindigde met de Poolse overgave van de stad",
+      "location": "",
+      "body": [
+        "De Slag bij Przemyśl eindigde met de Poolse overgave van de stad."
+      ],
+      "context": "De Slag bij Przemyśl vond plaats tussen 11 en 14 september 1939, tijdens de Duitse invasie van Polen. Het Poolse leger garnizoen van het voormalige Oostenrijkse fort Przemyśl wist de opmars van de Wehrmacht drie dagen te stoppen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Przemyśl ended with the Polish surrender of the city.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Przemyśl (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Przemy%C5%9Bl_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Slag bij Gdynia eindigde met de Duitse inname van de stad",
+      "location": "",
+      "body": [
+        "De Slag bij Gdynia eindigde met de Duitse inname van de stad."
+      ],
+      "context": "Slag bij Gdynia was een van de belangrijkste gevechten in Noord-Polen tijdens de invasie van Polen in 1939. De belangrijkste duw naar Gdynia begon op 1 september en ze veroverden Gdynia twee weken later op 14 september.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Gdynia ended with the German capture of the city.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Gdynia (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Gdynia"
+        }
+      ]
+    }
+  ]
+}

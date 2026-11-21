@@ -1,0 +1,29 @@
+{
+  "date": "1939-10-22",
+  "number": 52,
+  "articles": [
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Verkiezingen voor de Volksassemblies van West-Oekraïne en West-Wit-Rusland…",
+      "location": "",
+      "body": [
+        "Verkiezingen voor de Volksassemblies van West-Oekraïne en West-Wit-Rusland werden gehouden om een verschijning van legitimiteit voor de Sovjet annexatie van Polen."
+      ],
+      "context": "De verkiezingen voor de Volksassemblies van West-Oekraïne en West-Belorussia, die plaatsvonden op 22 oktober 1939, waren een poging om de annexatie van de oostelijke gebieden van de Tweede Poolse Republiek door de Sovjet-Unie te legitimeren na de invasie van Polen door de Sovjet-Unie op 17 september, overeenkomstig het geheime protocol van het Molotov-pact. Slechts een maand nadat deze landen bezet werden door het Rode Leger, hebben de geheime Sovjetpolitie en het leger onder leiding van de partijambtenaren de lokale verkiezingen in een sfeer van staatsterrorisme opgevoerd.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Elections to the People's Assemblies of Western Ukraine and Western Belarus were held to provide an appearance of legitimacy for the Soviet annexation of Poland.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Elections to the People's Assemblies of Western Ukraine and Western Belorussia (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Elections_to_the_People%27s_Assemblies_of_Western_Ukraine_and_Western_Belarus"
+        }
+      ]
+    }
+  ]
+}

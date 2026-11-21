@@ -1,0 +1,52 @@
+{
+  "date": "1939-10-15",
+  "number": 45,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Duitsland en Estland hebben een overeenkomst ondertekend over de hervestiging…",
+      "location": "",
+      "body": [
+        "Duitsland en Estland hebben een overeenkomst ondertekend over de hervestiging van Baltische Duitsers."
+      ],
+      "context": "De Baltische Duitsers zijn een historische gemeenschap van Duitse sprekers die in het Oostzeegebied wonen, meestal modern Estland en Letland. Na 1945 daalde hun aantal drastisch, met veel verhuizen naar Duitsland of elders.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Germany and Estonia signed an agreement on the resettlement of Baltic Germans.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Baltic Germans (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Baltic_Germans"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "De New York Municipal Airport (later omgedoopt tot LaGuardia Airport) werd formeel gewijd…",
+      "location": "",
+      "body": [
+        "De New York Municipal Airport (later omgedoopt tot LaGuardia Airport) werd formeel gewijd in New York. Bijna 100.000 mensen bleken te kijken hoe bijna 60 militaire vliegtuigen een vliegverleden uitvoeren."
+      ],
+      "context": "LaGuardia Airport is een luchthaven in de Amerikaanse staat New York, en valt bestuurlijk gezien onder East Elmhurst. Het beslaat 680 hectare (280 ha) vanaf 1 juli 2026.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The New York Municipal Airport (later renamed LaGuardia Airport) was formally dedicated in New York. Nearly 100,000 people turned out to watch almost 60 military aircraft perform a flypast.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: LaGuardia Airport (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/LaGuardia_Airport"
+        }
+      ]
+    }
+  ]
+}

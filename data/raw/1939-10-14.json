@@ -1,0 +1,86 @@
+{
+  "date": "1939-10-14",
+  "edition_number": 44,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:03+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "German submarine U-47 penetrated the British naval base at Scapa Flow and sank the battleship HMS Royal Oak. 833 men were killed including Rear Admiral Henry Blagrove.",
+      "links": [
+        {
+          "title": "German submarine U-47 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)"
+        },
+        {
+          "title": "Scapa Flow",
+          "url": "https://en.wikipedia.org/wiki/Scapa_Flow"
+        },
+        {
+          "title": "HMS Royal Oak (08)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Royal_Oak_(08)"
+        },
+        {
+          "title": "Henry Blagrove",
+          "url": "https://en.wikipedia.org/wiki/Henry_Blagrove"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "U-45 was sunk southwest of Ireland by depth charges from the British destroyers HMS Inglefield, Ivanhoe and Intrepid.",
+      "links": [
+        {
+          "title": "German submarine U-45 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-45_(1938)"
+        },
+        {
+          "title": "HMS Inglefield",
+          "url": "https://en.wikipedia.org/wiki/HMS_Inglefield"
+        },
+        {
+          "title": "HMS Ivanhoe (D16)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Ivanhoe_(D16)"
+        },
+        {
+          "title": "HMS Intrepid (D10)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Intrepid_(D10)"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Ralph Lauren, fashion designer, in the Bronx, New York.",
+      "links": [
+        {
+          "title": "Ralph Lauren",
+          "url": "https://en.wikipedia.org/wiki/Ralph_Lauren"
+        },
+        {
+          "title": "The Bronx",
+          "url": "https://en.wikipedia.org/wiki/The_Bronx"
+        },
+        {
+          "title": "New York (state)",
+          "url": "https://en.wikipedia.org/wiki/New_York_(state)"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Henry Blagrove, 52, British Royal Navy officer (killed in the sinking of the Royal Oak).",
+      "links": [
+        {
+          "title": "Henry Blagrove",
+          "url": "https://en.wikipedia.org/wiki/Henry_Blagrove"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,586 @@
 {
  "editions": [
   {
+   "date": "1939-09-01",
+   "number": 1,
+   "headline": "21.00 uur: Britse ambassadeur in Duitsland Sir Nevile Henderson gaf Joachim von…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-02",
+   "number": 2,
+   "headline": "Om 19:44 uur",
+   "topics": [
+    "Geallieerden",
+    "Internationale ontwikkelingen",
+    "Noord-Afrika en Italië",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-03",
+   "number": 3,
+   "headline": "Het passagiersschip Athenia werd getorpedeerd en gezonken in de Western Approaches…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Nederland en de bezetting",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-04",
+   "number": 4,
+   "headline": "Częstochowa bloedbad: Duitse soldaten slachtten zo'n 1140 Poolse burgers",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-05",
+   "number": 5,
+   "headline": "De kleine stoomboot Bosnië werd het eerste Britse vrachtschip verloren in de oorlog toen…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Internationale ontwikkelingen",
+    "Noord-Afrika en Italië"
+   ]
+  },
+  {
+   "date": "1939-09-06",
+   "number": 6,
+   "headline": "Het Duitse leger bezette Kraków",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Noord-Afrika en Italië",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-09-07",
+   "number": 7,
+   "headline": "Saar Offensive: Het Franse leger begon een grondoperatie in Saarland tegen lichte Duitse…",
+   "topics": [
+    "Geallieerden"
+   ]
+  },
+  {
+   "date": "1939-09-08",
+   "number": 8,
+   "headline": "Ciepielów bloedbad: Duitse soldaten slachtten ongeveer 300 Poolse krijgsgevangenen af…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-09",
+   "number": 9,
+   "headline": "Het Duitse leger bezette Łódź",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-10",
+   "number": 10,
+   "headline": "Een speciale ochtend editie van de Canada Gazette publiceerde de Canadese…",
+   "topics": [
+    "Geallieerden",
+    "Overleden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-11",
+   "number": 11,
+   "headline": "De Slag bij Jarosław eindigde met een succesvolle Poolse vertragingsactie",
+   "topics": [
+    "Geallieerden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-12",
+   "number": 12,
+   "headline": "Nazi-Duitsland gaf twee decreten vrijwel verbod van particulier autogebruik na 20…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-09-13",
+   "number": 13,
+   "headline": "Cecylówka bloedbad: Duitse troepen slachtten naar schatting 54 tot 68 burgers af…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-14",
+   "number": 14,
+   "headline": "De Duitse onderzeeër U-39 viel het Britse vliegdekschip HMS Ark Royal aan bij Rockall…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden"
+   ]
+  },
+  {
+   "date": "1939-09-15",
+   "number": 15,
+   "headline": "Orzeł incident: De Poolse onderzeeër Orzeł",
+   "topics": [
+    "Geallieerden",
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-09-16",
+   "number": 16,
+   "headline": "De Britse stoomtrawler Rudyard Kipling werd voor de westkust van Ierland gezonken…",
+   "topics": [
+    "Geallieerden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-09-17",
+   "number": 17,
+   "headline": "De Britse vliegdekschip HMS Courageous werd voor de kust van Ierland gezonken door Duitse…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Pacific",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-18",
+   "number": 18,
+   "headline": "De Poolse onderzeeër Orzeł ontsnapte uit de internering in Tallinn en begon…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-09-19",
+   "number": 19,
+   "headline": "Hitler ging de voormalige Vrije Stad Danzig binnen en hield een toespraak waarin…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-20",
+   "number": 20,
+   "headline": "De Duitse onderzeeër U-27 werd gezonken door Britse destroyers ten westen van Schotland",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-09-21",
+   "number": 21,
+   "headline": "President Roosevelt hield een toespraak voor het Congres dat de Verenigde Staten haar…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-09-22",
+   "number": 22,
+   "headline": "Boryszew bloedbad: Duitse soldaten slachtten 50 Poolse krijgsgevangenen af in Boryszew",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Overleden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-23",
+   "number": 23,
+   "headline": "Duitse onderzeeër U-54 kreeg opdracht",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-09-24",
+   "number": 24,
+   "headline": "De Luftwaffe bombardeerde Warschau voor het eerst",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-25",
+   "number": 25,
+   "headline": "Hitler heeft richtlijn nr. 4 uitgevaardigd, waarmee de oorlog in Polen is beëindigd",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden"
+   ]
+  },
+  {
+   "date": "1939-09-26",
+   "number": 26,
+   "headline": "De Franse Communistische Partij en al haar filialen werden verboden",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-27",
+   "number": 27,
+   "headline": "De eerste Poolse verzetsbeweging, de Dienst voor de Overwinning van Polen, werd opgericht",
+   "topics": [
+    "Geallieerden",
+    "Politiek en diplomatie",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-28",
+   "number": 28,
+   "headline": "Duitsland en de Sovjet-Unie hebben het Duits-Sovjet-grensverdrag ondertekend…",
+   "topics": [
+    "Geallieerden",
+    "Overleden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-29",
+   "number": 29,
+   "headline": "De slag bij Parczew, Jabłoń en Milanów tussen het Poolse leger en het Rode Leger begon",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-09-30",
+   "number": 30,
+   "headline": "De Poolse regering werd opgericht in Parijs",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-10-01",
+   "number": 31,
+   "headline": "Letse vertegenwoordigers onderhandelen met de Sovjetleiders Stalin en Molotov",
+   "topics": [
+    "Geallieerden",
+    "Pacific",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-02",
+   "number": 32,
+   "headline": "De Slag bij Hel eindigde met de Fortived Region Hel unit capituleren aan de Duitsers na…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-03",
+   "number": 33,
+   "headline": "Het Griekse vrachtschip Diamantis werd getorpedeerd en tot zinken gebracht door de Duitse…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Internationale ontwikkelingen",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-04",
+   "number": 34,
+   "headline": "Adolf Hitler heeft tussen 1 september en 4 oktober een geheim decreet uitgevaardigd…",
+   "topics": [
+    "Duitsland en de Asmogendheden"
+   ]
+  },
+  {
+   "date": "1939-10-05",
+   "number": 35,
+   "headline": "De Slag bij Kock, de laatste slag bij de invasie van Polen",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-06",
+   "number": 36,
+   "headline": "In de Verenigde Staten werd een Gallup-enquête gepubliceerd waarin werd gevraagd: \"Wat…",
+   "topics": [
+    "Duitsland en de Asmogendheden"
+   ]
+  },
+  {
+   "date": "1939-10-07",
+   "number": 37,
+   "headline": "Operatie Vissen: Britse Royal Navy cruiser HMS Emerald varen vanuit Plymouth in konvooi…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-08",
+   "number": 38,
+   "headline": "De Duitse onderzeeër U-12 raakte verloren aan een mijn in de Straat van Dover",
+   "topics": [
+    "Duitsland en de Asmogendheden"
+   ]
+  },
+  {
+   "date": "1939-10-09",
+   "number": 39,
+   "headline": "Bij Newfoundland werd de Amerikaanse vrachtstad Flint onderschept onderweg van New York…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-10",
+   "number": 40,
+   "headline": "Admiraal Erich Raeder drong er bij Hitler op aan Noorwegen binnen te vallen…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Politiek en diplomatie",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-11",
+   "number": 41,
+   "headline": "VS",
+   "topics": [
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-10-12",
+   "number": 42,
+   "headline": "In het Britse Lagerhuis antwoordde premier Neville Chamberlain formeel…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-10-13",
+   "number": 43,
+   "headline": "Duitse onderzeeër U-40 raakte een mijn en zonk in het Kanaal",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Internationale ontwikkelingen",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-14",
+   "number": 44,
+   "headline": "De Duitse onderzeeër U-47 penetreerde de Britse marinebasis bij Scapa Flow en zonk…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-15",
+   "number": 45,
+   "headline": "Duitsland en Estland hebben een overeenkomst ondertekend over de hervestiging…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-10-16",
+   "number": 46,
+   "headline": "Negen vliegtuigen van de Luftwaffe voerden een luchtaanval uit op de Firth of Forth",
+   "topics": [
+    "Duitsland en de Asmogendheden"
+   ]
+  },
+  {
+   "date": "1939-10-17",
+   "number": 47,
+   "headline": "Zwitserland heeft een decreet aangenomen waarin de rechtspositie van emigranten wordt…",
+   "topics": [
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-10-18",
+   "number": 48,
+   "headline": "Hitler gaf richtlijn nr. 7, Voorbereidingen voor aanval in het Westen",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden",
+    "Politiek en diplomatie",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-19",
+   "number": 49,
+   "headline": "Het Anglo-Frans-Turkse Verdrag inzake wederzijdse bijstand werd ondertekend in Ankara",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Internationale ontwikkelingen",
+    "Overleden",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-10-20",
+   "number": 50,
+   "headline": "Ongeveer 2.000 Joden werden gedeporteerd uit het door de nazi's gecontroleerde Wenen…",
+   "topics": [
+    "Duitsland en de Asmogendheden"
+   ]
+  },
+  {
+   "date": "1939-10-21",
+   "number": 51,
+   "headline": "Duitsland en Italië hebben de Zuid-Tirol-optieovereenkomst gesloten",
+   "topics": [
+    "Geallieerden",
+    "Noord-Afrika en Italië",
+    "Politiek en diplomatie"
+   ]
+  },
+  {
+   "date": "1939-10-22",
+   "number": 52,
+   "headline": "Verkiezingen voor de Volksassemblies van West-Oekraïne en West-Wit-Rusland…",
+   "topics": [
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-23",
+   "number": 53,
+   "headline": "De Franse premier Édouard Daladier kondigde aan dat Franse soldaten om de vier maanden…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden",
+    "Overleden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-24",
+   "number": 54,
+   "headline": "Joachim von Ribbentrop hield een toespraak in Danzig waarin hij Engeland de schuld gaf…",
+   "topics": [
+    "Geallieerden",
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-10-25",
+   "number": 55,
+   "headline": "Een andere Duitse onderzeeër raakte verloren in de Straat van Dover toen de U-16…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-26",
+   "number": 56,
+   "headline": "Joodse mannen tussen de 14 en 60 jaar in nazi-bezet Polen werden gedwongen dwangarbeid…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Internationale ontwikkelingen"
+   ]
+  },
+  {
+   "date": "1939-10-27",
+   "number": 57,
+   "headline": "De paus Pius XII encycliek Summi Pontificatus werd gepubliceerd",
+   "topics": [
+    "Duitsland en de Asmogendheden"
+   ]
+  },
+  {
+   "date": "1939-10-28",
+   "number": 58,
+   "headline": "De stad Flint verliet Murmansk onder controle van de Duitse prijsploeg",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Overleden"
+   ]
+  },
+  {
+   "date": "1939-10-29",
+   "number": 59,
+   "headline": "Sovjettroepen kwamen Letland binnen",
+   "topics": [
+    "Overleden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
+   "date": "1939-10-30",
+   "number": 60,
+   "headline": "Ten westen van de Orkneyeilanden kwam de Duitse onderzeeër U-56 het Britse slagschip HMS…",
+   "topics": [
+    "Duitsland en de Asmogendheden",
+    "Geallieerden"
+   ]
+  },
+  {
+   "date": "1939-10-31",
+   "number": 61,
+   "headline": "De Sovjet-minister van Buitenlandse Zaken Vyacheslav Molotov stuurde een Sovjet-ultimatum…",
+   "topics": [
+    "Noord-Afrika en Italië",
+    "Overleden",
+    "Westfront en Oostfront"
+   ]
+  },
+  {
    "date": "1939-11-21",
    "number": 82,
    "headline": "Britse torpedojager Gipsy vergaat door magnetische mijn",

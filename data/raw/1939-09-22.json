@@ -1,0 +1,96 @@
+{
+  "date": "1939-09-22",
+  "edition_number": 22,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:27+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Lwów ended when the Polish commander handed the city over to the Soviets.",
+      "links": [
+        {
+          "title": "Battle of Lwów (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Lw%C3%B3w_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Cześniki ended indecisively.",
+      "links": [
+        {
+          "title": "Battle of Cześniki",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Cze%C5%9Bniki"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Boryszew massacre: German soldiers massacred 50 Polish prisoners of war in Boryszew.",
+      "links": [
+        {
+          "title": "Boryszew massacre",
+          "url": "https://en.wikipedia.org/wiki/Boryszew_massacre"
+        },
+        {
+          "title": "Sochaczew",
+          "url": "https://en.wikipedia.org/wiki/Sochaczew"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German–Soviet military parade in Brest-Litovsk was held.",
+      "links": [
+        {
+          "title": "German–Soviet military parade in Brest-Litovsk",
+          "url": "https://en.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Anglo-French Supreme War Council met again in Hove.",
+      "links": [
+        {
+          "title": "Anglo-French Supreme War Council",
+          "url": "https://en.wikipedia.org/wiki/Anglo-French_Supreme_War_Council"
+        },
+        {
+          "title": "Hove",
+          "url": "https://en.wikipedia.org/wiki/Hove"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Marlena Shaw, singer, in New Rochelle, New York (d. 2024)",
+      "links": [
+        {
+          "title": "Marlena Shaw",
+          "url": "https://en.wikipedia.org/wiki/Marlena_Shaw"
+        },
+        {
+          "title": "New Rochelle, New York",
+          "url": "https://en.wikipedia.org/wiki/New_Rochelle,_New_York"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Werner von Fritsch, 59, German general (killed in action during the Siege of Warsaw)",
+      "links": [
+        {
+          "title": "Werner von Fritsch",
+          "url": "https://en.wikipedia.org/wiki/Werner_von_Fritsch"
+        }
+      ]
+    }
+  ]
+}

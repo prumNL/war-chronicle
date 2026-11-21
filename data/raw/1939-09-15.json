@@ -1,0 +1,60 @@
+{
+  "date": "1939-09-15",
+  "edition_number": 15,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:50+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Orzeł incident: The Polish submarine Orzeł, at sea when hostilities broke out and unable to return to a Polish base, entered port in Tallinn. Estonian authorities, at the insistence of the German embassy, interned the submarine to prevent it from putting out to sea again.",
+      "links": [
+        {
+          "title": "Orzeł incident",
+          "url": "https://en.wikipedia.org/wiki/Orze%C5%82_incident"
+        },
+        {
+          "title": "ORP Orzeł (1938)",
+          "url": "https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)"
+        },
+        {
+          "title": "Tallinn",
+          "url": "https://en.wikipedia.org/wiki/Tallinn"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Charles Lindbergh made a nationwide radio broadcast in favor of American isolationism. \"It is madness to send our soldiers to be killed as we did in the last war if we turn the course of peace over to the greed, the fear and the intrigue of European nations. We must either keep out of European wars entirely or stay in European affairs permanently\", Lindbergh said. \"We must not permit our sentiment, our pity, or our personal feelings of sympathy, to obscure the issue, to affect our children's lives ... America has little to gain by taking part in another European war.\"",
+      "links": [
+        {
+          "title": "Charles Lindbergh",
+          "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+        },
+        {
+          "title": "Isolationism",
+          "url": "https://en.wikipedia.org/wiki/Isolationism"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Ron Walker, businessman, in Melbourne, Australia (d. 2018)",
+      "links": [
+        {
+          "title": "Ron Walker (Australian businessman)",
+          "url": "https://en.wikipedia.org/wiki/Ron_Walker_(Australian_businessman)"
+        },
+        {
+          "title": "Melbourne",
+          "url": "https://en.wikipedia.org/wiki/Melbourne"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "1939-10-15",
+  "edition_number": 45,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:09+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Germany and Estonia signed an agreement on the resettlement of Baltic Germans.",
+      "links": [
+        {
+          "title": "Baltic Germans",
+          "url": "https://en.wikipedia.org/wiki/Baltic_Germans"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The New York Municipal Airport (later renamed LaGuardia Airport) was formally dedicated in New York. Nearly 100,000 people turned out to watch almost 60 military aircraft perform a flypast.",
+      "links": [
+        {
+          "title": "LaGuardia Airport",
+          "url": "https://en.wikipedia.org/wiki/LaGuardia_Airport"
+        },
+        {
+          "title": "Flypast",
+          "url": "https://en.wikipedia.org/wiki/Flypast"
+        }
+      ]
+    }
+  ]
+}

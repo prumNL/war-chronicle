@@ -1,0 +1,52 @@
+{
+  "date": "1939-10-06",
+  "number": 36,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "In de Verenigde Staten werd een Gallup-enquête gepubliceerd waarin werd gevraagd: \"Wat…",
+      "location": "",
+      "body": [
+        "In de Verenigde Staten werd een Gallup-enquête gepubliceerd waarin werd gevraagd: \"Wat moet het beleid zijn in de huidige Europese oorlog? Moeten we de oorlog verklaren en ons leger en de marine naar het buitenland sturen om Duitsland te bestrijden?\" 95% van de ondervraagde Amerikanen zei nee."
+      ],
+      "context": "Gallup, Inc. is een Amerikaans multinational analytics en adviesbureau gevestigd in Washington, D.C. Opgericht door George Gallup in 1935, werd het bedrijf bekend voor het uitvoeren van publieke opiniepeilingen wereldwijd.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "A Gallup poll was published in the United States asking, \"What should be the policy in the present European war? Should we declare war and send our army and navy abroad to fight Germany?\" 95% of Americans polled said no.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Gallup, Inc. (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Gallup_(company)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler richtte een speciale zitting van de Rijksdag",
+      "location": "",
+      "body": [
+        "Hitler richtte een speciale zitting van de Rijksdag. Na uitvoerig te hebben gesproken over de overwinning op Polen, stelde hij vervolgens een internationale veiligheidsconferentie voor, die erop wijst dat een dergelijke conferentie onmogelijk zou zijn \"terwijl kanonnen donderen.\""
+      ],
+      "context": "De Rijksdag, officieel de Duitse Rijksdag na 1938, was het nationale parlement van nazi-Duitsland van 1933 tot 1945. Na de machtsovername van de nazi's en de invoering van de Enabling Act van 1933 functioneerde het puur als een rubber stempel voor de daden van de dictatuur van Adolf Hitler .. altijd met unanieme toestemming .. en als een forum om te luisteren naar Hitler's toespraken.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler addressed a special session of the Reichstag. After speaking at great length about the victory over Poland he then proposed an international security conference, hinting at desire for an armistice by saying that such a conference would be impossible \"while cannons are thundering.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Reichstag (Nazi Germany) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Reichstag_(Nazi_Germany)"
+        }
+      ]
+    }
+  ]
+}

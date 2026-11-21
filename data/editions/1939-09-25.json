@@ -1,0 +1,52 @@
+{
+  "date": "1939-09-25",
+  "number": 25,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler heeft richtlijn nr. 4 uitgevaardigd, waarmee de oorlog in Polen is beëindigd",
+      "location": "",
+      "body": [
+        "Hitler heeft richtlijn nr. 4 uitgevaardigd, waarmee de oorlog in Polen is beëindigd."
+      ],
+      "context": "Hieronder volgt een lijst van de Führer-richtlijnen en Führer-beschikkingen van Adolf Hitler in de loop van de Tweede Wereldoorlog:",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler issued Directive No. 4, Finishing the War in Poland.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: List of Adolf Hitler's directives (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De Britten begonnen anti-onderzeese mijnen te leggen in de Straat van Dover",
+      "location": "",
+      "body": [
+        "De Britten begonnen anti-onderzeese mijnen te leggen in de Straat van Dover."
+      ],
+      "context": "De Straat van Dover of de Straat van Dover is het nauwst gelegen deel van het Kanaal, dat de grens markeert tussen het Kanaal en de Noordzee en Groot-Brittannië scheidt van het Europese vasteland. De kortste afstand over de straat, op 20,6 mijl, is van het Zuid-Foreland, ten noordoosten van Dover in de Engelse provincie Kent, naar Cap Gris-Nez, een cape in de buurt van Calais in het Franse departement Pas-de-Calais.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The British began laying anti-submarine mines in the Strait of Dover.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Strait of Dover (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Dover"
+        }
+      ]
+    }
+  ]
+}

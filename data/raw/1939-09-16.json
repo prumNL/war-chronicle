@@ -1,0 +1,104 @@
+{
+  "date": "1939-09-16",
+  "edition_number": 16,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:54+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Khalkhin Gol ended with an armistice.",
+      "links": [
+        {
+          "title": "Battles of Khalkhin Gol",
+          "url": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Jaworów ended in Polish victory.",
+      "links": [
+        {
+          "title": "Battle of Jaworów",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Jawor%C3%B3w"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Saar Offensive ended with an unforced French withdrawal after operations failed to divert any German troops from Poland.",
+      "links": [
+        {
+          "title": "Saar Offensive",
+          "url": "https://en.wikipedia.org/wiki/Saar_Offensive"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British steam trawler Rudyard Kipling was sunk off the west coast of Ireland by the German submarine U-27.",
+      "links": [
+        {
+          "title": "Rudyard Kipling (ship)",
+          "url": "https://en.wikipedia.org/wiki/Rudyard_Kipling_(ship)"
+        },
+        {
+          "title": "German submarine U-27 (1936)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-27_(1936)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The New York Yankees clinched their fourth consecutive American League pennant with an 8–5 win over the Detroit Tigers.",
+      "links": [
+        {
+          "title": "New York Yankees",
+          "url": "https://en.wikipedia.org/wiki/New_York_Yankees"
+        },
+        {
+          "title": "American League",
+          "url": "https://en.wikipedia.org/wiki/American_League"
+        },
+        {
+          "title": "Detroit Tigers",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Tigers"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Breyten Breytenbach, writer and painter, in Bonnievale, Western Cape, South Africa (d. 2024)",
+      "links": [
+        {
+          "title": "Breyten Breytenbach",
+          "url": "https://en.wikipedia.org/wiki/Breyten_Breytenbach"
+        },
+        {
+          "title": "Bonnievale, Western Cape",
+          "url": "https://en.wikipedia.org/wiki/Bonnievale,_Western_Cape"
+        },
+        {
+          "title": "South Africa",
+          "url": "https://en.wikipedia.org/wiki/South_Africa"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Józef Kustroń, 46, Polish general (killed in action)",
+      "links": [
+        {
+          "title": "Józef Kustroń",
+          "url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Kustro%C5%84"
+        }
+      ]
+    }
+  ]
+}

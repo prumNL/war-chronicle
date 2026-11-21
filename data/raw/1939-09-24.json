@@ -1,0 +1,76 @@
+{
+  "date": "1939-09-24",
+  "edition_number": 24,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:39+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Luftwaffe bombed Warsaw for the first time, reducing entire streets to rubble and causing widespread fires. The British government considered the bombing a breach of the pledge Germany made at the start of the war to refrain from indiscriminate attacks.",
+      "links": [
+        {
+          "title": "Luftwaffe",
+          "url": "https://en.wikipedia.org/wiki/Luftwaffe"
+        },
+        {
+          "title": "Warsaw",
+          "url": "https://en.wikipedia.org/wiki/Warsaw"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "In the Battle of Husynne, the Polish Army beat back a Soviet infantry corps but were surrounded and forced to surrender by a counterattack of Soviet tanks.",
+      "links": [
+        {
+          "title": "Battle of Husynne",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Husynne"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Grodno ended in Soviet victory.",
+      "links": [
+        {
+          "title": "Battle of Grodno (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Grodno_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Moti Kirschenbaum, media personality and documentarian, in Kfar Saba, Mandatory Palestine (d. 2015)",
+      "links": [
+        {
+          "title": "Moti Kirschenbaum",
+          "url": "https://en.wikipedia.org/wiki/Moti_Kirschenbaum"
+        },
+        {
+          "title": "Kfar Saba",
+          "url": "https://en.wikipedia.org/wiki/Kfar_Saba"
+        },
+        {
+          "title": "Mandatory Palestine",
+          "url": "https://en.wikipedia.org/wiki/Mandatory_Palestine"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Carl Laemmle, 72, German-born American filmmaker",
+      "links": [
+        {
+          "title": "Carl Laemmle",
+          "url": "https://en.wikipedia.org/wiki/Carl_Laemmle"
+        }
+      ]
+    }
+  ]
+}

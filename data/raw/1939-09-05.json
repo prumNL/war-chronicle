@@ -1,0 +1,131 @@
+{
+  "date": "1939-09-05",
+  "edition_number": 5,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:04+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The five-day Battle of Tuchola Forest ended in German victory.",
+      "links": [
+        {
+          "title": "Battle of Tuchola Forest",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tuchola_Forest"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Piotrków Trybunalski began.",
+      "links": [
+        {
+          "title": "Battle of Piotrków Trybunalski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Piotrk%C3%B3w_Trybunalski"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The United States officially declared neutrality in the European war.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "Jan Smuts replaced J. B. M. Hertzog as Prime Minister of South Africa after Parliament rejected Hertzog's legislation advocating neutrality in the European conflict.",
+      "links": [
+        {
+          "title": "Jan Smuts",
+          "url": "https://en.wikipedia.org/wiki/Jan_Smuts"
+        },
+        {
+          "title": "J. B. M. Hertzog",
+          "url": "https://en.wikipedia.org/wiki/J._B._M._Hertzog"
+        },
+        {
+          "title": "Prime Minister of South Africa",
+          "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_South_Africa"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The National Registration Act was given Royal Assent.",
+      "links": [
+        {
+          "title": "National Registration Act 1939",
+          "url": "https://en.wikipedia.org/wiki/National_Registration_Act_1939"
+        },
+        {
+          "title": "Royal Assent",
+          "url": "https://en.wikipedia.org/wiki/Royal_Assent"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Since Monday was Labor Day, the New York Stock Exchange opened for the first day of trading since Britain and France declared war. Stocks surged almost 10% on speculation of European demand for industrial products.",
+      "links": [
+        {
+          "title": "Labor Day (United States)",
+          "url": "https://en.wikipedia.org/wiki/Labor_Day_(United_States)"
+        },
+        {
+          "title": "New York Stock Exchange",
+          "url": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A diplomatic incident between Britain and the United States occurred at Port Said, Egypt when British authorities removed two German engineers from the Don Isidro, a Philippine motorship under the American flag. The United States claimed the act was a violation of its neutral rights.",
+      "links": [
+        {
+          "title": "Port Said",
+          "url": "https://en.wikipedia.org/wiki/Port_Said"
+        },
+        {
+          "title": "Don Isidro (1939)",
+          "url": "https://en.wikipedia.org/wiki/Don_Isidro_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The small steamer Bosnia became the first British freighter lost in the war when it was sunk by U-47.",
+      "links": [
+        {
+          "title": "German submarine U-47 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: George Lazenby, actor and model, in Goulburn, New South Wales, Australia; Clay Regazzoni, racing car driver, in Mendrisio, Switzerland (d. 2006)",
+      "links": [
+        {
+          "title": "George Lazenby",
+          "url": "https://en.wikipedia.org/wiki/George_Lazenby"
+        },
+        {
+          "title": "Goulburn, New South Wales",
+          "url": "https://en.wikipedia.org/wiki/Goulburn,_New_South_Wales"
+        },
+        {
+          "title": "Clay Regazzoni",
+          "url": "https://en.wikipedia.org/wiki/Clay_Regazzoni"
+        },
+        {
+          "title": "Mendrisio",
+          "url": "https://en.wikipedia.org/wiki/Mendrisio"
+        }
+      ]
+    }
+  ]
+}

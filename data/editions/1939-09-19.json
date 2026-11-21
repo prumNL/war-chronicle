@@ -1,0 +1,121 @@
+{
+  "date": "1939-09-19",
+  "number": 19,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler ging de voormalige Vrije Stad Danzig binnen en hield een toespraak waarin…",
+      "location": "",
+      "body": [
+        "Hitler ging de voormalige Vrije Stad Danzig binnen en hield een toespraak waarin de Poolse regering werd veroordeeld en Engeland werd gewaarschuwd dat Duitsland nooit zou capituleren zelfs als de oorlog jaren zou duren."
+      ],
+      "context": "De Vrije Stad Danzig was een stadstaat onder bescherming en toezicht van de Volkenbond tussen 1920 en 1939, bestaande uit de Oostzeehaven van Danzig en bijna 200 andere kleine plaatsen in de omliggende gebieden. Het land werd opgericht op 15 november 1920, volgens de voorwaarden van artikel 100 van het Verdrag van Versailles 1919 na het einde van de Eerste Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler entered the former Free City of Danzig and gave a speech denouncing the Polish government and warning England that Germany would never capitulate even if the war lasted years.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Free City of Danzig (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Free_City_of_Danzig"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "De Slag bij Wilno eindigde met de Russische gevangenneming van de stad",
+      "location": "",
+      "body": [
+        "De Slag bij Wilno eindigde met de Russische gevangenneming van de stad."
+      ],
+      "context": "De Slag bij Wilno werd door het Poolse leger gevochten tegen de Sovjet-inval van Polen in 1939, die vergezelde de Duitse invasie van Polen in overeenstemming met Molotov. Op 18 september 19 september namen de Sovjettroepen de stad Wilno over.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Wilno ended with the Soviet capture of the city.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Wilno (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wilno_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De slag bij de Bzura en Kępa Oksywska eindigde in Duitse overwinningen",
+      "location": "",
+      "body": [
+        "De slag bij de Bzura en Kępa Oksywska eindigde in Duitse overwinningen."
+      ],
+      "context": "De Slag bij de Bzura was de grootste slag bij de Duitse invasie van Polen en werd gevochten van 9 tot 19 september 1939. Het was een Poolse tegenaanval tegen de Duitsers.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battles of the Bzura and Kępa Oksywska ended in German victories.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of the Bzura (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bzura"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Het Rode Leger sloot zich aan bij de Slag bij Lwów",
+      "location": "",
+      "body": [
+        "Het Rode Leger sloot zich aan bij de Slag bij Lwów."
+      ],
+      "context": "De Slag bij Lwów was een veldslag tussen het Poolse leger en het Rode Leger. De stad werd gezien als de sleutel tot de zogenaamde Roemeense Bridgehead en werd ten koste van alles verdedigd.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Red Army joined the Battle of Lwów.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Lwów (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Lw%C3%B3w_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De Slag bij Wólka Węglowa werd gewonnen door Polen",
+      "location": "",
+      "body": [
+        "De Slag bij Wólka Węglowa werd gewonnen door Polen."
+      ],
+      "context": "De Slag bij Wólka Węglowa was een veldslag nabij Wólka Węglowa op 19 september 1939 tijdens de laatste etappes van het Poolse tegenoffensief van de invasie van Polen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Wólka Węglowa was fought, resulting in Polish tactical victory.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Wólka Węglowa (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_W%C3%B3lka_W%C4%99glowa"
+        }
+      ]
+    }
+  ]
+}

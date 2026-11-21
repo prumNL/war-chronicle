@@ -1,0 +1,52 @@
+{
+  "date": "1939-10-12",
+  "number": 42,
+  "articles": [
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "In het Britse Lagerhuis antwoordde premier Neville Chamberlain formeel…",
+      "location": "",
+      "body": [
+        "In het Britse Lagerhuis antwoordde premier Neville Chamberlain formeel op het vredesaanbod van Hitler door te zeggen dat een regeling \"een echte en bestendigde vrede moet zijn, geen ongemakkelijke wapenstilstand onderbroken door constante alarmen en herhaalde bedreigingen.\" Chamberlain legde verder uit, \"Herr Hitler verwierp alle suggesties voor vrede totdat hij Polen had overweldigd, zoals hij eerder Tsjecho-Slowakije had omvergeworpen. Vredesvoorwaarden kunnen niet aanvaardbaar zijn, die om te beginnen agressie accepteren. De voorstellen in de toespraak van de Duitse bondskanselier zijn vaag en onzeker en bevatten geen enkele suggestie om het onrecht aan Tsjechoslowakije en Polen recht te zetten. Zelfs als de voorstellen van Herr Hitler nader zouden worden omschreven en suggesties bevatten om deze fouten te verhelpen, zou het nog steeds noodzakelijk zijn om te vragen met welke praktische middelen de Duitse regering de wereld ervan wil overtuigen dat de agressie zal ophouden en dat toezeggingen zullen worden nagekomen. Uit ervaring is gebleken dat de beloften van de huidige Duitse regering niet kunnen worden nagekomen.\""
+      ],
+      "context": "Arthur Neville Chamberlain was premier van het Verenigd Koninkrijk van mei 1937 tot mei 1940 en leider van de conservatieve partij van mei 1937 tot oktober 1940. Hij staat bekend om zijn buitenlands beleid van verzoening, en in het bijzonder om zijn ondertekening van het Verdrag van München op 30 september 1938, waarbij hij de Duitstalige Sudetenland-regio Tsjecho-Slowakije aan Nazi-Duitsland onder leiding van Adolf Hitler vertrok.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "In the British House of Commons, Prime Minister Neville Chamberlain formally replied to Hitler's peace offer by saying that a settlement \"must be a real and settled peace, not an uneasy truce interrupted by constant alarms and repeated threats.\" Chamberlain further explained, \"Herr Hitler rejected all suggestions for peace until he had overwhelmed Poland, as he had previously overthrown Czechoslovakia. Peace conditions cannot be acceptable which begin by condoning aggression. The proposals in the German Chancellor's speech are vague and uncertain and contain no suggestion for righting the wrongs done to Czechoslovakia and to Poland. Even if Herr Hitler's proposals were more closely defined and contained suggestions to right these wrongs, it would still be necessary to ask by what practical means the German Government intend to convince the world that aggression will cease and that pledges will be kept. Past experience has shown that no reliance can be placed upon the promises of the present German Government.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Neville Chamberlain (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Neville_Chamberlain"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De regio's van nazi-bezette Polen die niet door het Rijk zijn geannexeerd",
+      "location": "",
+      "body": [
+        "De regio's van nazi-bezette Polen die niet door het Rijk zijn geannexeerd, werden opgenomen in een nieuwe administratieve eenheid genaamd de algemene regering. Wawel Castle in Krakau werd de zetel van de regering."
+      ],
+      "context": "== Geschiedenis ==De regering werd opgericht na de invasie van Polen door nazi-Duitsland, Slowakije en de Sovjet-Unie in 1939. De pas bezette Tweede Poolse Republiek werd verdeeld in drie zones: de algemene regering in haar centrum, Poolse gebieden die door nazi-Duitsland in het westen zijn geannexeerd, en Poolse gebieden die door de Sovjet-Unie in het oosten zijn geannexeerd.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The regions of Nazi-occupied Poland not annexed by the Reich were incorporated into a new administrative unit called the General Government. Wawel Castle in Kraków was made the seat of government.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: General Government (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    }
+  ]
+}

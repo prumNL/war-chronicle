@@ -1,0 +1,29 @@
+{
+  "date": "1939-10-16",
+  "number": 46,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Negen vliegtuigen van de Luftwaffe voerden een luchtaanval uit op de Firth of Forth",
+      "location": "",
+      "body": [
+        "Negen vliegtuigen van de Luftwaffe voerden een luchtaanval uit op de Firth of Forth, waardoor drie Britse schepen werden beschadigd, de kruisers Southampton en Edinburgh, evenals de destroyer Mohawk, en zestien Royal Navy crews werden gedood voordat Supermarine Spitfires van nr. 603 Squadron arriveerde en drie van de vijandelijke vliegtuigen neerschoot, de eerste die neerstortte boven Brits grondgebied."
+      ],
+      "context": "De Luftwaffe was de tak van de Wehrmacht voor en tijdens de Tweede Wereldoorlog. De Duitse militaire luchtwapens tijdens de Eerste Wereldoorlog, de Luftstreitkräfte van het Keizerlijke Leger en de Marine-Fliegerabteilung van de Keizerlijke Marine, waren in mei 1920 ontbonden overeenkomstig de bepalingen van het Verdrag van Versailles van 1919, waardoor Duitsland geen luchtmacht meer had.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Nine planes of the Luftwaffe conducted an air raid on the Firth of Forth, damaging three British ships, the cruisers Southampton and Edinburgh, as well as the destroyer Mohawk, and killing sixteen Royal Navy crew before Supermarine Spitfires of No. 603 Squadron arrived and shot down three of the enemy aircraft, the first to be downed over British territory.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Luftwaffe (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Luftwaffe"
+        }
+      ]
+    }
+  ]
+}

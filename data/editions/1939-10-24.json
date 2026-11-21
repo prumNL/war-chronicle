@@ -1,0 +1,52 @@
+{
+  "date": "1939-10-24",
+  "number": 54,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "Joachim von Ribbentrop hield een toespraak in Danzig waarin hij Engeland de schuld gaf…",
+      "location": "",
+      "body": [
+        "Joachim von Ribbentrop hield een toespraak in Danzig waarin hij Engeland de schuld gaf van de oorlog en aangaf dat de gevechten op grote schaal zouden beginnen nu Chamberlain \"de hand van de Führer in een vredesgebaar had uitgerekt.\" Londen gaf snel een officieel antwoord met de woorden \"introduceert geen nieuw element in de situatie noch wordt het geacht een bijzonder belang te hebben.\""
+      ],
+      "context": "Ulrich Friedrich-Wilhelm Joachim von Ribbentrop was een Duitse politicus, diplomaat en oorlogsmisdadiger die van 1938 tot 1945 minister van Buitenlandse Zaken van Nazi-Duitsland was.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Joachim von Ribbentrop made a speech in Danzig blaming Britain for the war and indicating that fighting would begin on a large scale now that Chamberlain had \"refused the hand of the Führer stretched out in a peace gesture.\" London swiftly provided an official reply saying the speech \"introduces no new element into the situation nor is it considered as having any particular importance.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Joachim von Ribbentrop (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "De Amerikaanse bemanning van de stad Flint werd vastgehouden door de Russische…",
+      "location": "",
+      "body": [
+        "De Amerikaanse bemanning van de stad Flint werd vastgehouden door de Russische autoriteiten en verhinderd om te communiceren met de Amerikaanse ambassade in Moskou."
+      ],
+      "context": "SS City of Flint was een vrachtschip van een type bekend als een Hog Islander, omdat het werd gebouwd op de Hog Island Shipyard, Philadelphia door American International Shipbuilding voor de United States Shipping Board (USSB), Noodvloot Corporation. De stad Flint werd genoemd om de inwoners van Flint, Michigan te eren voor hun inspanningen in Liberty Loan drives tijdens de Eerste Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The American crew of the City of Flint were detained by Russian authorities and prevented from communicating with the U.S. embassy in Moscow.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: SS City of Flint (1919) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        }
+      ]
+    }
+  ]
+}

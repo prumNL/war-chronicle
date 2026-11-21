@@ -1,0 +1,47 @@
+{
+  "date": "1939-10-26",
+  "edition_number": 56,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:56+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Jozef Tiso became the first President of Slovakia. He immediately appointed Vojtech Tuka Prime Minister.",
+      "links": [
+        {
+          "title": "Jozef Tiso",
+          "url": "https://en.wikipedia.org/wiki/Jozef_Tiso"
+        },
+        {
+          "title": "Vojtech Tuka",
+          "url": "https://en.wikipedia.org/wiki/Vojtech_Tuka"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Jewish males between the ages of 14 and 60 in Nazi-occupied Poland were forced to perform forced labor.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "Hans Frank became the Governor-General of the General Government.",
+      "links": [
+        {
+          "title": "Hans Frank",
+          "url": "https://en.wikipedia.org/wiki/Hans_Frank"
+        },
+        {
+          "title": "General Government",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    }
+  ]
+}

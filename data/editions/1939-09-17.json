@@ -1,0 +1,94 @@
+{
+  "date": "1939-09-17",
+  "number": 17,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "De Britse vliegdekschip HMS Courageous werd voor de kust van Ierland gezonken door Duitse…",
+      "location": "",
+      "body": [
+        "De Britse vliegdekschip HMS Courageous werd voor de kust van Ierland gezonken door Duitse onderzeeër U-29."
+      ],
+      "context": "HMS Courageous was het hoofdschip van haar klasse van drie slagkruisers gebouwd voor de Royal Navy in de Eerste Wereldoorlog. Het schip werd ontworpen ter ondersteuning van het Baltic Project, dat werd gesteund door First Sea Lord John Fisher.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The British aircraft carrier HMS Courageous was sunk off the coast of Ireland by German submarine U-29.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: HMS Courageous (50) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Courageous_(50)"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "De Sovjet-Unie viel Polen binnen vanuit het oosten",
+      "location": "",
+      "body": [
+        "De Sovjet-Unie viel Polen binnen vanuit het oosten."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Soviet Union invaded Poland from the east.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        }
+      ]
+    },
+    {
+      "section": "Pacific",
+      "headline": "De Slag bij Changsha begon in de Tweede Sino-Japanse Oorlog",
+      "location": "",
+      "body": [
+        "De Slag bij Changsha begon in de Tweede Sino-Japanse Oorlog."
+      ],
+      "context": "De eerste Slag bij Changsha was de eerste van vier pogingen van Japan om de stad Changsha, Hunan, in te nemen tijdens de tweede Sino-Japanse Oorlog. Twee weken na de Duitse invasie van Polen op 1 september was het de eerste grote slag van de oorlog die viel binnen het tijdsbestek van wat algemeen wordt beschouwd als de Tweede Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Changsha began in the Second Sino-Japanese War.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Changsha (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Changsha_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Slag bij Brześć Litewski eindigde in de Duitse overwinning",
+      "location": "",
+      "body": [
+        "De Slag bij Brześć Litewski eindigde in de Duitse overwinning."
+      ],
+      "context": "De Slag bij Brześć Litewski was een veldslag in de Tweede Wereldoorlog waarbij Duitse en Poolse troepen betrokken waren. Na drie dagen zware gevechten voor het bolwerk in de stad Brześć veroverden de Duitsers het fort en trokken de Polen zich terug.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Brześć Litewski ended in German victory.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Brześć Litewski (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Brze%C5%9B%C4%87_Litewski"
+        }
+      ]
+    }
+  ]
+}

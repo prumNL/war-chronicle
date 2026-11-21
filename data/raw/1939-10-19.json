@@ -1,0 +1,72 @@
+{
+  "date": "1939-10-19",
+  "edition_number": 49,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:22+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Anglo-French-Turkish Treaty of Mutual Assistance was signed in Ankara, guaranteeing that if Turkey was attacked, Britain and France would come to its aid. In exchange, Turkey pledged to fight on the side of Britain and France if war spread to the Mediterranean.",
+      "links": [
+        {
+          "title": "Ankara",
+          "url": "https://en.wikipedia.org/wiki/Ankara"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Haupttreuhandstelle Ost was created to co-ordinate the confiscation of Jewish and Polish assets in Nazi-occupied Poland.",
+      "links": [
+        {
+          "title": "Haupttreuhandstelle Ost",
+          "url": "https://en.wikipedia.org/wiki/Haupttreuhandstelle_Ost"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Four American Navy flyers were killed when two bomber planes collided in mid-air near San Diego, California.",
+      "links": [
+        {
+          "title": "San Diego",
+          "url": "https://en.wikipedia.org/wiki/San_Diego"
+        },
+        {
+          "title": "California",
+          "url": "https://en.wikipedia.org/wiki/California"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Former heavyweight boxing champion Gene Tunney criticized Charles Lindbergh's radio address of October 13, especially his remarks about Canada. Tunney said he had great respect for Lindbergh but could not understand how he could \"desert\" England after being sheltered there. Tunney also said it took \"great nerve and ambition\" for Lindbergh to tell Americans how they should think after accepting an award from the Nazis while visiting Germany.",
+      "links": [
+        {
+          "title": "Gene Tunney",
+          "url": "https://en.wikipedia.org/wiki/Gene_Tunney"
+        },
+        {
+          "title": "Charles Lindbergh",
+          "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Red Downs, 56, American baseball player and convicted armed robber.",
+      "links": [
+        {
+          "title": "Red Downs",
+          "url": "https://en.wikipedia.org/wiki/Red_Downs"
+        }
+      ]
+    }
+  ]
+}

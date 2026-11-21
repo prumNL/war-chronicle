@@ -1,0 +1,104 @@
+{
+  "date": "1939-09-28",
+  "edition_number": 28,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:58+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Siege of Warsaw ended after twenty days when the Polish garrison capitulated to the Germans.",
+      "links": [
+        {
+          "title": "Siege of Warsaw (1939)",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Warsaw_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Szack was fought, resulting in a tactical Polish victory over the Soviets.",
+      "links": [
+        {
+          "title": "Battle of Szack",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Szack"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Germany and the Soviet Union signed the German-Soviet Frontier Treaty, amending a secret clause in the Molotov–Ribbentrop Pact.",
+      "links": [
+        {
+          "title": "German-Soviet Frontier Treaty",
+          "url": "https://en.wikipedia.org/wiki/German-Soviet_Frontier_Treaty"
+        },
+        {
+          "title": "Molotov–Ribbentrop Pact",
+          "url": "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Soviet–Estonian Mutual Assistance Treaty was signed in Moscow.",
+      "links": [
+        {
+          "title": "Soviet–Estonian Mutual Assistance Treaty",
+          "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Estonian_Mutual_Assistance_Treaty"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Cincinnati Reds clinched the National League pennant with a 5–3 win over the St. Louis Cardinals.",
+      "links": [
+        {
+          "title": "Cincinnati Reds",
+          "url": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
+        },
+        {
+          "title": "National League (baseball)",
+          "url": "https://en.wikipedia.org/wiki/National_League_(baseball)"
+        },
+        {
+          "title": "St. Louis Cardinals",
+          "url": "https://en.wikipedia.org/wiki/St._Louis_Cardinals"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Rudolph Walker, actor, in Trinidad, West Indies",
+      "links": [
+        {
+          "title": "Rudolph Walker",
+          "url": "https://en.wikipedia.org/wiki/Rudolph_Walker"
+        },
+        {
+          "title": "Trinidad",
+          "url": "https://en.wikipedia.org/wiki/Trinidad"
+        },
+        {
+          "title": "West Indies",
+          "url": "https://en.wikipedia.org/wiki/West_Indies"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Martha Root, 67, American Bahá'í teacher",
+      "links": [
+        {
+          "title": "Martha Root",
+          "url": "https://en.wikipedia.org/wiki/Martha_Root"
+        }
+      ]
+    }
+  ]
+}

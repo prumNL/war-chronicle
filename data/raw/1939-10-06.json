@@ -1,0 +1,84 @@
+{
+  "date": "1939-10-06",
+  "edition_number": 36,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:28+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Changsha ended in Chinese victory.",
+      "links": [
+        {
+          "title": "Battle of Changsha (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Changsha_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler addressed a special session of the Reichstag. After speaking at great length about the victory over Poland he then proposed an international security conference, hinting at desire for an armistice by saying that such a conference would be impossible \"while cannons are thundering.\"",
+      "links": [
+        {
+          "title": "Reichstag (Nazi Germany)",
+          "url": "https://en.wikipedia.org/wiki/Reichstag_(Nazi_Germany)"
+        },
+        {
+          "title": "Invasion of Poland",
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_Poland"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A Gallup poll was published in the United States asking, \"What should be the policy in the present European war? Should we declare war and send our army and navy abroad to fight Germany?\" 95% of Americans polled said no.",
+      "links": [
+        {
+          "title": "Gallup (company)",
+          "url": "https://en.wikipedia.org/wiki/Gallup_(company)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The comedy film Ninotchka starring Greta Garbo and Melvyn Douglas was released. The film was marketed with the tagline, \"Garbo Laughs!\"",
+      "links": [
+        {
+          "title": "Ninotchka",
+          "url": "https://en.wikipedia.org/wiki/Ninotchka"
+        },
+        {
+          "title": "Greta Garbo",
+          "url": "https://en.wikipedia.org/wiki/Greta_Garbo"
+        },
+        {
+          "title": "Melvyn Douglas",
+          "url": "https://en.wikipedia.org/wiki/Melvyn_Douglas"
+        },
+        {
+          "title": "Tagline",
+          "url": "https://en.wikipedia.org/wiki/Tagline"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Melvyn Bragg, broadcaster, author and parliamentarian, in Carlisle, Cumbria, England.",
+      "links": [
+        {
+          "title": "Melvyn Bragg",
+          "url": "https://en.wikipedia.org/wiki/Melvyn_Bragg"
+        },
+        {
+          "title": "Carlisle, Cumbria",
+          "url": "https://en.wikipedia.org/wiki/Carlisle,_Cumbria"
+        }
+      ]
+    }
+  ]
+}

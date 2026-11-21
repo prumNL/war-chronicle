@@ -1,0 +1,130 @@
+{
+  "date": "1939-10-07",
+  "edition_number": 37,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:32+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The British Expeditionary Force completed its crossing to France.",
+      "links": [
+        {
+          "title": "British Expeditionary Force (World War II)",
+          "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_II)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Operation Fish: British Royal Navy cruiser HMS Emerald set sail from Plymouth in convoy for Halifax, Nova Scotia, carrying £2M in gold bar to be used for purchase of military materiel in North America.",
+      "links": [
+        {
+          "title": "Operation Fish",
+          "url": "https://en.wikipedia.org/wiki/Operation_Fish"
+        },
+        {
+          "title": "HMS Emerald (D66)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Emerald_(D66)"
+        },
+        {
+          "title": "Plymouth",
+          "url": "https://en.wikipedia.org/wiki/Plymouth"
+        },
+        {
+          "title": "Halifax, Nova Scotia",
+          "url": "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia"
+        },
+        {
+          "title": "Gold bar",
+          "url": "https://en.wikipedia.org/wiki/Gold_bar"
+        },
+        {
+          "title": "Materiel",
+          "url": "https://en.wikipedia.org/wiki/Materiel"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler created the office of Reich Commissioner for the Consolidation of German Nationhood and appointed Heinrich Himmler as its head.",
+      "links": [
+        {
+          "title": "Reich Commissioner for the Consolidation of German Nationhood",
+          "url": "https://en.wikipedia.org/wiki/Reich_Commissioner_for_the_Consolidation_of_German_Nationhood"
+        },
+        {
+          "title": "Heinrich Himmler",
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Himmler"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The present version of the Spanish Air Force was officially established.",
+      "links": [
+        {
+          "title": "Spanish Air Force",
+          "url": "https://en.wikipedia.org/wiki/Spanish_Air_Force"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: John Hopcroft, computer scientist, in Seattle, Washington; Clive James, writer and television personality, in Kogarah, New South Wales, Australia (d. 2019); Harry Kroto, chemist and Nobel laureate, in Wisbech, England (d. 2016); Bill Snyder, American football player and coach, in St. Joseph, Missouri.",
+      "links": [
+        {
+          "title": "John Hopcroft",
+          "url": "https://en.wikipedia.org/wiki/John_Hopcroft"
+        },
+        {
+          "title": "Seattle",
+          "url": "https://en.wikipedia.org/wiki/Seattle"
+        },
+        {
+          "title": "Washington (state)",
+          "url": "https://en.wikipedia.org/wiki/Washington_(state)"
+        },
+        {
+          "title": "Clive James",
+          "url": "https://en.wikipedia.org/wiki/Clive_James"
+        },
+        {
+          "title": "Kogarah, New South Wales",
+          "url": "https://en.wikipedia.org/wiki/Kogarah,_New_South_Wales"
+        },
+        {
+          "title": "Harry Kroto",
+          "url": "https://en.wikipedia.org/wiki/Harry_Kroto"
+        },
+        {
+          "title": "Wisbech",
+          "url": "https://en.wikipedia.org/wiki/Wisbech"
+        },
+        {
+          "title": "Bill Snyder",
+          "url": "https://en.wikipedia.org/wiki/Bill_Snyder"
+        },
+        {
+          "title": "St. Joseph, Missouri",
+          "url": "https://en.wikipedia.org/wiki/St._Joseph,_Missouri"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Harvey Cushing, 70, American neurosurgeon.",
+      "links": [
+        {
+          "title": "Harvey Cushing",
+          "url": "https://en.wikipedia.org/wiki/Harvey_Cushing"
+        }
+      ]
+    }
+  ]
+}

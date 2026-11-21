@@ -1,0 +1,81 @@
+{
+  "date": "1939-09-12",
+  "edition_number": 12,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:37+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Lwów began.",
+      "links": [
+        {
+          "title": "Battle of Lwów (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Lw%C3%B3w_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Kałuszyn ended in German victory.",
+      "links": [
+        {
+          "title": "Battle of Kałuszyn",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Ka%C5%82uszyn"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Nazi Germany issued two decrees virtually prohibiting private automobile use after September 20. Special permits would be required to buy gasoline after that date, and every privately owned rubber tire in the country was declared property of the state.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "The Duke and Duchess of Windsor returned to England from self-imposed exile in France.",
+      "links": [
+        {
+          "title": "Edward VIII",
+          "url": "https://en.wikipedia.org/wiki/Edward_VIII"
+        },
+        {
+          "title": "Wallis Simpson",
+          "url": "https://en.wikipedia.org/wiki/Wallis_Simpson"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Anglo-French Supreme War Council met for the first time, in Abbeville, France.",
+      "links": [
+        {
+          "title": "Anglo-French Supreme War Council",
+          "url": "https://en.wikipedia.org/wiki/Anglo-French_Supreme_War_Council"
+        },
+        {
+          "title": "Abbeville",
+          "url": "https://en.wikipedia.org/wiki/Abbeville"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Canada introduced its first war budget. Minister of National Revenue James Lorimer Ilsley announced a new 20% surtax on personal income to pay for the war as well as tax increases on alcohol, tea, coffee and cigarettes. A deficit of $156 million was forecast for the fiscal year.",
+      "links": [
+        {
+          "title": "Minister of National Revenue (Canada)",
+          "url": "https://en.wikipedia.org/wiki/Minister_of_National_Revenue_(Canada)"
+        },
+        {
+          "title": "James Lorimer Ilsley",
+          "url": "https://en.wikipedia.org/wiki/James_Lorimer_Ilsley"
+        }
+      ]
+    }
+  ]
+}

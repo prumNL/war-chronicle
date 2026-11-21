@@ -1,0 +1,42 @@
+{
+  "date": "1939-10-04",
+  "edition_number": 34,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:22+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Adolf Hitler issued a secret decree granting an amnesty to all crimes committed by German military and police personnel in Poland between September 1 and October 4. The decree justified the crimes as being natural responses to \"atrocities committed by the Poles.\"",
+      "links": [
+        {
+          "title": "Adolf Hitler",
+          "url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+          "title": "Amnesty",
+          "url": "https://en.wikipedia.org/wiki/Amnesty"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Ivan Mauger, motorcycle speedway rider, in Christchurch, New Zealand (d. 2018).",
+      "links": [
+        {
+          "title": "Ivan Mauger",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Mauger"
+        },
+        {
+          "title": "Christchurch",
+          "url": "https://en.wikipedia.org/wiki/Christchurch"
+        }
+      ]
+    }
+  ]
+}

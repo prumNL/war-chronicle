@@ -1,0 +1,52 @@
+{
+  "date": "1939-10-30",
+  "number": 60,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Ten westen van de Orkneyeilanden kwam de Duitse onderzeeër U-56 het Britse slagschip HMS…",
+      "location": "",
+      "body": [
+        "Ten westen van de Orkneyeilanden kwam de Duitse onderzeeër U-56 het Britse slagschip HMS Nelson tegen met de Eerste Heer van de Admiraliteit Winston Churchill aan boord. U-56 vuurde drie torpedo's af die allemaal niet ontploften. De commandant van de U-boot Wilhelm Zahn werd bekend als \"de man die Churchill bijna vermoordde.\""
+      ],
+      "context": "Orkney is een archipel aan de noordkust van Schotland. De meervoudsnaam wordt ook wel eens gebruikt.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "West of the Orkney Islands, the German submarine U-56 encountered the British battleship HMS Nelson with First Lord of the Admiralty Winston Churchill aboard. U-56 fired three torpedoes that all failed to explode. The U-boat's commander Wilhelm Zahn became known as \"the man who almost killed Churchill.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Orkney (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Orkney"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De stad Flint belandde weer in Tromsø, tot de ongenoegen van de Noren die probeerden…",
+      "location": "",
+      "body": [
+        "De stad Flint belandde weer in Tromsø, tot de ongenoegen van de Noren die probeerden te voorkomen dat ze betrokken werden bij internationale incidenten met oorlogszuchtige schepen in hun havens. Noorwegen stuurde een marine escort naar de stad Flint door de Noorse wateren om ervoor te zorgen dat het vrachtschip niet opnieuw probeerde te stoppen noch werd aangevallen door geallieerde oorlogsschepen."
+      ],
+      "context": "Tromsø is een stad in de Noorse provincie Troms. De stad is het administratieve centrum van de gemeente en de provincie.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The City of Flint ended up in Tromsø again, to the displeasure of the Norwegians who were trying to avoid being drawn into any international incidents involving belligerent ships in their ports. Norway dispatched a naval escort to see the City of Flint through Norwegian waters to ensure that the freighter neither tried to stop again nor came under attack from Allied warships.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Tromsø (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Troms%C3%B8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "1939-10-11",
+  "number": 41,
+  "articles": [
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "VS",
+      "location": "",
+      "body": [
+        "VS. President Franklin D. Roosevelt ontving de brief van Einstein"
+      ],
+      "context": "Franklin Delano Roosevelt, ook bekend als FDR, was de 32e president van de Verenigde Staten. Hij is de langste Amerikaanse president en de enige die meer dan twee voorwaarden heeft gediend.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "U.S. President Franklin D. Roosevelt received the Einstein–Szilárd letter.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Franklin D. Roosevelt (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        }
+      ]
+    }
+  ]
+}

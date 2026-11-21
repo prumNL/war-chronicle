@@ -1,0 +1,110 @@
+{
+  "date": "1939-09-10",
+  "edition_number": 10,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:28+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "A special morning edition of the Canada Gazette published the Canadian declaration of war on Germany. Signed by Prime Minister Mackenzie King and bearing the seal of Governor General Lord Tweedsmuir (John Buchan), it did \"hereby declare and proclaim that a state of war with the German Reich exists and has existed in our Dominion of Canada as and from the tenth day of September, 1939.\" This was the first and only independent declaration of war by Canada.",
+      "links": [
+        {
+          "title": "Canada Gazette",
+          "url": "https://en.wikipedia.org/wiki/Canada_Gazette"
+        },
+        {
+          "title": "Canadian declaration of war on Germany",
+          "url": "https://en.wikipedia.org/wiki/Canadian_declaration_of_war_on_Germany"
+        },
+        {
+          "title": "Governor General of Canada",
+          "url": "https://en.wikipedia.org/wiki/Governor_General_of_Canada"
+        },
+        {
+          "title": "John Buchan",
+          "url": "https://en.wikipedia.org/wiki/John_Buchan"
+        },
+        {
+          "title": "Declaration of war by Canada",
+          "url": "https://en.wikipedia.org/wiki/Declaration_of_war_by_Canada"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battles of Jarosław and Kępa Oksywska began.",
+      "links": [
+        {
+          "title": "Battle of Jarosław",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Jaros%C5%82aw"
+        },
+        {
+          "title": "Battle of Kępa Oksywska",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_K%C4%99pa_Oksywska"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The four-day Battle of Łomża ended when the Polish Army withdrew.",
+      "links": [
+        {
+          "title": "Battle of Łomża (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_%C5%81om%C5%BCa_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Off the coast of Norway, the British submarine HMS Oxley was mistaken for an enemy by HMS Triton and sunk. There were only two survivors.",
+      "links": [
+        {
+          "title": "HMS Oxley",
+          "url": "https://en.wikipedia.org/wiki/HMS_Oxley"
+        },
+        {
+          "title": "HMS Triton (N15)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Triton_(N15)"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Cynthia Lennon, first wife of John Lennon, in Blackpool, England (d. 2015)",
+      "links": [
+        {
+          "title": "Cynthia Lennon",
+          "url": "https://en.wikipedia.org/wiki/Cynthia_Lennon"
+        },
+        {
+          "title": "John Lennon",
+          "url": "https://en.wikipedia.org/wiki/John_Lennon"
+        },
+        {
+          "title": "Blackpool",
+          "url": "https://en.wikipedia.org/wiki/Blackpool"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Wilhelm Fritz von Roettig, 51, first German general to die in World War II (ambushed by Polish troops near Opoczno)",
+      "links": [
+        {
+          "title": "Wilhelm Fritz von Roettig",
+          "url": "https://en.wikipedia.org/wiki/Wilhelm_Fritz_von_Roettig"
+        },
+        {
+          "title": "Opoczno",
+          "url": "https://en.wikipedia.org/wiki/Opoczno"
+        }
+      ]
+    }
+  ]
+}

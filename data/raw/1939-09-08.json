@@ -1,0 +1,71 @@
+{
+  "date": "1939-09-08",
+  "edition_number": 8,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:20+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "German troops reached the suburbs of Warsaw and tried to enter the city but were beaten back. The Siege of Warsaw began.",
+      "links": [
+        {
+          "title": "Warsaw",
+          "url": "https://en.wikipedia.org/wiki/Warsaw"
+        },
+        {
+          "title": "Siege of Warsaw (1939)",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Warsaw_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Gdynia began.",
+      "links": [
+        {
+          "title": "Battle of Gdynia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Gdynia"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Polish Army conducted a successful delaying action in the Battle of Wola Cyrusowa.",
+      "links": [
+        {
+          "title": "Battle of Wola Cyrusowa",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wola_Cyrusowa"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Ciepielów massacre: German soldiers massacred some 300 Polish prisoners of war near the village of Ciepielów (see German atrocities committed against Polish prisoners of war).",
+      "links": [
+        {
+          "title": "Ciepielów massacre",
+          "url": "https://en.wikipedia.org/wiki/Ciepiel%C3%B3w_massacre"
+        },
+        {
+          "title": "Ciepielów, Masovian Voivodeship",
+          "url": "https://en.wikipedia.org/wiki/Ciepiel%C3%B3w,_Masovian_Voivodeship"
+        },
+        {
+          "title": "German atrocities committed against Polish prisoners of war",
+          "url": "https://en.wikipedia.org/wiki/German_atrocities_committed_against_Polish_prisoners_of_war"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "President Roosevelt declared a limited national emergency. Increases were ordered in the enlisted strength of the army, navy and National Guard. Also, a $500,000 fund was allocated to assist in the return of American citizens stranded in war zones.",
+      "links": []
+    }
+  ]
+}

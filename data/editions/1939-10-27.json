@@ -1,0 +1,29 @@
+{
+  "date": "1939-10-27",
+  "number": 57,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De paus Pius XII encycliek Summi Pontificatus werd gepubliceerd",
+      "location": "",
+      "body": [
+        "De paus Pius XII encycliek Summi Pontificatus werd gepubliceerd, waarbij totalitarisme werd veroordeeld. De encycliek gaf blijk van medeleven met ontheemden, maar vermeed de veroordeling van Duitsland bij naam."
+      ],
+      "context": "Paus Pius XII was van 2 maart 1939 tot zijn dood in 1958 hoofd van de Katholieke Kerk en vorst van Vaticaanstad. Zijn pontificaat strekte zich uit over de Tweede Wereldoorlog, de Holocaust en de eerste jaren van de Koude Oorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Pope Pius XII encyclical Summi Pontificatus was published, denouncing totalitarianism. The encyclical expressed compassion for displaced Poles but avoided condemning Germany by name.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Pope Pius XII (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Pius_XII"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "1939-09-29",
+  "edition_number": 29,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:02+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Modlin ended when Modlin Fortress capitulated to the Germans.",
+      "links": [
+        {
+          "title": "Battle of Modlin",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Modlin"
+        },
+        {
+          "title": "Modlin Fortress",
+          "url": "https://en.wikipedia.org/wiki/Modlin_Fortress"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battles of Parczew, Jabłoń and Milanów between the Polish Army and the Red Army began.",
+      "links": [
+        {
+          "title": "Battles of Parczew, Jabłoń and Milanów",
+          "url": "https://en.wikipedia.org/wiki/Battles_of_Parczew,_Jab%C5%82o%C5%84_and_Milan%C3%B3w"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Estonia signed an agreement with the Soviet Union allowing the Soviets to establish naval and air bases within Estonia's borders.",
+      "links": [
+        {
+          "title": "Estonia",
+          "url": "https://en.wikipedia.org/wiki/Estonia"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Larry Linville, actor, in Ojai, California (d. 2000)",
+      "links": [
+        {
+          "title": "Larry Linville",
+          "url": "https://en.wikipedia.org/wiki/Larry_Linville"
+        },
+        {
+          "title": "Ojai, California",
+          "url": "https://en.wikipedia.org/wiki/Ojai,_California"
+        }
+      ]
+    }
+  ]
+}

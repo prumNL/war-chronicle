@@ -1,0 +1,52 @@
+{
+  "date": "1939-10-03",
+  "edition_number": 33,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:18+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Panama Conference concluded with the adoption of a general declaration of neutrality of the American Republics.",
+      "links": [
+        {
+          "title": "Panama Conference (1939)",
+          "url": "https://en.wikipedia.org/wiki/Panama_Conference_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Greek cargo ship Diamantis was torpedoed and sunk by the German submarine U-35 west of the Isles of Scilly. Because the ship's lifeboats were not suited for use in bad weather, the U-35 took all 28 crew members aboard and dropped them off at Dingle Bay, Ireland the next day.",
+      "links": [
+        {
+          "title": "German submarine U-35 (1936)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-35_(1936)"
+        },
+        {
+          "title": "Isles of Scilly",
+          "url": "https://en.wikipedia.org/wiki/Isles_of_Scilly"
+        },
+        {
+          "title": "Dingle Bay",
+          "url": "https://en.wikipedia.org/wiki/Dingle_Bay"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Fay Templeton, 73, American actress, singer and comedian.",
+      "links": [
+        {
+          "title": "Fay Templeton",
+          "url": "https://en.wikipedia.org/wiki/Fay_Templeton"
+        }
+      ]
+    }
+  ]
+}

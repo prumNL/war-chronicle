@@ -1,0 +1,120 @@
+{
+  "date": "1939-10-20",
+  "edition_number": 50,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:29+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Some 2,000 Jews were deported from Nazi-controlled Vienna to Lublin in the General Government.",
+      "links": [
+        {
+          "title": "Vienna",
+          "url": "https://en.wikipedia.org/wiki/Vienna"
+        },
+        {
+          "title": "Lublin",
+          "url": "https://en.wikipedia.org/wiki/Lublin"
+        },
+        {
+          "title": "General Government",
+          "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Pope Pius XII published his first encyclical, Summi Pontificatus, critiquing ideologies such as racism, cultural superiority and totalitarianism.",
+      "links": [
+        {
+          "title": "Pope Pius XII",
+          "url": "https://en.wikipedia.org/wiki/Pope_Pius_XII"
+        },
+        {
+          "title": "Encyclical",
+          "url": "https://en.wikipedia.org/wiki/Encyclical"
+        },
+        {
+          "title": "Summi Pontificatus",
+          "url": "https://en.wikipedia.org/wiki/Summi_Pontificatus"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German prize crew of the City of Flint (disguised as a Danish ship named Alf) entered the Norwegian port of Tromsø to get fresh water. The Norwegians supplied the water but ordered the ship to have its proper name and marking restored and to leave the next morning.",
+      "links": [
+        {
+          "title": "Prize crew",
+          "url": "https://en.wikipedia.org/wiki/Prize_crew"
+        },
+        {
+          "title": "SS City of Flint (1919)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        },
+        {
+          "title": "Tromsø",
+          "url": "https://en.wikipedia.org/wiki/Troms%C3%B8"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The comedy film At the Circus starring the Marx Brothers was released.",
+      "links": [
+        {
+          "title": "At the Circus",
+          "url": "https://en.wikipedia.org/wiki/At_the_Circus"
+        },
+        {
+          "title": "Marx Brothers",
+          "url": "https://en.wikipedia.org/wiki/Marx_Brothers"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Mass public executions of Poles perpetrated by the German police and Einsatzgruppe VI in various towns in the region of Greater Poland in German-occupied Poland, i.e. Kostrzyn, Kórnik, Książ Wielkopolski, Mosina, Śrem, Środa, in attempt to pacify and terrorize the Polish population.",
+      "links": [
+        {
+          "title": "Einsatzgruppen",
+          "url": "https://en.wikipedia.org/wiki/Einsatzgruppen"
+        },
+        {
+          "title": "Greater Poland",
+          "url": "https://en.wikipedia.org/wiki/Greater_Poland"
+        },
+        {
+          "title": "Kostrzyn, Greater Poland Voivodeship",
+          "url": "https://en.wikipedia.org/wiki/Kostrzyn,_Greater_Poland_Voivodeship"
+        },
+        {
+          "title": "Kórnik",
+          "url": "https://en.wikipedia.org/wiki/K%C3%B3rnik"
+        },
+        {
+          "title": "Książ Wielkopolski",
+          "url": "https://en.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Wielkopolski"
+        },
+        {
+          "title": "Mosina",
+          "url": "https://en.wikipedia.org/wiki/Mosina"
+        },
+        {
+          "title": "Śrem",
+          "url": "https://en.wikipedia.org/wiki/%C5%9Arem"
+        },
+        {
+          "title": "Środa Wielkopolska",
+          "url": "https://en.wikipedia.org/wiki/%C5%9Aroda_Wielkopolska"
+        }
+      ]
+    }
+  ]
+}

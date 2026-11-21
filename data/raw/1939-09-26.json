@@ -1,0 +1,92 @@
+{
+  "date": "1939-09-26",
+  "edition_number": 26,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:48+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Tomaszów Lubelski ended with the capitulation of most of the Polish forces in the region.",
+      "links": [
+        {
+          "title": "Battle of Tomaszów Lubelski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tomasz%C3%B3w_Lubelski"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Werner von Fritsch was given a funeral with full military honors in Berlin. Hermann Göring and Walther von Brauchitsch were among those present but Hitler was not, sending a large wreath instead.",
+      "links": [
+        {
+          "title": "Werner von Fritsch",
+          "url": "https://en.wikipedia.org/wiki/Werner_von_Fritsch"
+        },
+        {
+          "title": "Hermann Göring",
+          "url": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring"
+        },
+        {
+          "title": "Walther von Brauchitsch",
+          "url": "https://en.wikipedia.org/wiki/Walther_von_Brauchitsch"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A Luftwaffe aircraft was shot down by the British for the first time. A Dornier Do 18 flying boat was downed by a Blackburn Skua of 803 Naval Air Squadron north of the Fisher Bank.",
+      "links": [
+        {
+          "title": "Luftwaffe",
+          "url": "https://en.wikipedia.org/wiki/Luftwaffe"
+        },
+        {
+          "title": "Dornier Do 18",
+          "url": "https://en.wikipedia.org/wiki/Dornier_Do_18"
+        },
+        {
+          "title": "Blackburn Skua",
+          "url": "https://en.wikipedia.org/wiki/Blackburn_Skua"
+        },
+        {
+          "title": "803 Naval Air Squadron",
+          "url": "https://en.wikipedia.org/wiki/803_Naval_Air_Squadron"
+        },
+        {
+          "title": "Fisher Bank",
+          "url": "https://en.wikipedia.org/wiki/Fisher_Bank"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The French Communist Party and all of its affiliates were banned. The French government took the action in response to the Soviet Union's invasion of Poland and pact with Germany.",
+      "links": [
+        {
+          "title": "French Communist Party",
+          "url": "https://en.wikipedia.org/wiki/French_Communist_Party"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Ricky Tomlinson, actor and activist, in Bispham, Blackpool, England",
+      "links": [
+        {
+          "title": "Ricky Tomlinson",
+          "url": "https://en.wikipedia.org/wiki/Ricky_Tomlinson"
+        },
+        {
+          "title": "Bispham, Blackpool",
+          "url": "https://en.wikipedia.org/wiki/Bispham,_Blackpool"
+        }
+      ]
+    }
+  ]
+}

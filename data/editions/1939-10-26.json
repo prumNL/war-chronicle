@@ -1,0 +1,48 @@
+{
+  "date": "1939-10-26",
+  "number": 56,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Joodse mannen tussen de 14 en 60 jaar in nazi-bezet Polen werden gedwongen dwangarbeid…",
+      "location": "",
+      "body": [
+        "Joodse mannen tussen de 14 en 60 jaar in nazi-bezet Polen werden gedwongen dwangarbeid uit te voeren."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Jewish males between the ages of 14 and 60 in Nazi-occupied Poland were forced to perform forced labor.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        }
+      ]
+    },
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "Hans Frank werd gouverneur-generaal van de algemene regering",
+      "location": "",
+      "body": [
+        "Hans Frank werd gouverneur-generaal van de algemene regering."
+      ],
+      "context": "Hans Michael Frank was een Duitse nazi politicus, advocaat en veroordeelde oorlogsmisdadiger die diende als hoofd van de algemene regering, een entiteit die door Duitsland werd opgericht op een deel van het door Duitsland bezette Poolse land tijdens de Tweede Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hans Frank became the Governor-General of the General Government.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Hans Frank (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Hans_Frank"
+        }
+      ]
+    }
+  ]
+}

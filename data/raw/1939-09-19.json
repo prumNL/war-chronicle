@@ -1,0 +1,68 @@
+{
+  "date": "1939-09-19",
+  "edition_number": 19,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:09+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Wilno ended with the Soviet capture of the city.",
+      "links": [
+        {
+          "title": "Battle of Wilno (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wilno_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battles of the Bzura and Kępa Oksywska ended in German victories.",
+      "links": [
+        {
+          "title": "Battle of the Bzura",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bzura"
+        },
+        {
+          "title": "Battle of Kępa Oksywska",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_K%C4%99pa_Oksywska"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Red Army joined the Battle of Lwów.",
+      "links": [
+        {
+          "title": "Battle of Lwów (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Lw%C3%B3w_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Wólka Węglowa was fought, resulting in Polish tactical victory.",
+      "links": [
+        {
+          "title": "Battle of Wólka Węglowa",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_W%C3%B3lka_W%C4%99glowa"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler entered the former Free City of Danzig and gave a speech denouncing the Polish government and warning England that Germany would never capitulate even if the war lasted years.",
+      "links": [
+        {
+          "title": "Free City of Danzig",
+          "url": "https://en.wikipedia.org/wiki/Free_City_of_Danzig"
+        }
+      ]
+    }
+  ]
+}

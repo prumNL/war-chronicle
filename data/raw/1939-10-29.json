@@ -1,0 +1,80 @@
+{
+  "date": "1939-10-29",
+  "edition_number": 59,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:40:06+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Federal elections were held in Switzerland, won by the Free Democratic Party.",
+      "links": [
+        {
+          "title": "1939 Swiss federal election",
+          "url": "https://en.wikipedia.org/wiki/1939_Swiss_federal_election"
+        },
+        {
+          "title": "Free Democratic Party of Switzerland",
+          "url": "https://en.wikipedia.org/wiki/Free_Democratic_Party_of_Switzerland"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Soviet troops entered Latvia.",
+      "links": [
+        {
+          "title": "Latvia",
+          "url": "https://en.wikipedia.org/wiki/Latvia"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The new Italian city of Pomezia was inaugurated.",
+      "links": [
+        {
+          "title": "Pomezia",
+          "url": "https://en.wikipedia.org/wiki/Pomezia"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Malay Roy Choudhury, poet and novelist, in Patna, Bihar, British India (d. 2023).",
+      "links": [
+        {
+          "title": "Malay Roy Choudhury",
+          "url": "https://en.wikipedia.org/wiki/Malay_Roy_Choudhury"
+        },
+        {
+          "title": "Patna district",
+          "url": "https://en.wikipedia.org/wiki/Patna_district"
+        },
+        {
+          "title": "Bihar",
+          "url": "https://en.wikipedia.org/wiki/Bihar"
+        },
+        {
+          "title": "British Raj",
+          "url": "https://en.wikipedia.org/wiki/British_Raj"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Dwight B. Waldo, 75, American educator and historian.",
+      "links": [
+        {
+          "title": "Dwight B. Waldo",
+          "url": "https://en.wikipedia.org/wiki/Dwight_B._Waldo"
+        }
+      ]
+    }
+  ]
+}

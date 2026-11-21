@@ -1,0 +1,86 @@
+{
+  "date": "1939-10-28",
+  "edition_number": 58,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:40:00+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "On Czech Independence Day marking the 21st anniversary of the founding of Czechoslovakia, thousands of people, mostly students, protested at various locations throughout the region making up the former country. The Nazis retaliated by closing universities, executing student leaders and making many arrests.",
+      "links": [
+        {
+          "title": "Czechoslovakia",
+          "url": "https://en.wikipedia.org/wiki/Czechoslovakia"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Heinrich Himmler issued a secret directive to the SS and police encouraging them to procreate with women of \"good blood\", even outside of marriage, \"to regenerate life for Germany\". The directive explained that the SS would support all mothers of children of good blood regardless of legitimacy, so no father would need to be concerned about creating a burden for them.",
+      "links": [
+        {
+          "title": "Heinrich Himmler",
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Himmler"
+        },
+        {
+          "title": "Schutzstaffel",
+          "url": "https://en.wikipedia.org/wiki/Schutzstaffel"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The City of Flint left Murmansk under control of the German prize crew, intending to go to Germany.",
+      "links": [
+        {
+          "title": "SS City of Flint (1919)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The 1939 Nebraska vs. Kansas State football game was the first college football homecoming game ever televised. Nebraska won 25–9.",
+      "links": [
+        {
+          "title": "1939 Nebraska vs. Kansas State football game",
+          "url": "https://en.wikipedia.org/wiki/1939_Nebraska_vs._Kansas_State_football_game"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Jane Alexander, actress, in Boston, Massachusetts.",
+      "links": [
+        {
+          "title": "Jane Alexander",
+          "url": "https://en.wikipedia.org/wiki/Jane_Alexander"
+        },
+        {
+          "title": "Boston",
+          "url": "https://en.wikipedia.org/wiki/Boston"
+        },
+        {
+          "title": "Massachusetts",
+          "url": "https://en.wikipedia.org/wiki/Massachusetts"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Alice Brady, American actress.",
+      "links": [
+        {
+          "title": "Alice Brady",
+          "url": "https://en.wikipedia.org/wiki/Alice_Brady"
+        }
+      ]
+    }
+  ]
+}

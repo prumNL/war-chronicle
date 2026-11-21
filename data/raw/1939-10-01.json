@@ -1,0 +1,76 @@
+{
+  "date": "1939-10-01",
+  "edition_number": 31,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:10+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Wytyczno was fought, resulting in Soviet victory.",
+      "links": [
+        {
+          "title": "Battle of Wytyczno",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wytyczno"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A royal proclamation ordered all British men between the ages of 20 and 22 to report for army registration on October 21.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "First Lord of the Admiralty Winston Churchill gave a radio address from London reviewing the first month of the war. During this broadcast he famously called Russia \"a riddle wrapped in a mystery inside an enigma.\"",
+      "links": [
+        {
+          "title": "List of the First Lords of the Admiralty",
+          "url": "https://en.wikipedia.org/wiki/List_of_the_First_Lords_of_the_Admiralty"
+        },
+        {
+          "title": "Winston Churchill",
+          "url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Chinese National Revolutionary Army at Changsha begins a counteroffensive that targets the Japanese army's overextended lines of communication.",
+      "links": [
+        {
+          "title": "National Revolutionary Army",
+          "url": "https://en.wikipedia.org/wiki/National_Revolutionary_Army"
+        },
+        {
+          "title": "Japanese Imperial Army",
+          "url": "https://en.wikipedia.org/wiki/Japanese_Imperial_Army"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Latvian representatives negotiate with Soviet leaders Stalin and Molotov, who threaten forced occupation if they do not get military base rights in Latvia.",
+      "links": []
+    },
+    {
+      "kind": "born",
+      "text": "Born: George Archer, golfer, in San Francisco, California (d. 2005)",
+      "links": [
+        {
+          "title": "George Archer",
+          "url": "https://en.wikipedia.org/wiki/George_Archer"
+        },
+        {
+          "title": "California",
+          "url": "https://en.wikipedia.org/wiki/California"
+        }
+      ]
+    }
+  ]
+}

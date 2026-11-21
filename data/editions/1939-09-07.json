@@ -1,0 +1,75 @@
+{
+  "date": "1939-09-07",
+  "number": 7,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "Saar Offensive: Het Franse leger begon een grondoperatie in Saarland tegen lichte Duitse…",
+      "location": "",
+      "body": [
+        "Saar Offensive: Het Franse leger begon een grondoperatie in Saarland tegen lichte Duitse verdediging."
+      ],
+      "context": "Het Saaroffensief was de Franse invasie van Saarland, Duitsland, in de eerste fasen van de Tweede Wereldoorlog, van 7 september tot 16 oktober 1939, als reactie op de Duitse invasie van Polen op 1 september 1939. De oorspronkelijke plannen riepen op tot 40 divisies, een gepantserde divisie, drie gemechaniseerde divisies, 78 artillerieregimenten en 40 tank bataljons om Polen te helpen, die toen onder invasie was, door het verwaarloosde westelijke front van Duitsland aan te vallen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Saar Offensive: The French Army began a ground operation in the Saarland against light German defenses.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Saar Offensive (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Saar_Offensive"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De Slag bij Westerpette eindigde met de overgave van het Poolse garnizoen",
+      "location": "",
+      "body": [
+        "De Slag bij Westerpette eindigde met de overgave van het Poolse garnizoen."
+      ],
+      "context": "De Slag bij Westerplatte was de eerste slag van de Duitse invasie van Polen, waarmee de Tweede Wereldoorlog in Europa begon. Het gebeurde op het schiereiland Westerplatte in de haven van de Vrije Stad Danzig.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Westerplatte ended with the surrender of the Polish garrison.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Westerplatte (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Westerplatte"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "Marshal Edward Rydz-Śmigły verplaatste het Poolse leger hoofdkwartier van Warschau…",
+      "location": "",
+      "body": [
+        "Marshal Edward Rydz-Śmigły verplaatste het Poolse leger hoofdkwartier van Warschau naar Brest-Litovsk."
+      ],
+      "context": "Marshal Edward Śmigły-Rydz was een Poolse politicus, staatsman, maarschalk van Polen en opperbevelhebber van de Poolse strijdkrachten, en een schilder en dichter.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Marshal Edward Rydz-Śmigły moved the Polish Army headquarters from Warsaw to Brest-Litovsk.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Edward Śmigły-Rydz (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Edward_Rydz-%C5%9Amig%C5%82y"
+        }
+      ]
+    }
+  ]
+}

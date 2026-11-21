@@ -1,0 +1,75 @@
+{
+  "date": "1939-09-30",
+  "number": 30,
+  "articles": [
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "De Poolse regering werd opgericht in Parijs",
+      "location": "",
+      "body": [
+        "De Poolse regering werd opgericht in Parijs. Władysław Raczkiewicz en Władysław Sikorski werden respectievelijk president en premier."
+      ],
+      "context": "De regering van de Republiek Polen in ballingschap werd gevormd in de nasleep van de invasie in september 1939 en de daaropvolgende bezetting van Polen door nazi-Duitsland, de Sovjet-Unie en de Slowaakse Republiek, die een einde maakte aan de Tweede Poolse Republiek.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Polish government-in-exile was established in Paris. Władysław Raczkiewicz and Władysław Sikorski became president and prime minister, respectively.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Polish government-in-exile (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Polish_government-in-exile"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler heeft richtlijn nr. 5, partitie van Polen uitgebracht",
+      "location": "",
+      "body": [
+        "Hitler heeft richtlijn nr. 5, partitie van Polen uitgebracht."
+      ],
+      "context": "Hieronder volgt een lijst van de Führer-richtlijnen en Führer-beschikkingen van Adolf Hitler in de loop van de Tweede Wereldoorlog:",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler issued Directive No. 5, Partition of Poland.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: List of Adolf Hitler's directives (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "De slag bij Parczew, Jabłoń en Milanów eindigde in een tactische Poolse overwinning",
+      "location": "",
+      "body": [
+        "De slag bij Parczew, Jabłoń en Milanów eindigde in een tactische Poolse overwinning."
+      ],
+      "context": "De Slag bij Parczew, Jabłoń en Milanów vormden een van de belangrijkste gevechten tussen het Poolse leger en het Rode Leger tijdens de Sovjet invasie van Polen. Ze vonden plaats op 29 september 30 van 1939 aan het begin van de Tweede Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battles of Parczew, Jabłoń and Milanów ended in a tactical Polish victory.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battles of Parczew, Jabłoń and Milanów (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battles_of_Parczew,_Jab%C5%82o%C5%84_and_Milan%C3%B3w"
+        }
+      ]
+    }
+  ]
+}

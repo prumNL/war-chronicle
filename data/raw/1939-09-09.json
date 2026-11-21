@@ -1,0 +1,120 @@
+{
+  "date": "1939-09-09",
+  "edition_number": 9,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:25+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The German Army occupied Łódź.",
+      "links": [
+        {
+          "title": "Łódź",
+          "url": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battles of the Bzura and Hel began.",
+      "links": [
+        {
+          "title": "Battle of the Bzura",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bzura"
+        },
+        {
+          "title": "Battle of Hel",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Hel"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Canadian Parliament approved the William Lyon Mackenzie King government's decision to declare war on Germany.",
+      "links": [
+        {
+          "title": "William Lyon Mackenzie King",
+          "url": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler issued Directive No. 3, Transfer of Forces from Poland to the West.",
+      "links": [
+        {
+          "title": "List of Adolf Hitler's directives",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Glenn Miller and Ray Eberle version of \"Over the Rainbow\" topped the American pop charts as compiled by Your Hit Parade.",
+      "links": [
+        {
+          "title": "Glenn Miller",
+          "url": "https://en.wikipedia.org/wiki/Glenn_Miller"
+        },
+        {
+          "title": "Ray Eberle",
+          "url": "https://en.wikipedia.org/wiki/Ray_Eberle"
+        },
+        {
+          "title": "Over the Rainbow",
+          "url": "https://en.wikipedia.org/wiki/Over_the_Rainbow"
+        },
+        {
+          "title": "Your Hit Parade",
+          "url": "https://en.wikipedia.org/wiki/Your_Hit_Parade"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Patricia Donnelly of Michigan was crowned Miss America 1939.",
+      "links": [
+        {
+          "title": "Patricia Donnelly",
+          "url": "https://en.wikipedia.org/wiki/Patricia_Donnelly"
+        },
+        {
+          "title": "Miss Michigan",
+          "url": "https://en.wikipedia.org/wiki/Miss_Michigan"
+        },
+        {
+          "title": "Miss America 1939",
+          "url": "https://en.wikipedia.org/wiki/Miss_America_1939"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Ron McDole, American football player, in Chester, Ohio Reuven Rivlin, Israeli politician, 10th President of Israel Harris Rosen, American businessman, investor and philanthropist (d. 2024)",
+      "links": [
+        {
+          "title": "Ron McDole",
+          "url": "https://en.wikipedia.org/wiki/Ron_McDole"
+        },
+        {
+          "title": "Chester, Ohio",
+          "url": "https://en.wikipedia.org/wiki/Chester,_Ohio"
+        },
+        {
+          "title": "Reuven Rivlin",
+          "url": "https://en.wikipedia.org/wiki/Reuven_Rivlin"
+        },
+        {
+          "title": "Harris Rosen",
+          "url": "https://en.wikipedia.org/wiki/Harris_Rosen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "date": "1939-09-14",
+  "edition_number": 14,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:45+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Brześć Litewski, Jaworów and Kobryń began.",
+      "links": [
+        {
+          "title": "Battle of Brześć Litewski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Brze%C5%9B%C4%87_Litewski"
+        },
+        {
+          "title": "Battle of Jaworów",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Jawor%C3%B3w"
+        },
+        {
+          "title": "Battle of Kobryń",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kobry%C5%84"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Gdynia ended with the German capture of the city.",
+      "links": [
+        {
+          "title": "Battle of Gdynia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Gdynia"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Przemyśl ended with the Polish surrender of the city.",
+      "links": [
+        {
+          "title": "Battle of Przemyśl (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Przemy%C5%9Bl_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German submarine U-39 attacked the British aircraft carrier HMS Ark Royal off Rockall Bank, but the torpedoes fell short of their target. Three British destroyers in the vicinity hunted down U-39 and disabled it with depth charges, rescuing all the crew. It was the first U-boat to be sunk in World War II.",
+      "links": [
+        {
+          "title": "German submarine U-39 (1938)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-39_(1938)"
+        },
+        {
+          "title": "HMS Ark Royal (91)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Ark_Royal_(91)"
+        },
+        {
+          "title": "Rockall",
+          "url": "https://en.wikipedia.org/wiki/Rockall"
+        }
+      ]
+    }
+  ]
+}

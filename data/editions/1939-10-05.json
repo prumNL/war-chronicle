@@ -1,0 +1,75 @@
+{
+  "date": "1939-10-05",
+  "number": 35,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "De Slag bij Kock, de laatste slag bij de invasie van Polen",
+      "location": "",
+      "body": [
+        "De Slag bij Kock, de laatste slag bij de invasie van Polen, eindigde in een Poolse tactische overwinning, maar een Duitse strategische overwinning."
+      ],
+      "context": "De Slag bij Kock was de laatste slag bij de invasie van Polen aan het begin van de Tweede Wereldoorlog in Europa. Het werd gehouden van 2 tot 5 oktober 1939, nabij de stad Kock in Polen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Kock, the final battle in the invasion of Poland, ended in a Polish tactical victory but a German strategic victory.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Battle of Kock (1939) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kock_(1939)"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Hitler vloog naar Warschau en besprak een overwinningsparade in de gevallen Poolse…",
+      "location": "",
+      "body": [
+        "Hitler vloog naar Warschau en besprak een overwinningsparade in de gevallen Poolse hoofdstad."
+      ],
+      "context": "Warschau, officieel de hoofdstad van Warschau, is de hoofdstad van Polen. De metropool ligt aan de rivier Vistula in Oost-Polen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Hitler flew to Warsaw and reviewed a victory parade in the fallen Polish capital.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Warsaw (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Warsaw"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Het verdrag inzake wederzijdse bijstand van Letland werd ondertekend en voorziet…",
+      "location": "",
+      "body": [
+        "Het verdrag inzake wederzijdse bijstand van Letland werd ondertekend en voorziet de Russen van marine- en vliegbases op Lets grondgebied."
+      ],
+      "context": "Het verdrag inzake wederzijdse bijstand tussen Letland en de Sovjet-Unie werd op 5 oktober 1939 in Moskou ondertekend. Het verdrag verplicht beide partijen om elkaars soevereiniteit en onafhankelijkheid te respecteren, terwijl het in de praktijk de Sovjetregering toestaat om militaire bases te vestigen in Letland, wat de Sovjet invasie van het land in juni 1940 vergemakkelijkte.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Soviet–Latvian Mutual Assistance Treaty was signed, providing the Russians with naval and air bases in Latvian territory.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Soviet–Latvian Mutual Assistance Treaty (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Latvian_Mutual_Assistance_Treaty"
+        }
+      ]
+    }
+  ]
+}

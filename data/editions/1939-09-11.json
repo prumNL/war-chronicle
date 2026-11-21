@@ -1,0 +1,52 @@
+{
+  "date": "1939-09-11",
+  "number": 11,
+  "articles": [
+    {
+      "section": "Geallieerden",
+      "headline": "De Slag bij Jarosław eindigde met een succesvolle Poolse vertragingsactie",
+      "location": "",
+      "body": [
+        "De Slag bij Jarosław eindigde met een succesvolle Poolse vertragingsactie."
+      ],
+      "context": "De Slag bij Jarosław vond plaats tussen 10 en 11 september 1939 in de stad Jarosław aan de San River. Tijdens de slag hielden de Poolse troepen van generaal Stanisław Maczek de rivierovergangen in de stad twee dagen lang tegen de nazi-Duitse Wehrmacht, die genoeg tijd was voor de Poolse 10e gemotoriseerde cavaleriebrigade om de rivier over te steken en zich verder naar het oosten terug te trekken.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Jarosław ended with a successful Polish delaying action.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Jarosław (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Jaros%C5%82aw"
+        }
+      ]
+    },
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "Saudi-Arabië heeft de diplomatieke betrekkingen met Duitsland verbroken",
+      "location": "",
+      "body": [
+        "Saudi-Arabië heeft de diplomatieke betrekkingen met Duitsland verbroken."
+      ],
+      "context": "Saudi-Arabië, officieel het Koninkrijk Saoedi-Arabië (KSA), is een land in West-Azië dat het grootste deel van het Arabische schiereiland bezet. Het gebied beslaat een oppervlakte van ongeveer 2.149.690 km2 en is het op vijf na grootste land van Azië en de op één na grootste ter wereld.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Saudi Arabia broke off diplomatic relations with Germany.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Saudi Arabia (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+        }
+      ]
+    }
+  ]
+}

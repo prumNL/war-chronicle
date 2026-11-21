@@ -1,0 +1,74 @@
+{
+  "date": "1939-09-27",
+  "edition_number": 27,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:54+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Władypol was fought, resulting in Soviet victory.",
+      "links": [
+        {
+          "title": "Battle of Władypol",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_W%C5%82adypol"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The first Polish resistance movement, the Service for Poland's Victory, was created.",
+      "links": [
+        {
+          "title": "Service for Poland's Victory",
+          "url": "https://en.wikipedia.org/wiki/Service_for_Poland%27s_Victory"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Chancellor of the Exchequer Sir John Simon introduced an emergency war budget raising income taxes, inheritance taxes, profits taxes and duties on alcohol, sugar and tobacco. Even with the new tax revenue Britain still faced a deficit of £938 million.",
+      "links": [
+        {
+          "title": "Chancellor of the Exchequer",
+          "url": "https://en.wikipedia.org/wiki/Chancellor_of_the_Exchequer"
+        },
+        {
+          "title": "John Simon, 1st Viscount Simon",
+          "url": "https://en.wikipedia.org/wiki/John_Simon,_1st_Viscount_Simon"
+        },
+        {
+          "title": "Income tax",
+          "url": "https://en.wikipedia.org/wiki/Income_tax"
+        },
+        {
+          "title": "Inheritance tax",
+          "url": "https://en.wikipedia.org/wiki/Inheritance_tax"
+        },
+        {
+          "title": "Duty (economics)",
+          "url": "https://en.wikipedia.org/wiki/Duty_(economics)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Reich Security Main Office was created under the command of Heinrich Himmler.",
+      "links": [
+        {
+          "title": "Reich Security Main Office",
+          "url": "https://en.wikipedia.org/wiki/Reich_Security_Main_Office"
+        },
+        {
+          "title": "Heinrich Himmler",
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Himmler"
+        }
+      ]
+    }
+  ]
+}

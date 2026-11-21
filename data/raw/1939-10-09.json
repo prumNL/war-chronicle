@@ -1,0 +1,70 @@
+{
+  "date": "1939-10-09",
+  "edition_number": 39,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:41+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Hitler issued Directive No. 6 ordering preparations for an offensive in the west with an initial date set for November 12. Protests from his service chiefs and very cold weather would cause the date of the attack to be postponed repeatedly.",
+      "links": [
+        {
+          "title": "List of Adolf Hitler's directives",
+          "url": "https://en.wikipedia.org/wiki/List_of_Adolf_Hitler%27s_directives"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Off Newfoundland, the American freighter City of Flint was intercepted en route from New York to Liverpool by the German cruiser Deutschland. The Germans declared the freighter's cargo \"contraband\" and took the ship over with a prize crew. While at sea the Germans painted the fake name Alf on the freighter and hung Danish flags over the sides.",
+      "links": [
+        {
+          "title": "Newfoundland",
+          "url": "https://en.wikipedia.org/wiki/Newfoundland"
+        },
+        {
+          "title": "SS City of Flint (1919)",
+          "url": "https://en.wikipedia.org/wiki/SS_City_of_Flint_(1919)"
+        },
+        {
+          "title": "German cruiser Deutschland",
+          "url": "https://en.wikipedia.org/wiki/German_cruiser_Deutschland"
+        },
+        {
+          "title": "Prize crew",
+          "url": "https://en.wikipedia.org/wiki/Prize_crew"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: John Pilger, journalist, in Sydney, Australia (d. 2023).",
+      "links": [
+        {
+          "title": "John Pilger",
+          "url": "https://en.wikipedia.org/wiki/John_Pilger"
+        },
+        {
+          "title": "Sydney",
+          "url": "https://en.wikipedia.org/wiki/Sydney"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Giulio Gavotti, 56, Italian pilot.",
+      "links": [
+        {
+          "title": "Giulio Gavotti",
+          "url": "https://en.wikipedia.org/wiki/Giulio_Gavotti"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "date": "1939-10-21",
+  "edition_number": 51,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:34+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Germany and Italy made the South Tyrol Option Agreement. Ethnic Germans in the region would be allowed to emigrate to the Reich or remain and be Italianized.",
+      "links": [
+        {
+          "title": "South Tyrol Option Agreement",
+          "url": "https://en.wikipedia.org/wiki/South_Tyrol_Option_Agreement"
+        },
+        {
+          "title": "Italianization of South Tyrol",
+          "url": "https://en.wikipedia.org/wiki/Italianization_of_South_Tyrol"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "First meeting of the United States Advisory Committee on Uranium under Lyman James Briggs, authorised by US President Roosevelt to oversee neutron experiments.",
+      "links": [
+        {
+          "title": "S-1 Executive Committee",
+          "url": "https://en.wikipedia.org/wiki/S-1_Executive_Committee"
+        },
+        {
+          "title": "Lyman James Briggs",
+          "url": "https://en.wikipedia.org/wiki/Lyman_James_Briggs"
+        },
+        {
+          "title": "Neutron",
+          "url": "https://en.wikipedia.org/wiki/Neutron"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Mass executions of Poles in Greater Poland continued the German police and Einsatzgruppe VI in Gostyń, Krobia, Leszno, Osieczna, Poniec, and Włoszakowice.",
+      "links": [
+        {
+          "title": "Gostyń",
+          "url": "https://en.wikipedia.org/wiki/Gosty%C5%84"
+        },
+        {
+          "title": "Krobia",
+          "url": "https://en.wikipedia.org/wiki/Krobia"
+        },
+        {
+          "title": "Leszno",
+          "url": "https://en.wikipedia.org/wiki/Leszno"
+        },
+        {
+          "title": "Osieczna",
+          "url": "https://en.wikipedia.org/wiki/Osieczna"
+        },
+        {
+          "title": "Poniec",
+          "url": "https://en.wikipedia.org/wiki/Poniec"
+        },
+        {
+          "title": "Włoszakowice",
+          "url": "https://en.wikipedia.org/wiki/W%C5%82oszakowice"
+        }
+      ]
+    }
+  ]
+}

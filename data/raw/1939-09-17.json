@@ -1,0 +1,77 @@
+{
+  "date": "1939-09-17",
+  "edition_number": 17,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:59+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Soviet Union invaded Poland from the east.",
+      "links": []
+    },
+    {
+      "kind": "event",
+      "text": "Poland's leadership fled to Romania.",
+      "links": [
+        {
+          "title": "Romania",
+          "url": "https://en.wikipedia.org/wiki/Romania"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Brześć Litewski ended in German victory.",
+      "links": [
+        {
+          "title": "Battle of Brześć Litewski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Brze%C5%9B%C4%87_Litewski"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Changsha began in the Second Sino-Japanese War.",
+      "links": [
+        {
+          "title": "Battle of Changsha (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Changsha_(1939)"
+        },
+        {
+          "title": "Second Sino-Japanese War",
+          "url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British aircraft carrier HMS Courageous was sunk off the coast of Ireland by German submarine U-29.",
+      "links": [
+        {
+          "title": "HMS Courageous (50)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Courageous_(50)"
+        },
+        {
+          "title": "German submarine U-29 (1936)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-29_(1936)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Taisto Mäki becomes the first human to run 10,000m in under 30 minutes",
+      "links": [
+        {
+          "title": "Taisto Mäki",
+          "url": "https://en.wikipedia.org/wiki/Taisto_M%C3%A4ki"
+        }
+      ]
+    }
+  ]
+}

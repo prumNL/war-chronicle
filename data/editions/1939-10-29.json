@@ -1,0 +1,48 @@
+{
+  "date": "1939-10-29",
+  "number": 59,
+  "articles": [
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Sovjettroepen kwamen Letland binnen",
+      "location": "",
+      "body": [
+        "Sovjettroepen kwamen Letland binnen."
+      ],
+      "context": "Letland, officieel de Republiek Letland, is een land in het Oostzeegebied van Noord-Europa. Het is een van de drie Baltische staten, samen met Estland in het noorden en Litouwen in het zuiden.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Soviet troops entered Latvia.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Latvia (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Latvia"
+        }
+      ]
+    },
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "Dwight B. Waldo (75), Amerikaanse onderwijzer en historicus."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: Dwight B. Waldo, 75, American educator and historian.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        }
+      ]
+    }
+  ]
+}

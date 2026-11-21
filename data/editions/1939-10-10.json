@@ -1,0 +1,75 @@
+{
+  "date": "1939-10-10",
+  "number": 40,
+  "articles": [
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "Admiraal Erich Raeder drong er bij Hitler op aan Noorwegen binnen te vallen…",
+      "location": "",
+      "body": [
+        "Admiraal Erich Raeder drong er bij Hitler op aan Noorwegen binnen te vallen om het belangrijke Duitse ijzerertsverkeer te beschermen."
+      ],
+      "context": "Erich Johann Albert Raeder was een Duitse admiraal die een belangrijke rol speelde in de marinegeschiedenis van de Tweede Wereldoorlog en werd veroordeeld voor oorlogsmisdaden na de oorlog. In 1939 bereikte hij de hoogste rang van de marine, die van de grote admiraal.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Admiral Erich Raeder urged Hitler to invade Norway to protect Germany's vital iron ore traffic.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Erich Raeder (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Erich_Raeder"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Het verdrag inzake wederzijdse bijstand van de Sovjetunie werd ondertekend",
+      "location": "",
+      "body": [
+        "Het verdrag inzake wederzijdse bijstand van de Sovjetunie werd ondertekend."
+      ],
+      "context": "Het verdrag inzake wederzijdse bijstand tussen de Sovjet-Unie en Litouwen werd op 10 oktober 1939 ondertekend. Volgens de bepalingen van het Verdrag zou Litouwen ongeveer een vijfde van de regio Vilnius verwerven, met inbegrip van de historische hoofdstad Vilnius, en in ruil daarvoor zouden vijf militaire bases van de Sovjet-Unie met 20.000 troepen in Litouwen kunnen worden opgericht.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Soviet–Lithuanian Mutual Assistance Treaty was signed.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Soviet–Lithuanian Mutual Assistance Treaty (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Lithuanian_Mutual_Assistance_Treaty"
+        }
+      ]
+    },
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "De Franse premier Édouard Daladier gaf een radioadres dat Hitler's laatste…",
+      "location": "",
+      "body": [
+        "De Franse premier Édouard Daladier gaf een radioadres dat Hitler's laatste vredesvoorstellen afwees, en zei dat een schikking op dit moment \"veroveringen alleen door bedrog of geweld zou wijden en de voorbereiding op nieuwe niet zou verhinderen.\" Daladier zwoer dat wapens alleen zouden worden gelegd \"als we bepaalde waarborgen van veiligheid hebben die niet elke zes maanden in twijfel mogen worden getrokken.\""
+      ],
+      "context": "Édouard Daladier was een Frans radicaal-socialistisch (centraal-links) politicus.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "French Prime Minister Édouard Daladier gave a radio address rejecting Hitler's latest peace propositions, saying that a settlement at this time \"would only consecrate conquests by deceit or violence and would not prevent preparation for new ones.\" Daladier vowed that arms would only be laid down \"when we have certain guaranties of security which may not be put in doubt every six months.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Édouard Daladier (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/%C3%89douard_Daladier"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "date": "1939-10-01",
+  "number": 31,
+  "articles": [
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Letse vertegenwoordigers onderhandelen met de Sovjetleiders Stalin en Molotov",
+      "location": "",
+      "body": [
+        "Letse vertegenwoordigers onderhandelen met de Sovjetleiders Stalin en Molotov, die gedwongen bezetting bedreigen als ze geen militaire basisrechten krijgen in Letland."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Latvian representatives negotiate with Soviet leaders Stalin and Molotov, who threaten forced occupation if they do not get military base rights in Latvia.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "Een koninklijke proclamatie beval alle Britse mannen tussen de 20 en 22 jaar om zich…",
+      "location": "",
+      "body": [
+        "Een koninklijke proclamatie beval alle Britse mannen tussen de 20 en 22 jaar om zich te melden voor legerregistratie op 21 oktober."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "A royal proclamation ordered all British men between the ages of 20 and 22 to report for army registration on October 21.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "First Lord of the Admiralty Winston Churchill gaf een radioadres uit Londen…",
+      "location": "",
+      "body": [
+        "First Lord of the Admiralty Winston Churchill gaf een radioadres uit Londen over de eerste maand van de oorlog. Tijdens deze uitzending noemde hij Rusland \"een raadsel verpakt in een mysterie in een raadsel.\""
+      ],
+      "context": "Eerste Lord of the Admiralty, formeel het Office of the First Lord of the Admiralty, was de titel van het politieke hoofd van de marinedienst van 1628 tot 1964, toen de Admiraliteit, het Air Ministry, Ministerie van Defensie en Oorlog werden samengevoegd tot het ministerie van Defensie. De houder was senior adviseur van de regering voor alle marinezaken, verantwoordelijk voor de leiding en controle van de Admiraliteit, de Koninklijke Marine en de Royal Marines.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "First Lord of the Admiralty Winston Churchill gave a radio address from London reviewing the first month of the war. During this broadcast he famously called Russia \"a riddle wrapped in a mystery inside an enigma.\"",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: First Lord of the Admiralty (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/List_of_the_First_Lords_of_the_Admiralty"
+        }
+      ]
+    },
+    {
+      "section": "Pacific",
+      "headline": "Het Chinese Nationale Revolutionaire Leger in Changsha begint een tegenoffensief…",
+      "location": "",
+      "body": [
+        "Het Chinese Nationale Revolutionaire Leger in Changsha begint een tegenoffensief dat gericht is op de overbelaste communicatielijnen van het Japanse leger."
+      ],
+      "context": "Het Nationaal Revolutionair Leger was de militaire arm van de Kuomintang (KMT) van 1924 tot 1947.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Chinese National Revolutionary Army at Changsha begins a counteroffensive that targets the Japanese army's overextended lines of communication.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: National Revolutionary Army (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/National_Revolutionary_Army"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "De Slag bij Wytyczno werd gevochten, wat resulteerde in de overwinning van de Sovjet-Unie",
+      "location": "",
+      "body": [
+        "De Slag bij Wytyczno werd gevochten, wat resulteerde in de overwinning van de Sovjet-Unie."
+      ],
+      "context": "De slag bij Wytyczno vond plaats op 1 oktober 1939, vlakbij het dorp Wytyczno bij Włodawa in Polen. Het was een strijd tussen de Poolse strijdkrachten van het grensdefensiekorps van generaal Wilhelm Orlik-Rückemann en het Sovjet Rode Leger tijdens de invasie van Polen.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Wytyczno was fought, resulting in Soviet victory.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        },
+        {
+          "title": "Wikipedia: Battle of Wytyczno (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wytyczno"
+        }
+      ]
+    }
+  ]
+}

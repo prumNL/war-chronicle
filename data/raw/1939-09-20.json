@@ -1,0 +1,60 @@
+{
+  "date": "1939-09-20",
+  "edition_number": 20,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:15+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Army Kraków surrendered in the Battle of Tomaszów Lubelski.",
+      "links": [
+        {
+          "title": "Kraków Army",
+          "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w_Army"
+        },
+        {
+          "title": "Battle of Tomaszów Lubelski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tomasz%C3%B3w_Lubelski"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The German submarine U-27 was sunk by British destroyers west of Scotland.",
+      "links": [
+        {
+          "title": "German submarine U-27 (1936)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-27_(1936)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Joe Louis retained the world heavyweight boxing title with an 11th-round knockout of Bob Pastor at Briggs Stadium in Detroit.",
+      "links": [
+        {
+          "title": "Joe Louis",
+          "url": "https://en.wikipedia.org/wiki/Joe_Louis"
+        },
+        {
+          "title": "Bob Pastor",
+          "url": "https://en.wikipedia.org/wiki/Bob_Pastor"
+        },
+        {
+          "title": "Briggs Stadium",
+          "url": "https://en.wikipedia.org/wiki/Briggs_Stadium"
+        },
+        {
+          "title": "Detroit",
+          "url": "https://en.wikipedia.org/wiki/Detroit"
+        }
+      ]
+    }
+  ]
+}

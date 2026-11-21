@@ -1,0 +1,62 @@
+{
+  "date": "1939-10-05",
+  "edition_number": 35,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:38:24+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battle of Kock, the final battle in the invasion of Poland, ended in a Polish tactical victory but a German strategic victory.",
+      "links": [
+        {
+          "title": "Battle of Kock (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kock_(1939)"
+        },
+        {
+          "title": "Invasion of Poland",
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_Poland"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Hitler flew to Warsaw and reviewed a victory parade in the fallen Polish capital.",
+      "links": [
+        {
+          "title": "Warsaw",
+          "url": "https://en.wikipedia.org/wiki/Warsaw"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Soviet–Latvian Mutual Assistance Treaty was signed, providing the Russians with naval and air bases in Latvian territory.",
+      "links": [
+        {
+          "title": "Soviet–Latvian Mutual Assistance Treaty",
+          "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Latvian_Mutual_Assistance_Treaty"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Consuelo Ynares-Santiago, Associate Justice of the Supreme Court of the Philippines, in Binangonan, Rizal, Philippines.",
+      "links": [
+        {
+          "title": "Consuelo Ynares-Santiago",
+          "url": "https://en.wikipedia.org/wiki/Consuelo_Ynares-Santiago"
+        },
+        {
+          "title": "Binangonan, Rizal",
+          "url": "https://en.wikipedia.org/wiki/Binangonan,_Rizal"
+        }
+      ]
+    }
+  ]
+}

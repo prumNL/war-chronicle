@@ -1,0 +1,25 @@
+{
+  "date": "1939-10-17",
+  "number": 47,
+  "articles": [
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "Zwitserland heeft een decreet aangenomen waarin de rechtspositie van emigranten wordt…",
+      "location": "",
+      "body": [
+        "Zwitserland heeft een decreet aangenomen waarin de rechtspositie van emigranten wordt omschreven en hen wordt verboden activiteiten te ontplooien die politiek van aard zijn of in strijd zijn met de neutrale status van Zwitserland."
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Switzerland passed a decree defining the legal status of emigrants and forbidding them to engage in activities that were political in nature or in breach of Switzerland's neutral status.",
+      "sources": [
+        {
+          "title": "Wikipedia: October 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "1939-09-18",
+  "edition_number": 18,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:37:04+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Tomaszów Lubelski and Wilno began.",
+      "links": [
+        {
+          "title": "Battle of Tomaszów Lubelski",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tomasz%C3%B3w_Lubelski"
+        },
+        {
+          "title": "Battle of Wilno (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Wilno_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Kobryń ended inconclusively.",
+      "links": [
+        {
+          "title": "Battle of Kobryń",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Kobry%C5%84"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The city of Lublin fell to the Germans.",
+      "links": [
+        {
+          "title": "Lublin",
+          "url": "https://en.wikipedia.org/wiki/Lublin"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Polish submarine Orzeł escaped from internment at Tallinn and began a perilous 27-day voyage to Scotland. The crew's navigational charts had been confiscated by Estonian military authorities but someone from the British embassy might have secretly provided them with new charts. The Soviets angrily accused Estonia of helping the Orzeł to escape and threatened to enter Estonian territorial waters to search for the submarine.",
+      "links": [
+        {
+          "title": "ORP Orzeł (1938)",
+          "url": "https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1938)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "William Joyce began making English-language propaganda broadcasts over German radio to England. He would earn the nickname Lord Haw-Haw.",
+      "links": [
+        {
+          "title": "William Joyce",
+          "url": "https://en.wikipedia.org/wiki/William_Joyce"
+        },
+        {
+          "title": "Lord Haw-Haw",
+          "url": "https://en.wikipedia.org/wiki/Lord_Haw-Haw"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Jorge Sampaio, 18th President of Portugal, in Lisbon (d. 2021)",
+      "links": [
+        {
+          "title": "Jorge Sampaio",
+          "url": "https://en.wikipedia.org/wiki/Jorge_Sampaio"
+        },
+        {
+          "title": "Lisbon",
+          "url": "https://en.wikipedia.org/wiki/Lisbon"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Stanisław Ignacy Witkiewicz, 54, Polish writer, painter and philosopher (suicide)",
+      "links": [
+        {
+          "title": "Stanisław Ignacy Witkiewicz",
+          "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Ignacy_Witkiewicz"
+        }
+      ]
+    }
+  ]
+}

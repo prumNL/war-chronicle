@@ -1,0 +1,48 @@
+{
+  "date": "1939-09-11",
+  "edition_number": 11,
+  "source": {
+    "title": "Wikipedia: September 1939",
+    "url": "https://en.wikipedia.org/wiki/September_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803",
+    "revid": 1386842803,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:36:34+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Battles of Kałuszyn and Przemyśl began.",
+      "links": [
+        {
+          "title": "Battle of Kałuszyn",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Ka%C5%82uszyn"
+        },
+        {
+          "title": "Battle of Przemyśl (1939)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Przemy%C5%9Bl_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Battle of Jarosław ended with a successful Polish delaying action.",
+      "links": [
+        {
+          "title": "Battle of Jarosław",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Jaros%C5%82aw"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Saudi Arabia broke off diplomatic relations with Germany.",
+      "links": [
+        {
+          "title": "Saudi Arabia",
+          "url": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+        }
+      ]
+    }
+  ]
+}

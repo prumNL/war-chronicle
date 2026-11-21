@@ -1,0 +1,82 @@
+{
+  "date": "1939-10-25",
+  "edition_number": 55,
+  "source": {
+    "title": "Wikipedia: October 1939",
+    "url": "https://en.wikipedia.org/wiki/October_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=October_1939&oldid=1383923141",
+    "revid": 1383923141,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T19:39:52+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The administration of Włocławek in Nazi-occupied Poland ordered the city's Jews to wear a yellow badge on their clothes.",
+      "links": [
+        {
+          "title": "Włocławek",
+          "url": "https://en.wikipedia.org/wiki/W%C5%82oc%C5%82awek"
+        },
+        {
+          "title": "Yellow badge",
+          "url": "https://en.wikipedia.org/wiki/Yellow_badge"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Another German submarine was lost in the Strait of Dover when the U-16 ran aground on the Goodwin Sands trying to avoid a depth charge attack. U-boats were subsequently ordered to stop using the Strait of Dover as a deployment route.",
+      "links": [
+        {
+          "title": "German submarine U-16 (1936)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-16_(1936)"
+        },
+        {
+          "title": "Goodwin Sands",
+          "url": "https://en.wikipedia.org/wiki/Goodwin_Sands"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "A general election was held in the Canadian province of Quebec. The Quebec Liberal Party led by Adélard Godbout defeated the incumbent Union Nationale led by Maurice Duplessis.",
+      "links": [
+        {
+          "title": "1939 Quebec general election",
+          "url": "https://en.wikipedia.org/wiki/1939_Quebec_general_election"
+        },
+        {
+          "title": "Quebec",
+          "url": "https://en.wikipedia.org/wiki/Quebec"
+        },
+        {
+          "title": "Quebec Liberal Party",
+          "url": "https://en.wikipedia.org/wiki/Quebec_Liberal_Party"
+        },
+        {
+          "title": "Adélard Godbout",
+          "url": "https://en.wikipedia.org/wiki/Ad%C3%A9lard_Godbout"
+        },
+        {
+          "title": "Union Nationale (Quebec)",
+          "url": "https://en.wikipedia.org/wiki/Union_Nationale_(Quebec)"
+        },
+        {
+          "title": "Maurice Duplessis",
+          "url": "https://en.wikipedia.org/wiki/Maurice_Duplessis"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Prasannamoyee Devi, 83, Bengali poet and travel writer.",
+      "links": [
+        {
+          "title": "Prasannamoyee Devi",
+          "url": "https://en.wikipedia.org/wiki/Prasannamoyee_Devi"
+        }
+      ]
+    }
+  ]
+}

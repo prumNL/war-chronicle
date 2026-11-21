@@ -1,0 +1,75 @@
+{
+  "date": "1939-09-29",
+  "number": 29,
+  "articles": [
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "De slag bij Parczew, Jabłoń en Milanów tussen het Poolse leger en het Rode Leger begon",
+      "location": "",
+      "body": [
+        "De slag bij Parczew, Jabłoń en Milanów tussen het Poolse leger en het Rode Leger begon."
+      ],
+      "context": "De Slag bij Parczew, Jabłoń en Milanów vormden een van de belangrijkste gevechten tussen het Poolse leger en het Rode Leger tijdens de Sovjet invasie van Polen. Ze vonden plaats op 29 september 30 van 1939 aan het begin van de Tweede Wereldoorlog.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battles of Parczew, Jabłoń and Milanów between the Polish Army and the Red Army began.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battles of Parczew, Jabłoń and Milanów (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battles_of_Parczew,_Jab%C5%82o%C5%84_and_Milan%C3%B3w"
+        }
+      ]
+    },
+    {
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Slag bij Modlin eindigde toen Modlin Fortress capituleerde aan de Duitsers",
+      "location": "",
+      "body": [
+        "De Slag bij Modlin eindigde toen Modlin Fortress capituleerde aan de Duitsers."
+      ],
+      "context": "De Slag bij Modlin vond plaats tijdens de Duitse invasie van Polen in 1939 aan het begin van de Tweede Wereldoorlog. Modlin Fortress was aanvankelijk het hoofdkwartier van het Modlin leger tot zijn terugtocht naar het oosten.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Battle of Modlin ended when Modlin Fortress capitulated to the Germans.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Battle of Modlin (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Modlin"
+        }
+      ]
+    },
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Estland heeft een overeenkomst met de Sovjet-Unie ondertekend waardoor de Sovjets binnen…",
+      "location": "",
+      "body": [
+        "Estland heeft een overeenkomst met de Sovjet-Unie ondertekend waardoor de Sovjets binnen de grenzen van Estland marine- en vliegbasissen kunnen vestigen."
+      ],
+      "context": "Estland, officieel de Republiek Estland, is een land in de Baltische regio van Noord-Europa. Het grenst in het noorden aan de Finse Golf tegenover Finland, in het westen aan de Oostzee tegenover Zweden, in het zuiden aan Letland en in het oosten aan Rusland.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Estonia signed an agreement with the Soviet Union allowing the Soviets to establish naval and air bases within Estonia's borders.",
+      "sources": [
+        {
+          "title": "Wikipedia: September 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=September_1939&oldid=1386842803"
+        },
+        {
+          "title": "Wikipedia: Estonia (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Estonia"
+        }
+      ]
+    }
+  ]
+}
