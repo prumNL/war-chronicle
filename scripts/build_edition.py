@@ -12,12 +12,14 @@ en bronvermelding. Elk bericht draagt het label 'Automatisch vertaald' en toont 
 Engelse originele regel, zodat lezers kunnen controleren.
 """
 import datetime
+import html as htmllib
 import json
 import os
 import pathlib
 import re
 import sys
 import time
+import urllib.parse
 
 import requests
 
@@ -101,22 +103,90 @@ class Translator:
             return text
 
 
+_SUM = {}
+
+
+def summary_json(slug):
+    if slug not in _SUM:
+        try:
+            r = requests.get("https://en.wikipedia.org/api/rest_v1/page/summary/" + slug, headers=UA, timeout=30)
+            _SUM[slug] = r.json() if r.status_code == 200 else None
+        except Exception:
+            _SUM[slug] = None
+    return _SUM[slug]
+
+
 def summary(url):
     """Eerste twee zinnen van het Wikipedia-artikel achter een link (als historische context)."""
     slug = url.split("/wiki/", 1)[1]
     if slug in GENERIC_CONTEXT or re.fullmatch(r"\d{4}", slug):
         return None
+    j = summary_json(slug)
+    if not j or j.get("type") != "standard":
+        return None
+    ext = j.get("extract", "")
+    if len(ext) < 40 or "==" in ext:
+        return None
+    sentences = re.split(r'(?<=[.!?])\s+(?=[A-Z])', ext)
+    return " ".join(sentences[:2]), j.get("title", slug.replace("_", " "))
+
+
+# ---- foto van de dag (Wikimedia Commons) ----------------------------------------------------
+BAD_FILE = re.compile(r"^(flag|coat|logo|icon|map|location|blank|symbol|seal|question|commons)", re.I)
+BAD_EXT = (".svg", ".ogg", ".oga", ".webm", ".ogv", ".pdf", ".djvu", ".mp3", ".wav")
+OK_LICENSE = re.compile(r"^(CC[ -]BY|CC0|Public domain|PD)", re.I)
+
+
+def plain(h):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", htmllib.unescape(h or ""))).strip()
+
+
+def photo_for(url, translate):
+    """Vrije foto bij het Wikipedia-artikel achter url, met bron en licentie. Alleen Commons-bestanden."""
+    slug = url.split("/wiki/", 1)[1]
+    if slug in GENERIC_CONTEXT or re.fullmatch(r"\d{4}", slug):
+        return None
+    j = summary_json(slug)
+    if not j or j.get("type") != "standard":
+        return None
+    src = (j.get("originalimage") or j.get("thumbnail") or {}).get("source", "")
+    m = re.search(r"/wikipedia/commons/(?:thumb/)?[0-9a-f]/[0-9a-f]{2}/([^/]+)", src)
+    if not m:
+        return None  # lokale (vaak niet-vrije) enwiki-uploads slaan we over
+    name = urllib.parse.unquote(m.group(1))
+    if BAD_FILE.match(name) or name.lower().endswith(BAD_EXT):
+        return None
     try:
-        r = requests.get("https://en.wikipedia.org/api/rest_v1/page/summary/" + slug, headers=UA, timeout=30)
-        if r.status_code != 200:
-            return None
-        j = r.json()
-        if j.get("type") != "standard" or len(j.get("extract", "")) < 40 or "==" in j.get("extract", ""):
-            return None
-        sentences = re.split(r'(?<=[.!?])\s+(?=[A-Z])', j["extract"])
-        return " ".join(sentences[:2]), j.get("title", slug.replace("_", " "))
+        r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
+            "action": "query", "titles": "File:" + name, "prop": "imageinfo", "iiprop": "url|extmetadata",
+            "iiurlwidth": 900, "format": "json", "formatversion": 2})
+        info = (r.json()["query"]["pages"][0].get("imageinfo") or [None])[0]
     except Exception:
         return None
+    if not info or not info.get("thumburl"):
+        return None
+    md = {k: v.get("value", "") for k, v in (info.get("extmetadata") or {}).items()}
+    lic = md.get("LicenseShortName", "")
+    if md.get("NonFree", "").lower() == "true" or not OK_LICENSE.match(lic):
+        return None
+    desc = plain(md.get("ImageDescription"))
+    first = re.split(r'(?<=[.!?])\s+(?=[A-Z])', desc)[0][:220] if desc else ""
+    return {"url": info["thumburl"], "page": info.get("descriptionurl", ""), "about": j.get("title", slug),
+            "credit": plain(md.get("Artist")) or plain(md.get("Credit")), "license": lic,
+            "license_url": md.get("LicenseUrl", ""), "date": plain(md.get("DateTimeOriginal")),
+            "caption": translate(first) if first else "", "description_original": desc[:400]}
+
+
+def find_photo(urls, translate):
+    seen = set()
+    for u in urls:
+        if u in seen or "/wiki/" not in u:
+            continue
+        seen.add(u)
+        p = photo_for(u, translate)
+        if p:
+            return p
+    return None
 
 
 # ---- ruwe data ----------------------------------------------------------------------------
@@ -172,7 +242,9 @@ def build(raw, translate):
     chosen.sort(key=lambda t: (-t[0], t[1]))  # sterkste bericht eerst = voorpagina
 
     articles = []
+    candidates = []
     for sc, _, e in chosen:
+        candidates += [l["url"] for l in e["links"]]
         body_nl = translate(e["text"])
         context, sources = "", [day_source]
         for link in e["links"]:
@@ -199,7 +271,8 @@ def build(raw, translate):
                          "translated": getattr(translate, "ok", False),
                          "original": "; ".join(e["text"] for e in deaths[:MAX_DEATHS]),
                          "sources": [day_source]})
-    return {"date": raw["date"], "number": raw["edition_number"], "articles": articles}
+    return {"date": raw["date"], "number": raw["edition_number"], "articles": articles,
+            "photo": find_photo(candidates, translate) if articles else None}
 
 
 def update_index(ed):
@@ -222,10 +295,41 @@ def parse_dates(argv):
     return [start + datetime.timedelta(days=i) for i in range((end - start).days + 1)]
 
 
+def add_photo_to_existing(d, translate, force):
+    path = DATA / "editions" / f"{d.isoformat()}.json"
+    if not path.exists():
+        return False
+    ed = json.loads(path.read_text(encoding="utf-8"))
+    if "photo" in ed and not force:
+        return False
+    raw_path = DATA / "raw" / f"{d.isoformat()}.json"
+    links = {}
+    if raw_path.exists():
+        for e in json.loads(raw_path.read_text(encoding="utf-8"))["events"]:
+            links[e["text"]] = [l["url"] for l in e["links"]]
+    urls = []
+    for a in ed["articles"]:
+        urls += links.get(a.get("original", ""), [])
+        urls += [x["url"] for x in a.get("sources", []) if x["url"].startswith("https://en.wikipedia.org/wiki/")]
+    ed["photo"] = find_photo(urls, translate)
+    path.write_text(json.dumps(ed, ensure_ascii=False, indent=2), encoding="utf-8")
+    return ed["photo"] is not None
+
+
 def main():
     force = os.environ.get("FORCE", "").lower() in ("1", "ja", "true")
     translate = None
     made = 0
+    if os.environ.get("PHOTOS", "").lower() in ("1", "ja", "true"):
+        translate = Translator()
+        found = 0
+        for d in parse_dates(sys.argv[1:]):
+            ok = add_photo_to_existing(d, translate, force)
+            found += ok
+            print(f"{d}: {'foto toegevoegd' if ok else 'geen (nieuwe) foto'}")
+            time.sleep(0.5)
+        print(f"Klaar: {found} foto's toegevoegd.")
+        return 0
     for d in parse_dates(sys.argv[1:]):
         if not (fd.WAR_START <= d <= fd.WAR_END):
             print(f"{d}: buiten 1 sep 1939 - 2 sep 1945, overgeslagen.")
