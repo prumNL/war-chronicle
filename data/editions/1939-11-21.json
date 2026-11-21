@@ -1,14 +1,71 @@
-{"date":"1939-11-21","number":82,"articles":[
-{"section":"Internationale ontwikkelingen","headline":"Torpedojager Gipsy vergaat voor de kust van Harwich","location":"Harwich, Engeland",
- "body":["Op 21 november 1939 liep de Britse torpedojager HMS Gipsy voor de Engelse oostkust bij Harwich op een mijn en zonk. Er vielen doden onder de bemanning.","Het schip werd getroffen door een magnetische mijn, een nieuw wapen dat tot ontploffing komt door het magnetisch veld van een voorbijvarend stalen schip. Ook koopvaardijschepen uit neutrale landen zijn de afgelopen weken het slachtoffer geworden."],
- "context":"Het is de periode van de 'Phoney War': aan het westfront wordt nauwelijks gevochten, maar op zee vallen wel degelijk slachtoffers. Enkele dagen later, op 23 november, werd bij Shoeburyness een niet-ontplofte magnetische mijn geborgen, waarmee de Britten tegenmaatregelen konden ontwikkelen.",
- "status":"feit","sources":[{"title":"Wikipedia: HMS Gipsy (H63)","url":"https://en.wikipedia.org/wiki/HMS_Gipsy_(H63)"},{"title":"Wikipedia: Magnetic mine","url":"https://en.wikipedia.org/wiki/Magnetic_mine"}]},
-{"section":"Geallieerden","headline":"Lichte kruiser Belfast zwaar beschadigd door mijn","location":"Firth of Forth, Schotland",
- "body":["Dezelfde dag werd de Britse lichte kruiser HMS Belfast in de Firth of Forth door een magnetische mijn getroffen en zwaar beschadigd.","Het schip was maandenlang buiten dienst en keerde pas in 1942 terug in de vaart."],
- "context":"De dubbele klap op één dag toonde aan hoe gevaarlijk de Duitse mijnenoorlog voor de Britse marine was.",
- "status":"feit","sources":[{"title":"Wikipedia: HMS Belfast (C35)","url":"https://en.wikipedia.org/wiki/HMS_Belfast_(C35)"}]},
-{"section":"Nederland (neutraal tot mei 1940)","headline":"Nederlandse zeelieden betalen prijs voor neutraliteit","location":"Nederland",
- "body":["Nederland is in de oorlog neutraal, maar het leger is sinds eind augustus gemobiliseerd. Op zee bleek neutraliteit geen bescherming: op 18 november liep het Nederlandse passagiersschip Simon Bolivar bij Harwich op een mijn, waarbij ruim tachtig mensen omkwamen."],
- "context":"Nederland werd pas in mei 1940 aangevallen en bezet. Dit bericht beschrijft de situatie vóór de bezetting.",
- "status":"feit","sources":[{"title":"Wikipedia: SS Simon Bolivar","url":"https://en.wikipedia.org/wiki/SS_Simon_Bolivar"}]}
-]}
+{
+  "date": "1939-11-21",
+  "number": 82,
+  "articles": [
+    {
+      "section": "Internationale ontwikkelingen",
+      "headline": "Torpedojager Gipsy vergaat voor de kust van Harwich",
+      "location": "Harwich, Engeland",
+      "body": [
+        "Op 21 november 1939 liep de Britse torpedojager HMS Gipsy voor de Engelse oostkust bij Harwich op een mijn en zonk. Er vielen doden onder de bemanning.",
+        "Het schip werd getroffen door een magnetische mijn, een nieuw wapen dat tot ontploffing komt door het magnetisch veld van een voorbijvarend stalen schip. Ook koopvaardijschepen uit neutrale landen zijn de afgelopen weken het slachtoffer geworden."
+      ],
+      "context": "Het is de periode van de 'Phoney War': aan het westfront wordt nauwelijks gevochten, maar op zee vallen wel degelijk slachtoffers. Enkele dagen later, op 23 november, werd bij Shoeburyness een niet-ontplofte magnetische mijn geborgen, waarmee de Britten tegenmaatregelen konden ontwikkelen.",
+      "status": "feit",
+      "sources": [
+        {
+          "title": "Wikipedia: HMS Gipsy (H63)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Gipsy_(H63)"
+        },
+        {
+          "title": "Wikipedia: Magnetic mine",
+          "url": "https://en.wikipedia.org/wiki/Magnetic_mine"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "Lichte kruiser Belfast zwaar beschadigd door mijn",
+      "location": "Firth of Forth, Schotland",
+      "body": [
+        "Dezelfde dag werd de Britse lichte kruiser HMS Belfast in de Firth of Forth door een magnetische mijn getroffen en zwaar beschadigd.",
+        "Het schip was maandenlang buiten dienst en keerde pas in 1942 terug in de vaart."
+      ],
+      "context": "De dubbele klap op één dag toonde aan hoe gevaarlijk de Duitse mijnenoorlog voor de Britse marine was.",
+      "status": "feit",
+      "sources": [
+        {
+          "title": "Wikipedia: HMS Belfast (C35)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Belfast_(C35)"
+        }
+      ]
+    },
+    {
+      "section": "Nederland (neutraal tot mei 1940)",
+      "headline": "Nederlandse zeelieden betalen prijs voor neutraliteit",
+      "location": "Nederland",
+      "body": [
+        "Nederland is in de oorlog neutraal, maar het leger is sinds eind augustus gemobiliseerd. Op zee bleek neutraliteit geen bescherming: op 18 november liep het Nederlandse passagiersschip Simon Bolivar bij Harwich op een mijn, waarbij ruim tachtig mensen omkwamen."
+      ],
+      "context": "Nederland werd pas in mei 1940 aangevallen en bezet. Dit bericht beschrijft de situatie vóór de bezetting.",
+      "status": "feit",
+      "sources": [
+        {
+          "title": "Wikipedia: SS Simon Bolivar",
+          "url": "https://en.wikipedia.org/wiki/SS_Simon_Bolivar"
+        }
+      ]
+    }
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/London_November_2013-14a.jpg/960px-London_November_2013-14a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:London_November_2013-14a.jpg",
+    "about": "HMS Belfast",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "2013-11-28 10:32:23",
+    "caption": "HMS Belfast (C35), Londen",
+    "description_original": "HMS Belfast (C35), London"
+  }
+}

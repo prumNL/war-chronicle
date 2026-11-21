@@ -90,5 +90,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lublin_Panorama.jpg/960px-Lublin_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lublin_Panorama.jpg",
+    "about": "Lublin",
+    "credit": "Kanion",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2024-07-19 19:28:07",
+    "caption": "Panorama Lublina",
+    "description_original": "Panorama Lublina"
+  }
 }

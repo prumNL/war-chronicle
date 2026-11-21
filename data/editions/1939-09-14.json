@@ -71,5 +71,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/HMS_Ark_Royal_h79167.jpg/960px-HMS_Ark_Royal_h79167.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:HMS_Ark_Royal_h79167.jpg",
+    "about": "HMS Ark Royal (91)",
+    "credit": "US Navy",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "circa 1939date QS:P,+1939-00-00T00:00:00Z/9,P1480,Q5727902",
+    "caption": "Het Britse vliegdekschip HMS Ark Royal (91) fotografeerde circa 1939.",
+    "description_original": "The British Royal Navy aircraft carrier HMS Ark Royal (91) photographed circa 1939. A Fairey Swordfish aircraft is taking off as another approaches from astern. Two are visible in the background."
+  }
 }

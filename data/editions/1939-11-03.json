@@ -48,5 +48,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Smedasundet_-_Haugesund%2C_Norway_2021-08-05_%2802%29.jpg/960px-Smedasundet_-_Haugesund%2C_Norway_2021-08-05_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Smedasundet_-_Haugesund,_Norway_2021-08-05_(02).jpg",
+    "about": "Haugesund",
+    "credit": "Ryan Hodnett",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2021-08-05 19:23",
+    "caption": "Smedasundet bekeken vanuit Risøy bru in Haugesund, Noorwegen.",
+    "description_original": "Smedasundet viewed from Risøy bru in Haugesund, Norway."
+  }
 }

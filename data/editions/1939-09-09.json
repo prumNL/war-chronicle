@@ -71,5 +71,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg/960px-Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg",
+    "about": "Łódź",
+    "credit": "Michał Tomczak",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2021-09-13 18:32:10",
+    "caption": "Katedralna, Kościół Zesłania Ducha Świętego w Łodzi",
+    "description_original": "Katedralna, Kościół Zesłania Ducha Świętego w Łodzi"
+  }
 }

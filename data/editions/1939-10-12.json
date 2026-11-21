@@ -48,5 +48,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Krakow_Rynek_Glowny_panorama_2.jpg/960px-Krakow_Rynek_Glowny_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Krakow_Rynek_Glowny_panorama_2.jpg",
+    "about": "Kraków",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "Taken on 21 August 2009, 16:10:15",
+    "caption": "Kraków - Grote Marktplein",
+    "description_original": "Kraków - Main Market Square"
+  }
 }

@@ -109,5 +109,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Thames_Estuary_and_Wind_Farms_from_Space_NASA.jpg/960px-Thames_Estuary_and_Wind_Farms_from_Space_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Thames_Estuary_and_Wind_Farms_from_Space_NASA.jpg",
+    "about": "Thames Estuary",
+    "credit": "Operational Land Imager",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "2013-04-28",
+    "caption": "Thames Estuary en Wind Farms van Space NASA.",
+    "description_original": "Thames Estuary and Wind Farms from Space NASA. Windfarms visible in the image are: London Array, Thanet Wind Farm, Kentish Flats Wind Farm and Gunfleet Sands Wind Farm."
+  }
 }

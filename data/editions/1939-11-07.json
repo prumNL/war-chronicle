@@ -71,5 +71,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/960px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Wilhelmina_of_the_Netherlands_in_1936.jpg",
+    "about": "Wilhelmina of the Netherlands",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1936",
+    "caption": "Beschrijving Staatssportret van koningin Wilhelmina, aangeboden door de vereniging 'Hou en Trouw' ter gelegenheid van het 125-jarige bestaan van de Kamer van Koophandel van Fabrieken voor Amsterdam op 1 mei 1936 Techniek",
+    "description_original": "Beschrijving Staatsieportret van koningin Wilhelmina, aangeboden door de vereniging 'Hou en Trouw' ter gelegenheid van het 125-jarig bestaan van de Kamer van Koophandel van Fabrieken voor Amsterdam op 1 mei 1936 Techniek: reproductie in rasterdiepdruk van een kooldruk met enig wit gehoogd. Documenttype foto Vervaardiger Onbekend Anoniem Collectie Collectie Stadsarchief Amsterdam: foto-afdrukken Da"
+  }
 }

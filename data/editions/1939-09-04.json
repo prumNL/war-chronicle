@@ -117,5 +117,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/960px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
+    "about": "Częstochowa",
+    "credit": "Jerzy Szota",
+    "license": "CC BY-SA 3.0 pl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "date": "2013-09-26 12:56:18",
+    "caption": "Częstochowa, zespółklasztorny paulinów na Jasnej Górze",
+    "description_original": "Częstochowa, zespół klasztorny paulinów na Jasnej Górze"
+  }
 }

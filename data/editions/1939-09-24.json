@@ -90,5 +90,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Carl_Laemmle_holding_an_Oscar_trophy%2C_1930_Retouched.jpg/960px-Carl_Laemmle_holding_an_Oscar_trophy%2C_1930_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Carl_Laemmle_holding_an_Oscar_trophy,_1930_Retouched.jpg",
+    "about": "Carl Laemmle",
+    "credit": "Los Angeles Times",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1930-11-06",
+    "caption": "Carl Laemmle met de Oscartrofee in 1930, waarschijnlijk voor All Quiet aan het Westfront, geproduceerd door zijn zoon Carl Laemmle Jr. op Universal Pictures",
+    "description_original": "Carl Laemmle holding the Oscar trophy in 1930, probably for All Quiet on the Western Front, produced by his son Carl Laemmle Jr. on Universal Pictures"
+  }
 }

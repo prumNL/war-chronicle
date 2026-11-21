@@ -48,5 +48,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Raekoja_plats_at_night.jpg/960px-Raekoja_plats_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Raekoja_plats_at_night.jpg",
+    "about": "Tallinn",
+    "credit": "Jorge Franganillo",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "date": "2019-04-20 21:27:14",
+    "caption": "Uitzicht op Raekoja plats, Tallinn, Estland",
+    "description_original": "A view of Raekoja plats, Tallinn, Estonia"
+  }
 }

@@ -90,5 +90,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/MOs810%2C_WG_2024_7_Mazowsze_W-N_%28Ostr%C3%B3w_Mazowiecka%2C_town_hall%29.jpg/960px-MOs810%2C_WG_2024_7_Mazowsze_W-N_%28Ostr%C3%B3w_Mazowiecka%2C_town_hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:MOs810,_WG_2024_7_Mazowsze_W-N_(Ostr%C3%B3w_Mazowiecka,_town_hall).jpg",
+    "about": "Ostrów Mazowiecka",
+    "credit": "MOs810",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "date": "2024-03-03 14:41:47",
+    "caption": "Ratusz miejski w Ostrowi Mazowieckiej.",
+    "description_original": "Ratusz miejski w Ostrowi Mazowieckiej."
+  }
 }

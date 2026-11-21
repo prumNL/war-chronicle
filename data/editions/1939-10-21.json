@@ -71,5 +71,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Krobia_ratusz_01.JPG/960px-Krobia_ratusz_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Krobia_ratusz_01.JPG",
+    "about": "Krobia",
+    "credit": "Dawid Galus",
+    "license": "CC BY-SA 3.0 pl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "date": "2013-08-15 15:51:57",
+    "caption": "Krobia, ratusz, 1795, XIX",
+    "description_original": "Krobia, ratusz, 1795, XIX"
+  }
 }

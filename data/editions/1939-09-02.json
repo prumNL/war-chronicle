@@ -113,5 +113,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/SM_O%C5%82awa_PlacZamkowy15_%2811%29.jpg/960px-SM_O%C5%82awa_PlacZamkowy15_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:SM_O%C5%82awa_PlacZamkowy15_(11).jpg",
+    "about": "Oława",
+    "credit": "Sławomir Milejski",
+    "license": "CC BY-SA 3.0 pl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "date": "2013-04-21 14:49:13",
+    "caption": "Oława, zamek, 2 poł.",
+    "description_original": "Oława, zamek, 2 poł. XVII"
+  }
 }

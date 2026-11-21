@@ -25,5 +25,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jagiellonian_University_Collegium_Novum%2C_1882_designed_Feliks_Ksi%C4%99%C5%BCarski%2C_24_Go%C5%82%C4%99bia_Street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/960px-Jagiellonian_University_Collegium_Novum%2C_1882_designed_Feliks_Ksi%C4%99%C5%BCarski%2C_24_Go%C5%82%C4%99bia_Street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jagiellonian_University_Collegium_Novum,_1882_designed_Feliks_Ksi%C4%99%C5%BCarski,_24_Go%C5%82%C4%99bia_Street,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+    "about": "Sonderaktion Krakau",
+    "credit": "Jeremiah Z. Cockroach",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2025-10-08",
+    "caption": "Jagiellonian University Collegium Novum, 1882 ontwierp Feliks Księżarski, 24 Gołębia Street, Old Town, Kraków, Polen",
+    "description_original": "Jagiellonian University Collegium Novum, 1882 designed Feliks Księżarski, 24 Gołębia Street, Old Town, Kraków, Poland"
+  }
 }

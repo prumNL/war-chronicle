@@ -67,5 +67,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/A_draught_of_the_Goodwin_Sands_Pl.XXII_P169_RMG_A8031-D.tiff/lossy-page1-960px-A_draught_of_the_Goodwin_Sands_Pl.XXII_P169_RMG_A8031-D.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:A_draught_of_the_Goodwin_Sands_Pl.XXII_P169_RMG_A8031-D.tiff",
+    "about": "Goodwin Sands",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "1750date QS:P571,+1750-00-00T00:00:00Z/9",
+    "caption": "Een tocht van de Goodwin Sands Pl.XXII P169Schaal: 1:125.000 (bar).",
+    "description_original": "A draught of the Goodwin Sands Pl.XXII P169Scale: 1:125,000 (bar). Printed chart of the North Sea, the Goodwin Sands. Ungraduated chart. Diagrams of prominent landmarks and ships. Edge mounted Chart of the Good win Sands"
+  }
 }

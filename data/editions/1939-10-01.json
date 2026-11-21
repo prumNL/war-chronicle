@@ -109,5 +109,16 @@
         }
       ]
     }
-  ]
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/960px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+    "about": "Winston Churchill",
+    "credit": "Flickr: Sir Winston Churchill",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "30 December 1941",
+    "caption": "Karsh noemde deze foto \"The Roaring Lion\" bij de Wayback Machine",
+    "description_original": "Karsh called this picture \"The Roaring Lion\" at the Wayback Machine"
+  }
 }
