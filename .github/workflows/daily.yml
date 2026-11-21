@@ -1,0 +1,57 @@
+name: Dagelijkse editie
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+    inputs:
+      van:
+        description: "Eerste historische datum JJJJ-MM-DD (leeg = vandaag min 87 jaar)"
+        required: false
+      tot:
+        description: "Laatste datum JJJJ-MM-DD (leeg = alleen de eerste datum)"
+        required: false
+      overschrijven:
+        description: "Bestaande edities overschrijven? Typ ja (anders blijven ze staan)"
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: editie
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.local/share/argos-translate
+          key: argos-en-nl
+      - run: pip install requests beautifulsoup4 argostranslate
+      - name: Maak de editie(s)
+        env:
+          VAN: ${{ inputs.van }}
+          TOT: ${{ inputs.tot }}
+          FORCE: ${{ inputs.overschrijven }}
+        run: python scripts/build_edition.py "$VAN" "$TOT"
+      - name: Sla op en publiceer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "war-chronicle-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "Geen wijzigingen."; exit 0; fi
+          git commit -m "Nieuwe editie(s)"
+          git pull --rebase
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
