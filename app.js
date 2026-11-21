@@ -27,6 +27,17 @@ function text(a){
 function article(a){
   return `<article><p class="sec">${esc(a.section)}</p><h3>${esc(a.headline)}</h3>${text(a)}${foot(a)}</article>`;
 }
+function renderPhoto(p){
+  const f=document.querySelector('.photo');
+  if(!p||!String(p.url).startsWith('https://upload.wikimedia.org/')){f.hidden=true;return;}
+  f.hidden=false;
+  const ok=u=>String(u||'').startsWith('https://');
+  const lic=ok(p.license_url)?`<a href="${esc(p.license_url)}" rel="noopener" target="_blank">${esc(p.license)}</a>`:esc(p.license);
+  const page=ok(p.page)?`<a href="${esc(p.page)}" rel="noopener" target="_blank">Wikimedia Commons</a>`:'Wikimedia Commons';
+  f.innerHTML=`<img src="${esc(p.url)}" alt="${esc('Illustratiefoto: '+p.about)}" loading="lazy" style="display:block;width:100%;max-height:30rem;object-fit:cover;filter:grayscale(1) sepia(.3) contrast(1.05)">
+  <figcaption style="padding:.5rem .8rem;background:var(--paper)"><strong>Foto van de dag.</strong> ${esc(p.caption||p.about)}<br>
+  <span class="meta">Illustratiefoto bij het bericht over ${esc(p.about)}; de opname hoeft niet van deze dag te zijn. Foto: ${esc(p.credit||'onbekend')}, ${lic}, via ${page}.${p.date?' Datering volgens Commons: '+esc(p.date)+'.':''}</span></figcaption>`;
+}
 function renderEdition(e,notice){
   $('#edNo').textContent=`Editie nr. ${e.number}`;
   $('#edDate').textContent=fmt(e.date);
@@ -36,6 +47,7 @@ function renderEdition(e,notice){
   $('#lead').innerHTML=lead?`<div class="lead"><p class="sec">${esc(lead.section)}</p><h2>${esc(lead.headline)}</h2>
    <div class="body">${text(lead)}</div>${foot(lead)}</div>`:'';
   $('#more').innerHTML=rest.map(article).join('');
+  renderPhoto(e.photo);
 }
 function renderArchive(items){
   const q=$('#q').value.trim().toLowerCase();
