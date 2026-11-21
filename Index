@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The War Chronicle – 87 Years Behind</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="mast">
+  <p class="tagline">87 Years Behind</p>
+  <h1>The War Chronicle</h1>
+  <div class="dateline"><span id="edNo"></span><span id="edDate"></span><span>Voorbeeldeditie</span></div>
+  <nav><a href="#" id="navFront">Voorpagina</a><a href="#archief" id="navArch">Archief</a></nav>
+</header>
+<main>
+  <section id="front">
+    <p id="notice" class="notice" hidden></p>
+    <div id="lead"></div>
+    <div id="more" class="cols"></div>
+    <figure class="photo"><div>Foto van de dag volgt in fase 3, met bron en licentie uit Wikimedia Commons.</div></figure>
+  </section>
+  <section id="archief" hidden>
+    <h2>Archief</h2>
+    <div class="tools">
+      <label>Ga naar datum <input type="date" id="jump" min="1939-09-01" max="1945-09-02"></label>
+      <label>Zoeken <input type="search" id="q" placeholder="titel, land of onderwerp"></label>
+    </div>
+    <ul id="list" class="archive"></ul>
+  </section>
+</main>
+<footer>Historische inhoud met bronvermelding. Feiten, reconstructies en onzekerheden zijn per bericht gemarkeerd.</footer>
+<script src="app.js"></script>
+</body>
+</html>
