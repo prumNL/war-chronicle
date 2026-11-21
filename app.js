@@ -31,6 +31,7 @@ function renderEdition(e,notice){
   $('#edNo').textContent=`Editie nr. ${e.number}`;
   $('#edDate').textContent=fmt(e.date);
   const n=$('#notice');n.hidden=!notice;n.textContent=notice||'';
+  document.querySelector('.dateline span:last-child').textContent=(e.articles[0]&&e.articles[0].auto)?'Automatisch samengesteld uit open bronnen':'Voorbeeldeditie';
   const [lead,...rest]=e.articles;
   $('#lead').innerHTML=lead?`<div class="lead"><p class="sec">${esc(lead.section)}</p><h2>${esc(lead.headline)}</h2>
    <div class="body">${text(lead)}</div>${foot(lead)}</div>`:'';
