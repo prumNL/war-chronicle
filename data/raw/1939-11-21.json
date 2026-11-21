@@ -1,0 +1,76 @@
+{
+  "date": "1939-11-21",
+  "edition_number": 82,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-21T13:57:05+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The British government declared a blockade of German exports in reprisal for numerous incidents at sea such as the sinking of the Athenia and the Simon Bolivar. \"I may remind the House that in the last war, as a measure of justified reprisal for submarine attacks on merchant ships, exports of German origin or ownership were made subject to seizure on the high seas\", Prime Minister Neville Chamberlain explained in the House of Commons. \"The many violations of international law and the ruthless brutality of German methods have decided us to follow a similar course now, and an Order-in-Council will shortly be issued giving effect to this decision.\"",
+      "links": [
+        {
+          "title": "Blockade",
+          "url": "https://en.wikipedia.org/wiki/Blockade"
+        },
+        {
+          "title": "SS Athenia (1922)",
+          "url": "https://en.wikipedia.org/wiki/SS_Athenia_(1922)"
+        },
+        {
+          "title": "Neville Chamberlain",
+          "url": "https://en.wikipedia.org/wiki/Neville_Chamberlain"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British destroyer HMS Gipsy struck a mine outside Harwich and sank with the loss of 30 crew.",
+      "links": [
+        {
+          "title": "HMS Gipsy (H63)",
+          "url": "https://en.wikipedia.org/wiki/HMS_Gipsy_(H63)"
+        },
+        {
+          "title": "Harwich",
+          "url": "https://en.wikipedia.org/wiki/Harwich"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Antanas Merkys became Prime Minister of Lithuania.",
+      "links": [
+        {
+          "title": "Antanas Merkys",
+          "url": "https://en.wikipedia.org/wiki/Antanas_Merkys"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "German submarine U-55 was commissioned.",
+      "links": [
+        {
+          "title": "German submarine U-55 (1939)",
+          "url": "https://en.wikipedia.org/wiki/German_submarine_U-55_(1939)"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: Émile Paul Amable Guépratte, 83, French admiral",
+      "links": [
+        {
+          "title": "Émile Paul Amable Guépratte",
+          "url": "https://en.wikipedia.org/wiki/%C3%89mile_Paul_Amable_Gu%C3%A9pratte"
+        }
+      ]
+    }
+  ]
+}
