@@ -1,0 +1,34 @@
+name: Haal ruwe dag op
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Historische datum JJJJ-MM-DD (leeg laten = vandaag min 87 jaar)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - name: Haal de dag op
+        env:
+          DAY: ${{ inputs.date }}
+        run: python scripts/fetch_day.py "$DAY"
+      - name: Sla het resultaat op
+        env:
+          DAY: ${{ inputs.date }}
+        run: |
+          git config user.name "war-chronicle-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/raw
+          git diff --cached --quiet || git commit -m "Ruwe data ${DAY:-van vandaag}"
+          git push
