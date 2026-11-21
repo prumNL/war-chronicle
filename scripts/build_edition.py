@@ -34,7 +34,10 @@ SECTIONS = [
     ("Pacific", r"\b(Japan\w*|China|Chinese|Pacific|Philippines|Manchuria|Nanning|Guangxi|Pearl Harbor)\b"),
     ("Noord-Afrika en Italië", r"\b(Italy|Italian|Libya|Egypt|Mussolini|Africa\w*)\b"),
     ("Westfront en Oostfront", r"\b(Soviet|Red Army|Finland|Finnish|Winter War|Western Front|Maginot|Gamelin|Wehrmacht)\b"),
-    ("Politiek en diplomatie", r"\b(Prime Minister|Parliament|House of Commons|government|ambassador|diplomat\w*|treaty|pact|mediation|Chancellor|President|blockade)\b"),
+    ("Politiek en diplomatie", r"\b(Prime Minister|Parliament|House of Commons|ambassador|diplomat\w*|treaty|pact|mediation|Chancellor|President|blockade|cabinet|Royal Assent|Official Secrets)\b"),
+]
+# Bij deze twee wint de eerstgenoemde partij in de zin (wie doet iets, wie ondergaat het)
+SIDES = [
     ("Duitsland en de Asmogendheden", r"\b(German\w*|Nazi\w*|Hitler|Reich|Gestapo|Luftwaffe|U-\d+)\b"),
     ("Geallieerden", r"\b(British|Britain|French|France|Royal Navy|RAF|HMS|Allied|Chamberlain|Churchill|Polish|Poland)\b"),
 ]
@@ -46,7 +49,7 @@ WAR_WORDS = re.compile(
     r"mine[sd]?|torpedo\w*|offensive|arrest\w*|deport\w*|blockade|Hitler|Churchill|Chamberlain|Stalin|Roosevelt|"
     r"army|navy|fleet|destroyer|cruiser|submarine|U-\d+|German\w*|British|Soviet|Polish|Dutch|French|Japan\w*|"
     r"war|troops|forces|mobili[sz]\w*|ghetto|Jews|Jewish|concentration camp|resistance|government|treaty|"
-    r"ultimatum|negotiations|mediation|directive|crew|lives)\b", re.I)
+    r"ultimatum|negotiations|mediation|directive|crew|lives|Royal Assent|Official Secrets|propaganda|evacuat\w*|rationing|blackout|espionage|spy|neutral\w*)\b", re.I)
 NOT_WAR = re.compile(r"\b(film|comics?|Heisman|Opry|baseball|football|basketball|stadium|married actress|Flash Comics)\b", re.I)
 CASUALTIES = re.compile(r"\b\d[\d,]*\s+(people|crew|lives|killed|died|Poles|Jews|Czechs|civilians|soldiers)\b", re.I)
 GENERIC_CONTEXT = {"Germany", "Nazi_Germany", "United_Kingdom", "France", "Poland", "Soviet_Union", "Netherlands",
@@ -64,7 +67,8 @@ def section_of(text):
     for name, rx in SECTIONS:
         if re.search(rx, text, re.I):
             return name
-    return DEFAULT_SECTION
+    hits = [(m.start(), name) for name, rx in SIDES if (m := re.search(rx, text, re.I))]
+    return min(hits)[1] if hits else DEFAULT_SECTION
 
 
 # ---- vertalen -----------------------------------------------------------------------------
@@ -107,7 +111,7 @@ def summary(url):
         if r.status_code != 200:
             return None
         j = r.json()
-        if j.get("type") != "standard" or len(j.get("extract", "")) < 40:
+        if j.get("type") != "standard" or len(j.get("extract", "")) < 40 or "==" in j.get("extract", ""):
             return None
         sentences = re.split(r'(?<=[.!?])\s+(?=[A-Z])', j["extract"])
         return " ".join(sentences[:2]), j.get("title", slug.replace("_", " "))
@@ -136,11 +140,27 @@ def get_raw(d):
 
 
 # ---- editie bouwen ------------------------------------------------------------------------
-def headline(body):
-    first = re.split(r"(?<=[.!?])\s(?=[A-Z\"“])", body.strip())[0].rstrip(".!? ")
-    if len(first) > 95:
-        first = first[:95].rsplit(" ", 1)[0] + "…"
-    return first[:1].upper() + first[1:]
+STOP = {"de", "het", "een", "van", "door", "in", "op", "met", "en", "die", "dat", "ten", "tot", "aan",
+        "voor", "bij", "naar", "uit", "om", "te", "over", "zijn", "werd", "werden"}
+
+
+def _cap(t):
+    return t[:1].upper() + t[1:]
+
+
+def headline(body, limit=90):
+    first = re.split(r'(?<=[.!?])\s(?=[A-Z"“])', body.strip())[0].rstrip(".!? ")
+    if len(first) <= limit:
+        return _cap(first)
+    cut = first[:limit]
+    for sep in (", ", "; "):
+        i = cut.rfind(sep)
+        if i >= 40:
+            return _cap(cut[:i])
+    words = cut.rsplit(" ", 1)[0].split()
+    while words and words[-1].lower().strip(",") in STOP:
+        words.pop()
+    return _cap(" ".join(words)) + "…"
 
 
 def build(raw, translate):
