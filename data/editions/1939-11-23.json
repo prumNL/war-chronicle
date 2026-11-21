@@ -3,7 +3,7 @@
   "number": 84,
   "articles": [
     {
-      "section": "Duitsland en de Asmogendheden",
+      "section": "Geallieerden",
       "headline": "De Britse gewapende handelskruiser HMS Rawalpindi werd tot zinken gebracht door Duitse…",
       "location": "",
       "body": [
@@ -26,8 +26,8 @@
       ]
     },
     {
-      "section": "Politiek en diplomatie",
-      "headline": "De Duitse autoriteiten bevalen alle Joden boven de leeftijd van tien jaar die in de algemene…",
+      "section": "Duitsland en de Asmogendheden",
+      "headline": "De Duitse autoriteiten bevalen alle Joden boven de leeftijd van tien jaar…",
       "location": "",
       "body": [
         "De Duitse autoriteiten bevalen alle Joden boven de leeftijd van tien jaar die in de algemene regering woonden, witte armbanden te dragen met een Davidster."
@@ -45,6 +45,29 @@
         {
           "title": "Wikipedia: General Government (CC BY-SA 4.0)",
           "url": "https://en.wikipedia.org/wiki/General_Government"
+        }
+      ]
+    },
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "De Official Secrets Act 1939 ontving Royal Assent in het Verenigd Koninkrijk",
+      "location": "",
+      "body": [
+        "De Official Secrets Act 1939 ontving Royal Assent in het Verenigd Koninkrijk, waarbij de wet van 1920 werd herzien."
+      ],
+      "context": "De Official Secrets Act 1939 was een akte van het parlement van het Verenigd Koninkrijk. Het heeft een nieuw artikel 6 vervangen in de Official Secrets Act 1920, die het toepassingsgebied van dat delict beperkt tot strafbare feiten krachtens artikel 1 van de Official Secrets Act 1911.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Official Secrets Act 1939 received Royal Assent in the United Kingdom, revising the Act of 1920.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Official Secrets Act 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Official_Secrets_Act_1939"
         }
       ]
     }
