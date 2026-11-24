@@ -1,0 +1,82 @@
+{
+  "date": "1939-11-24",
+  "number": 85,
+  "articles": [
+    {
+      "section": "Pacific",
+      "headline": "De Japanse 5e Divisie heeft Nanning gevangen",
+      "location": "",
+      "body": [
+        "De Japanse 5e Divisie heeft Nanning gevangen."
+      ],
+      "context": "De 5e divisie was een infanteriedivisie van het Japanse keizerlijke leger. Zijn roepnaam was de Koi (Carp) Divisie .",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "The Japanese 5th Division captured Nanning.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: 5th Division (Imperial Japanese Army) (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/5th_Division_(Imperial_Japanese_Army)"
+        }
+      ]
+    },
+    {
+      "section": "Geallieerden",
+      "headline": "Imperial Airways en British Airways Ltd. fuseerden tot British Overseas Airways…",
+      "location": "",
+      "body": [
+        "Imperial Airways en British Airways Ltd. fuseerden tot British Overseas Airways Corporation."
+      ],
+      "context": "Imperial Airways was een Britse commerciële langeafstandsluchtvaartmaatschappij die actief was van 1924 tot 1939 en voornamelijk dienst deed aan de Britse Rijksroutes naar Zuid-Afrika, India, Australië en het Verre Oosten, waaronder Malaya en Hong Kong. Passagiers waren typisch zakenlieden of koloniale bestuurders, en de meeste vluchten vervoerden ongeveer 20 passagiers of minder.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Imperial Airways and British Airways Ltd. merged to form British Overseas Airways Corporation.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Imperial Airways (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Imperial_Airways"
+        }
+      ]
+    },
+    {
+      "section": "Overleden",
+      "headline": "Overleden op deze dag",
+      "location": "",
+      "body": [
+        "John Harron (36), Amerikaanse acteur (spinale meningitis)"
+      ],
+      "context": "",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Died: John Harron, 36, American actor (spinal meningitis)",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        }
+      ]
+    }
+  ],
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hiroshima_Chindai_Headquarters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Hiroshima_Chindai_Headquarters.JPG",
+    "about": "5th Division (Imperial Japanese Army)",
+    "credit": "Imperial Household Ministry(present-day \"Imperial Household Agency\")",
+    "license": "Public domain",
+    "license_url": "",
+    "date": "Meiji era(1868-1912)",
+    "caption": "Hiroshima Chindai(Garrison) Hoofdkantoor",
+    "description_original": "Hiroshima Chindai(Garrison) Headquarters"
+  }
+}

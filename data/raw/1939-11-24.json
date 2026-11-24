@@ -1,0 +1,56 @@
+{
+  "date": "1939-11-24",
+  "edition_number": 85,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-24T01:27:07+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "The Japanese 5th Division captured Nanning.",
+      "links": [
+        {
+          "title": "5th Division (Imperial Japanese Army)",
+          "url": "https://en.wikipedia.org/wiki/5th_Division_(Imperial_Japanese_Army)"
+        },
+        {
+          "title": "Nanning",
+          "url": "https://en.wikipedia.org/wiki/Nanning"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Imperial Airways and British Airways Ltd. merged to form British Overseas Airways Corporation.",
+      "links": [
+        {
+          "title": "Imperial Airways",
+          "url": "https://en.wikipedia.org/wiki/Imperial_Airways"
+        },
+        {
+          "title": "British Airways Ltd (1935–39)",
+          "url": "https://en.wikipedia.org/wiki/British_Airways_Ltd_(1935%E2%80%9339)"
+        },
+        {
+          "title": "British Overseas Airways Corporation",
+          "url": "https://en.wikipedia.org/wiki/British_Overseas_Airways_Corporation"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: John Harron, 36, American actor (spinal meningitis)",
+      "links": [
+        {
+          "title": "John Harron",
+          "url": "https://en.wikipedia.org/wiki/John_Harron"
+        }
+      ]
+    }
+  ]
+}
