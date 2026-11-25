@@ -1,0 +1,68 @@
+{
+  "date": "1939-11-25",
+  "edition_number": 86,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-25T01:31:07+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "International Olympic Committee President Henri de Baillet-Latour announced the cancellation of the 1940 Winter Olympics, which would have been held in Garmisch-Partenkirchen, Germany.",
+      "links": [
+        {
+          "title": "International Olympic Committee",
+          "url": "https://en.wikipedia.org/wiki/International_Olympic_Committee"
+        },
+        {
+          "title": "Henri de Baillet-Latour",
+          "url": "https://en.wikipedia.org/wiki/Henri_de_Baillet-Latour"
+        },
+        {
+          "title": "1940 Winter Olympics",
+          "url": "https://en.wikipedia.org/wiki/1940_Winter_Olympics"
+        },
+        {
+          "title": "Garmisch-Partenkirchen",
+          "url": "https://en.wikipedia.org/wiki/Garmisch-Partenkirchen"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Bill Monroe made his debut performance on the Grand Ole Opry with a rendition of Muleskinner Blues.",
+      "links": [
+        {
+          "title": "Bill Monroe",
+          "url": "https://en.wikipedia.org/wiki/Bill_Monroe"
+        },
+        {
+          "title": "Grand Ole Opry",
+          "url": "https://en.wikipedia.org/wiki/Grand_Ole_Opry"
+        },
+        {
+          "title": "Muleskinner Blues",
+          "url": "https://en.wikipedia.org/wiki/Muleskinner_Blues"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Shelagh Delaney, dramatist and screenwriter, in Broughton, Salford, England (d. 2011)",
+      "links": [
+        {
+          "title": "Shelagh Delaney",
+          "url": "https://en.wikipedia.org/wiki/Shelagh_Delaney"
+        },
+        {
+          "title": "Broughton, Salford",
+          "url": "https://en.wikipedia.org/wiki/Broughton,_Salford"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "1939-11-25",
+  "number": 86,
+  "articles": [
+    {
+      "section": "Politiek en diplomatie",
+      "headline": "Voorzitter van het Internationaal Olympisch Comité Henri de Baillet-Latour kondigde…",
+      "location": "",
+      "body": [
+        "Voorzitter van het Internationaal Olympisch Comité Henri de Baillet-Latour kondigde de annulering aan van de Olympische Winterspelen 1940 die in Garmisch-Partenkirchen, Duitsland zouden zijn gehouden."
+      ],
+      "context": "Het Internationaal Olympisch Comité (IOC) is het internationale, niet-gouvernementele, sportbestuur van de moderne Olympische Spelen. Opgericht in 1894 door Pierre de Coubertin en Demetrios Vikelas, is het gevestigd in Lausanne, Zwitserland.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "International Olympic Committee President Henri de Baillet-Latour announced the cancellation of the 1940 Winter Olympics, which would have been held in Garmisch-Partenkirchen, Germany.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: International Olympic Committee (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/International_Olympic_Committee"
+        }
+      ]
+    }
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Si%C3%A8ge_CIO_2020_%281%29.jpg/960px-Si%C3%A8ge_CIO_2020_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_CIO_2020_(1).jpg",
+    "about": "International Olympic Committee",
+    "credit": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2020-04-18 10:41:46",
+    "caption": "Het hoofdkwartier van de IOC, in Lausanne (Zwitserland).",
+    "description_original": "The IOC headquarters, in Lausanne (Switzerland)."
+  }
+}
