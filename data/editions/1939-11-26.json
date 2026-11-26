@@ -1,0 +1,40 @@
+{
+  "date": "1939-11-26",
+  "number": 87,
+  "articles": [
+    {
+      "section": "Westfront en Oostfront",
+      "headline": "Shelling of Mainila: De Sovjet-Unie voerde een valse vlag operatie door beschieting…",
+      "location": "",
+      "body": [
+        "Shelling of Mainila: De Sovjet-Unie voerde een valse vlag operatie door beschieting van het Russische dorp Mainila bij de Finse grens en de aanval op Finland."
+      ],
+      "context": "De Shelling of Mainila of het Mainila incident was een militair incident op 26 november 1939 waarbij het Rode Leger van de Sovjet-Unie het Russische grensdorp Mainila bij Beloostrov afschilderde. De Sovjet-Unie verklaarde dat de brand afkomstig was van Finland over de nabijgelegen grens en beweerde verlies aan personeel te hebben geleden.",
+      "status": "auto",
+      "auto": true,
+      "translated": true,
+      "original": "Shelling of Mainila: The Soviet Union conducted a false flag operation by shelling the Russian village of Mainila near the Finnish border and blaming the attack on Finland.",
+      "sources": [
+        {
+          "title": "Wikipedia: November 1939 (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008"
+        },
+        {
+          "title": "Wikipedia: Shelling of Mainila (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Shelling_of_Mainila"
+        }
+      ]
+    }
+  ],
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Douglas_A-26C_Invader_435440_Tamiami_26.04.09R.jpg/960px-Douglas_A-26C_Invader_435440_Tamiami_26.04.09R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Douglas_A-26C_Invader_435440_Tamiami_26.04.09R.jpg",
+    "about": "False flag",
+    "credit": "RuthAS",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "date": "2009-04-26",
+    "caption": "Douglas A-26C Invader 44-35440 met valse Cubaanse AF-markeringen op de Wings over Miami Air Museum op Tamiami Airport",
+    "description_original": "Douglas A-26C Invader 44-35440 wearing false Cuban AF markings at the Wings over Miami air museum at Tamiami Airport"
+  }
+}

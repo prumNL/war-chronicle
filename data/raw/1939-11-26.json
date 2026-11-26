@@ -1,0 +1,42 @@
+{
+  "date": "1939-11-26",
+  "edition_number": 87,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-26T01:31:30+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Shelling of Mainila: The Soviet Union conducted a false flag operation by shelling the Russian village of Mainila near the Finnish border and blaming the attack on Finland.",
+      "links": [
+        {
+          "title": "Shelling of Mainila",
+          "url": "https://en.wikipedia.org/wiki/Shelling_of_Mainila"
+        },
+        {
+          "title": "False flag",
+          "url": "https://en.wikipedia.org/wiki/False_flag"
+        }
+      ]
+    },
+    {
+      "kind": "born",
+      "text": "Born: Tina Turner, singer in Nutbush, Tennessee (d. 2023)",
+      "links": [
+        {
+          "title": "Tina Turner",
+          "url": "https://en.wikipedia.org/wiki/Tina_Turner"
+        },
+        {
+          "title": "Nutbush, Tennessee",
+          "url": "https://en.wikipedia.org/wiki/Nutbush,_Tennessee"
+        }
+      ]
+    }
+  ]
+}
