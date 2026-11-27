@@ -1,0 +1,45 @@
+{
+  "date": "1939-11-27",
+  "edition_number": 88,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-27T01:33:48+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Finland denied shelling Mainila and suggested that the Russians had accidentally fired upon their own village in connection with training exercises.",
+      "links": []
+    },
+    {
+      "kind": "born",
+      "text": "Born: Laurent-Désiré Kabila, President of the Democratic Republic of the Congo, in Baudouinville, Belgian Congo (d. 2001); Ulla Strömstedt, actress, in Stockholm, Sweden (d. 1986)",
+      "links": [
+        {
+          "title": "Laurent-Désiré Kabila",
+          "url": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila"
+        },
+        {
+          "title": "Moba, Democratic Republic of the Congo",
+          "url": "https://en.wikipedia.org/wiki/Moba,_Democratic_Republic_of_the_Congo"
+        },
+        {
+          "title": "Belgian Congo",
+          "url": "https://en.wikipedia.org/wiki/Belgian_Congo"
+        },
+        {
+          "title": "Ulla Strömstedt",
+          "url": "https://en.wikipedia.org/wiki/Ulla_Str%C3%B6mstedt"
+        },
+        {
+          "title": "Stockholm",
+          "url": "https://en.wikipedia.org/wiki/Stockholm"
+        }
+      ]
+    }
+  ]
+}
