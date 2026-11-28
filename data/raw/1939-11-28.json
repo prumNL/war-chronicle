@@ -1,0 +1,92 @@
+{
+  "date": "1939-11-28",
+  "edition_number": 89,
+  "source": {
+    "title": "Wikipedia: November 1939",
+    "url": "https://en.wikipedia.org/wiki/November_1939",
+    "permalink": "https://en.wikipedia.org/w/index.php?title=November_1939&oldid=1343205008",
+    "revid": 1343205008,
+    "license": "CC BY-SA 4.0",
+    "fetched": "2026-11-28T01:29:35+00:00"
+  },
+  "events": [
+    {
+      "kind": "event",
+      "text": "Twelve Bristol Blenheims of the Royal Air Force conducted a bombing raid on the German seaplane base at Borkum. Little damage was done but all the British aircraft returned safely.",
+      "links": [
+        {
+          "title": "Bristol Blenheim",
+          "url": "https://en.wikipedia.org/wiki/Bristol_Blenheim"
+        },
+        {
+          "title": "Royal Air Force",
+          "url": "https://en.wikipedia.org/wiki/Royal_Air_Force"
+        },
+        {
+          "title": "Borkum",
+          "url": "https://en.wikipedia.org/wiki/Borkum"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The Soviet Union canceled the Soviet–Finnish Non-Aggression Pact.",
+      "links": [
+        {
+          "title": "Soviet–Finnish Non-Aggression Pact",
+          "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Finnish_Non-Aggression_Pact"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "The British government ceremonially turned over a copy of Magna Carta to the Library of Congress for safekeeping during the war. The 13th century document had been brought to the United States for display during the New York World's Fair and it was deemed too dangerous to ship it back during wartime.",
+      "links": [
+        {
+          "title": "Magna Carta",
+          "url": "https://en.wikipedia.org/wiki/Magna_Carta"
+        },
+        {
+          "title": "Library of Congress",
+          "url": "https://en.wikipedia.org/wiki/Library_of_Congress"
+        },
+        {
+          "title": "1939 New York World's Fair",
+          "url": "https://en.wikipedia.org/wiki/1939_New_York_World%27s_Fair"
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "text": "Nile Kinnick of the University of Iowa won the Heisman Trophy.",
+      "links": [
+        {
+          "title": "Nile Kinnick",
+          "url": "https://en.wikipedia.org/wiki/Nile_Kinnick"
+        },
+        {
+          "title": "University of Iowa",
+          "url": "https://en.wikipedia.org/wiki/University_of_Iowa"
+        },
+        {
+          "title": "Heisman Trophy",
+          "url": "https://en.wikipedia.org/wiki/Heisman_Trophy"
+        }
+      ]
+    },
+    {
+      "kind": "died",
+      "text": "Died: James Naismith, 78, Canadian physical educator and inventor of the sport of basketball",
+      "links": [
+        {
+          "title": "James Naismith",
+          "url": "https://en.wikipedia.org/wiki/James_Naismith"
+        },
+        {
+          "title": "Basketball",
+          "url": "https://en.wikipedia.org/wiki/Basketball"
+        }
+      ]
+    }
+  ]
+}
